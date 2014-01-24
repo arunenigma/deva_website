@@ -1,0 +1,1074 @@
+letter,10,0.05
+whole aspect,poor,0.01
+whole aspect,melancholy,0.01
+whole aspect,grove,0.12
+whole aspect,depressing,0.01
+whole aspect,pines,0.01
+whole aspect,behind,0.01
+poor,pay,0.1
+pay,annuity,0.1
+behind,s'pose,0.07
+behind,told,0.01
+s'pose,help,0.07
+s'pose,truth,0.06
+wolf,lamb,0.04
+value,missing,0.11
+west end,finest,0.01
+west end,ma,0.15
+west end,ah,0.01
+west end,overlook,0.01
+west end,corner-houses,0.01
+west end,imperative,0.13
+west end,grace's,0.01
+west end,age,0.01
+end,certainly,0.02
+end,prove,0.01
+end,finger-marks,0.02
+end,inspected,0.02
+end,"""seems",0.02
+end,queer,0.14
+remember,sullenly,0.11
+remember,speaking,0.11
+remember,someone,0.12
+remember,sure,0.13
+"""no",bring,0.04
+icy coolness,slight clatter,0.02
+icy coolness,friend,0.15
+slight clatter,coolness,0.02
+slight clatter,picked,0.03
+touch,never,0.03
+black steve,o'clock,0.15
+o'clock,warned,0.01
+o'clock,question,0.02
+o'clock,morning,0.02
+o'clock,eleven,0.01
+o'clock,that's,0.01
+arrived,one,0.02
+arrived,showed,0.03
+arrived,travel,0.02
+arrived,agreement,0.02
+arrived,rest,0.02
+arrived,bargain,0.02
+arrived,luckily,0.01
+arrived,drawn,0.02
+arrived,wanted,0.13
+one,death,0.01
+one,connect,0.1
+gone,set,0.12
+gone,"""s'elp",0.12
+grosvenor square,dealing,0.13
+grosvenor square,clear,0.02
+grosvenor square,address,0.16
+grosvenor square,speeding,0.02
+grosvenor square,taken,0.02
+grosvenor square,safer,0.02
+grosvenor square,witness,0.02
+address,cab,0.12
+nothing,serve,0.07
+way sooner,run,0.01
+way sooner,later,0.01
+way sooner,hounds,0.01
+way sooner,tested,0.01
+way sooner,you've,0.13
+way sooner,biting,0.01
+way sooner,feeds,0.15
+masser perkins,warning,0.12
+masser perkins,done,0.01
+masser perkins,done gone think,0.01
+warning,perkins,0.11
+steve,dixie,0.02
+steve,sit,0.01
+steve,hideous,0.01
+steve,"""that's",0.02
+steve,you'll,0.01
+steve,put,0.01
+steve,aren't,0.01
+steve,smell,0.14
+steve,staring,0.01
+rome,pneumonia,0.13
+rome,sorry,0.02
+rome,dead,0.01
+rome,attache,0.01
+servant,honestly,0.06
+say,wished,0.01
+say,dream,0.12
+buy,ready,0.1
+hundred,noticed,0.01
+hundred,top,0.01
+hundred,number,0.11
+hundred,page,0.01
+harrow way,buttin',0.01
+harrow way,intend,0.07
+harrow way,meaning,0.01
+astute person,immediate,0.13
+immediate,person,0.09
+check suit,gray,0.01
+check suit,dressed,0.01
+check suit,flowing,0.01
+check suit,terrific,0.13
+check suit,tie,0.15
+check suit,loud,0.01
+madeira,like,0.11
+madeira,cairo,0.14
+madeira,go,0.13
+madeira,world,0.01
+madeira,round,0.13
+lost,longer,0.06
+gm file archive,adventures,0.17
+gm file archive,rpgnet,0.2
+gm file archive,bbs,0.17
+adventures,file archive site,0.17
+adventures,file archive,0.14
+adventures,file junkies,0.07
+adventures,gm file,0.14
+gm file,archive,0.13
+bbs,junkies,0.1
+bbs,text,0.1
+bbs,adveniure,0.12
+bbs,text file,0.15
+bbs,file,0.1
+bbs,site,0.1
+fault,though,0.07
+fault,frighten,0.09
+fault,confess,0.1
+fault,bullies,0.11
+fault,surprisingly,0.09
+fault,supposing,0.09
+fault,respect,0.09
+isadora klein convey,celebrated,0.16
+isadora klein convey,gather,0.01
+celebrated,convey,0.09
+celebrated,lady,0.14
+represent justice,powers,0.15
+represent justice,feeble,0.14
+appear,empty houses,0.01
+appear,eligible,0.01
+appear,equally,0.01
+appear,houses,0.01
+appear,interested,0.01
+appear,market,0.01
+appear,several,0.12
+appear,empty,0.01
+appear,naturally,0.01
+gar- bage,week,0.01
+gar- bage,income,0.01
+gar- bage,contributed,0.13
+gar- bage,inquisitive,0.13
+gar- bage,cater,0.01
+gar- bage,papers,0.01
+gar- bage,public,0.01
+gar-,bage,0.02
+gar-,paragraphs,0.13
+fibre,lived,0.06
+fibre,intensely,0.1
+splendid,debonair,0.08
+realize,sees,0.01
+realize,point,0.01
+realize,life's,0.01
+realize,ruined,0.11
+realize,ambition,0.01
+realize,view,0.01
+john,lucky,0.01
+john,crowd,0.12
+barney stockdale,idea,0.01
+barney stockdale,promised,0.13
+barney stockdale,since,0.01
+barney stockdale,least,0.01
+barney stockdale,frank,0.01
+barney stockdale,save,0.15
+barney stockdale,employer,0.01
+barney stockdale,wife,0.01
+promised,ment,0.01
+ment,furnished,0.19
+ment,elderly,0.16
+ment,years,0.1
+ment,culture,0.13
+ment,bore,0.11
+ment,mark,0.13
+ment,langdale,0.01
+ment,used,0.17
+ment,received,0.17
+ment,familiar,0.15
+ment,great,0.11
+ment,refine-,0.15
+ment,every,0.24
+ment,services,0.15
+ment,son,0.21
+ment,trifling,0.15
+ment,engaging,0.16
+ment,none,0.1
+ment,name,0.2
+ment,slightly,0.19
+ment,husband,0.15
+langdale,bearing,0.13
+langdale,discreetly,0.14
+langdale,helped,0.15
+langdale,unpleasant surprise,0.18
+langdale,knowledge,0.16
+langdale,scotland,0.03
+langdale,next,0.13
+langdale,unpleasant,0.15
+langdale,surprise,0.16
+langdale,early,0.15
+langdale,met,0.15
+langdale,awaiting,0.13
+langdale,conscious,0.14
+langdale,well,0.2
+langdale,us,0.01
+langdale,occasion,0.15
+scotland,good-after-,0.14
+scotland,arm,0.12
+scotland,halfway,0.12
+scotland,overtaken,0.12
+look,decides,0.13
+look,fist,0.02
+look,knotted,0.02
+look,had,0.02
+look,lump,0.18
+look,interlude,0.01
+look,anyone's,0.01
+look,friend's,0.02
+look,comic,0.02
+look,swung,0.02
+paper,perfect,0.01
+paper,murder,0.01
+paper,insulting,0.01
+paper,intrusion,0.01
+paper,settee,0.01
+paper,rose,0.01
+paper,explain,0.12
+paper,queenly,0.01
+paper,slip,0.01
+paper,holding,0.01
+paper,tall,0.01
+paper,asked,0.01
+finer point,mental,0.13
+finer point,whether,0.01
+finer point,analysis,0.01
+finer point,purely,0.01
+wait,answered,0.08
+wait,means,0.01
+answered,machine,0.06
+answered,cheerfully,0.05
+post-office bank,bury treasure,0.02
+post-office bank,captain,0.15
+bury treasure,remarkable,0.01
+bury treasure,people,0.01
+bury treasure,could,0.01
+bury treasure,sea,0.01
+bury treasure,sea captain,0.02
+bury treasure,post-office,0.01
+bury treasure,wondering,0.01
+bury treasure,nowadays,0.01
+bury treasure,called,0.01
+could,gentleman,0.01
+could,act,0.01
+could,believed,0.08
+could,described,0.01
+humilia- tion,agony,0.15
+humilia- tion,face,0.01
+agony,humilia-,0.02
+agony,heart,0.02
+agony,considerably,0.02
+agony,bleeding,0.02
+agony,sacrifice,0.02
+agony,cuts,0.02
+agony,prepared,0.02
+agony,saw,0.03
+agony,blows,0.02
+humilia-,bled,0.12
+said,rugged,0.01
+said,less,0.02
+said,curious,0.01
+said,foolscap,0.02
+said,pocketbook,0.02
+said,drew,0.01
+said,pomposity,0.13
+said,sense,0.02
+said,sheet,0.02
+"""it's",mistress,0.01
+"""it's",lie,0.01
+"""it's",advice,0.01
+"""it's",message,0.12
+"""good-mornin'",i'll,0.13
+"""good-mornin'",pick,0.11
+blus-,easily,0.01
+blus-,rather,0.01
+blus-,muscular,0.01
+blus-,harmless,0.01
+blus-,baby,0.01
+blus-,foolish,0.01
+blus-,cowed,0.12
+object,money,0.13
+object,exactly,0.1
+object,would,0.12
+object,part,0.13
+twenty-,learned,0.08
+twenty-,years',0.01
+twenty-,lesson,0.01
+twenty-,experience,0.01
+son's,floor,0.14
+son's,littered,0.02
+son's,bundle,0.02
+son's,hand,0.02
+son's,baggage,0.02
+son's,bedside,0.02
+son's,rising,0.01
+son's,partially,0.01
+son's,woke,0.02
+box,flounced,0.1
+box,send,0.01
+home,word,0.01
+home,piecing,0.01
+home,satisfied,0.01
+home,caprice,0.12
+home,ended,0.01
+home,party,0.01
+home,can't,0.02
+sentence,ran,0.09
+sentence,middle,0.08
+wish,trouble,0.1
+wish,explained,0.01
+merci',fiction,0.12
+merci',dame,0.13
+merci',sans,0.12
+merci',dame sans,0.1
+died,born,0.11
+died,hate,0.01
+died,love,0.01
+was,sentiment,0.13
+was,however,0.12
+was,coldly,0.12
+was,immune,0.14
+was,chatty,0.02
+was,seals,0.13
+however,well-worn,0.02
+however,mood,0.02
+however,opposite,0.02
+however,fire,0.01
+however,armchair,0.01
+however,pipe,0.02
+however,mouth,0.02
+however,low,0.01
+however,visitor,0.02
+however,chair,0.02
+however,settled,0.02
+however,side,0.02
+however,curled,0.02
+"""i",celerity,0.01
+"""i",police,0.01
+"""i",kindly,0.01
+"""i",folded,0.01
+"""i",three,0.01
+"""i",scribbled,0.01
+"""i",amazing,0.13
+"""i",simply,0.01
+"""i",words,0.01
+"""i",pass,0.01
+"""i",man,0.01
+police,possession,0.1
+police,sutro,0.01
+police,whistled,0.01
+possession,lawyer,0.02
+three,projections,0.08
+amazing,something,0.01
+were,away,0.01
+were,boys,0.01
+were,rough,0.1
+were,drove,0.01
+were,true,0.01
+quick,instinct,0.01
+quick,woman's,0.12
+strange,happenings,0.13
+bought,new,0.08
+journey,another,0.07
+another,household,0.06
+another,orderly,0.04
+another,establishment,0.06
+another,previous,0.04
+little,owe,0.01
+little,air,0.08
+air,change,0.04
+anyone,known,0.11
+anyone,vitally,0.01
+anyone,alive,0.01
+first-class,amazement,0.13
+first-class,cost,0.14
+first-class,stared,0.12
+agent,ago,0.08
+agent,call,0.08
+got,burglars,0.01
+got,odd,0.11
+experts,need,0.08
+experts,burglary,0.01
+honest business,conceal,0.15
+conceal,business,0.13
+standing,shorter,0.12
+standing,villa,0.01
+standing,drive,0.01
+standing,brought,0.03
+standing,spare,0.01
+standing,acre,0.01
+standing,grassland,0.01
+standing,brick,0.01
+standing,undeveloped,0.01
+standing,railway,0.01
+standing,timber,0.01
+spencer,work,0.01
+spencer,dirty,0.12
+smiling,ruefully,0.06
+clearer,let matters,0.1
+clearer,data,0.14
+let matters,develop,0.01
+let matters,best,0.01
+let,feel,0.01
+let,talk,0.11
+crumpled,lying,0.06
+mr,wire,0.02
+mr,ill,0.02
+mr,leaning,0.02
+mr,yesterday,0.02
+mr,looking,0.02
+mr,good,0.02
+mr,maidservant,0.02
+mr,dear,0.02
+mr,gave,0.02
+mr,entered,0.16
+mr,pale,0.01
+mr,chloroformed,0.03
+mr,care,0.18
+dear,boy,0.09
+dear,plans,0.08
+dear,fit,0.08
+dear,chanced,0.09
+client,desired,0.01
+client,added,0.1
+client,closed,0.01
+take,already,0.06
+take,comes,0.09
+"""still",bulky,0.13
+"""still",exhausted,0.13
+"""still",equal,0.11
+"""still",notebook,0.14
+"""still",tapping,0.11
+"""still",telling,0.12
+"""still",hardly,0.12
+"""still",really,0.13
+languid,hours,0.1
+languid,bow,0.01
+languid,st,0.01
+languid,waking,0.01
+watson,settles,0.01
+watson,agrees,0.12
+did,don't,0.01
+did,they've,0.01
+did,nigger,0.01
+did,much,0.01
+did,seem,0.12
+did,stockdale,0.01
+much,may,0.01
+much,seems,0.01
+much,queer thing,0.01
+much,thing,0.01
+much,steal,0.09
+much,order,0.01
+holborn,leaden,0.01
+holborn,bar,0.01
+holborn,you're,0.01
+holborn,sprung,0.12
+holborn,killing,0.01
+holborn,outside,0.01
+intelligence,wearily,0.1
+intelligence,underrated,0.12
+intelligence,hired,0.12
+agreed,also,0.07
+eyes,fancy,0.05
+chloroform rag,senseless,0.02
+chloroform rag,moment,0.02
+chloroform rag,notion,0.15
+intimacy,nodded,0.1
+intimacy,coquettish,0.09
+intimacy,charming,0.09
+won't,trim,0.02
+won't,damn,0.18
+won't,bit,0.02
+occupation,card,0.07
+exact- ness,turbid,0.15
+exact-,dial,0.12
+exact-,strange swirl,0.17
+exact-,far,0.13
+exact-,ever,0.13
+exact-,ness,0.15
+exact-,marked,0.17
+exact-,depths,0.15
+exact-,eddy,0.13
+exact-,london,0.17
+exact-,surface,0.13
+exact-,swirl,0.13
+exact-,automatic,0.12
+exact-,turbid depths,0.11
+round sum,old,0.01
+round sum,furniture,0.16
+"lady""",dainty,0.01
+"lady""",tools,0.01
+"lady""",meantime,0.01
+"lady""",edged,0.01
+"lady""",cutting,0.01
+"lady""",cautionary,0.11
+"lady""",forever,0.01
+"lady""",wagged,0.01
+"lady""",without,0.01
+"lady""",forefinger,0.01
+cautionary,break,0.01
+break,almost,0.11
+break,woolly,0.09
+break,precipitately,0.08
+break,chuckle,0.1
+break,waiting,0.1
+break,safe,0.1
+break,questioning,0.1
+break,glad,0.1
+break,bolted,0.1
+break,quiet,0.07
+break,ashes,0.1
+break,knocked,0.1
+figure,lonely,0.1
+figure,looked,0.01
+figure,place,0.01
+figure,menacing,0.01
+figure,grim,0.01
+maberley's,note,0.12
+interest,closely,0.07
+closely,examined,0.07
+masser,funny,0.02
+masser,gun,0.02
+masser,pocket,0.16
+masser,"""lookin'",0.02
+masser,clapped,0.02
+think,directory,0.11
+think,haines-johnson,0.16
+think,auctioneer,0.15
+'this,document,0.1
+steel,gentlemen,0.01
+steel,turned,0.1
+steel,velvet,0.01
+negro prize-fighter,hear,0.15
+negro prize-fighter,to-,0.17
+negro prize-fighter,shadow,0.12
+hear,prize-fighter,0.13
+come to-,morrow,0.01
+come to-,lane,0.01
+come to-,evident,0.01
+come to-,negro,0.01
+come to-,quite,0.01
+come to-,high,0.01
+come to-,negro prize-fighter standing,0.01
+come to-,surveillance,0.01
+come to-,hedge,0.01
+"""queer",undoing,0.01
+"""queer",complete,0.01
+"""queer",handed,0.12
+"""queer",embrace,0.01
+"""queer",surely,0.01
+handed,danger,0.01
+handed,attracts,0.01
+handed,danger attracts,0.01
+danger attracts,profession,0.08
+lunatics,always,0.1
+crisis,quicker,0.08
+quicker,drama,0.04
+five,named,0.08
+named,therefore,0.05
+shone,possibly,0.09
+shone,labels,0.01
+shone,link,0.01
+shone,unpacked,0.01
+sent,secret,0.11
+sent,unless,0.11
+sent,hope,0.11
+sent,feelin's,0.14
+gallant boy,affair,0.13
+gallant boy,"""a",0.16
+gallant boy,cynical,0.01
+gallant boy,single,0.02
+gallant boy,month,0.02
+gallant boy,turn,0.15
+gallant boy,fiend,0.02
+offered,cared,0.02
+street club,metropolis,0.15
+street club,receiving-,0.02
+street club,transmitter,0.02
+street club,receiving- station,0.02
+street club,gossip,0.02
+street club,station,0.02
+street club,james's,0.02
+metropolis,short,0.01
+metropolis,club,0.11
+metropolis,find,0.01
+metropolis,walk,0.01
+metropolis,to-morrow,0.01
+whole thing,interruption,0.01
+whole thing,silence,0.01
+whole thing,left,0.09
+left,unusual,0.04
+left,extraordinary,0.05
+development,fresh,0.08
+paid,neglected,0.1
+paid,wretchedly,0.01
+yes,heaven,0.09
+yes,smiled,0.14
+yes,heartless,0.12
+un-,raised,0.01
+un-,malice,0.01
+un-,table,0.01
+un-,sullen,0.01
+un-,angle,0.01
+un-,gleam,0.01
+un-,stealthy,0.11
+un-,smouldering,0.01
+un-,broad,0.01
+un-,dark,0.01
+un-,forward,0.01
+un-,step,0.01
+un-,flattened,0.01
+un-,coming,0.01
+un-,thrust,0.01
+un-,pleasant,0.02
+un-,nose,0.01
+un-,it's,0.02
+stealthy,live,0.01
+live,fibs,0.08
+live,tell fibs,0.05
+live,wicked,0.08
+live,wheezy,0.09
+live,wheezy people,0.05
+hell,"""i'll",0.07
+"""i'll",clearing,0.06
+"""i'll",earn,0.07
+forget,"""i've",0.01
+forget,meet,0.1
+drawing-room,pink,0.01
+drawing-room,gloom,0.13
+drawing-room,nights,0.01
+drawing-room,electric,0.01
+drawing-room,vast,0.01
+drawing-room,occasional,0.01
+drawing-room,wonderful,0.01
+drawing-room,half,0.02
+drawing-room,minute,0.01
+want,offer,0.12
+want,lock,0.01
+want,covet,0.01
+want,state,0.01
+want,openly,0.01
+want,besides,0.01
+want,barrel,0.01
+want,price,0.14
+want,buying,0.01
+want,stock,0.01
+wat-,thoroughly,0.01
+wat-,skin,0.01
+wat-,walked,0.01
+wat-,frightened,0.12
+skin,remarked,0.1
+footman,cards,0.12
+else,failed,0.09
+else,tried,0.01
+see,morose,0.14
+see,brooding,0.01
+see,devel-,0.02
+see,oped,0.01
+see,creature,0.02
+see,moody,0.01
+poker,fireplace,0.13
+poker,wom-,0.23
+poker,mass,0.13
+poker,calcined,0.12
+poker,broke,0.22
+poker,an's,0.23
+poker,ripple,0.13
+poker,laughter,0.13
+poker,must,0.13
+effects,among,0.01
+effects,returned,0.01
+effects,mother,0.1
+entrance,planned,0.09
+going,write,0.09
+going,mention,0.11
+going,consult,0.09
+hoimes,examining,0.01
+hoimes,bustling,0.01
+hoimes,group,0.01
+hoimes,idlers,0.01
+hoimes,introduced,0.01
+hoimes,windows,0.02
+hoimes,couple,0.01
+hoimes,within,0.01
+hoimes,rubicund,0.01
+hoimes,greeted,0.02
+hoimes,beds,0.01
+hoimes,geranium,0.01
+hoimes,constables,0.01
+hoimes,small,0.01
+hoimes,gate,0.13
+hoimes,assembled,0.01
+hoimes,garden,0.02
+within,spirit,0.01
+within,cruel,0.01
+within,blood,0.05
+holmes,reference,0.02
+holmes,imagine,0.02
+holmes,sherlock,0.02
+holmes,human,0.02
+holmes,scandal,0.02
+holmes,occur,0.02
+holmes,langdale pike,0.03
+holmes,incidents,0.2
+holmes,felony,0.01
+holmes,social,0.02
+holmes,day,0.02
+holmes,pike,0.02
+holmes,spent,0.17
+holmes,connection,0.03
+holmes,succession,0.01
+sherlock,gables,0.01
+sherlock,opened,0.1
+sherlock,dramatically,0.01
+sherlock,associate,0.01
+sherlock,abruptly,0.01
+felony,shrugged,0.11
+felony,granting,0.09
+felony,god,0.12
+felony,shoulders,0.11
+felony,compound,0.11
+felony,future,0.09
+felony,suppose,0.12
+felony,am sorry,0.16
+felony,whole,0.15
+felony,usual,0.09
+manoeuvres,observed,0.08
+brave man,power,0.01
+brave man,band,0.15
+brave man,simple,0.01
+brave man,madame,0.01
+brave man,placed,0.02
+brave man,doubt,0.01
+brave man,threaten,0.01
+brave man,listen,0.13
+brave,blackmail,0.11
+proud man,expected,0.14
+proud,butterfly,0.09
+proud,society,0.11
+proud,strong,0.09
+visitor's,given,0.01
+visitor's,flamboyant,0.01
+visitor's,fair,0.12
+visitor's,i've,0.01
+visitor's,became,0.01
+visitor's,manner,0.01
+bedroom,things,0.1
+i'm,afraid,0.09
+i'm,chance,0.01
+case,forced,0.13
+case,young,0.01
+case,talking,0.01
+case,examine,0.01
+forced,soon,0.01
+soon,cohtain,0.07
+soon,possible,0.05
+douglas,lovers,0.01
+douglas,men,0.01
+douglas,striking,0.11
+shall,fads,0.01
+shall,liberal,0.08
+shall,unchecked,0.01
+mighty poor,notice,0.02
+mighty poor,changed,0.14
+mighty poor,carried,0.01
+mighty poor,suddenly,0.02
+mighty poor,writer,0.02
+mighty poor,story,0.02
+mighty poor,'my',0.02
+mighty poor,'he',0.17
+mighty poor,re-,0.02
+mighty poor,imagined,0.03
+mighty poor,supreme,0.02
+mighty poor,seemed,0.02
+matter,obscure,0.12
+matter,knows,0.02
+overdone,prompt,0.03
+overdone,cried,0.04
+overdone,hard,0.03
+overdone,actions,0.17
+overdone,threw,0.02
+manuscript,long,0.06
+long,safety,0.03
+stood,criminals,0.01
+stood,challenging,0.01
+stood,felt,0.02
+stood,hardest,0.12
+stood,roguish,0.01
+stood,exquisite,0.01
+sunk,thought,0.11
+sunk,roused,0.11
+demands,urgent,0.11
+demands,days,0.1
+urgent,four,0.01
+inspector,sprang,0.02
+inspector,clung,0.02
+inspector,big,0.01
+inspector,took,0.13
+inspector,struck,0.02
+inspector,shook,0.01
+night,client's,0.01
+night,burgled,0.1
+proudest beauty,life,0.16
+proudest beauty,light,0.02
+proudest beauty,time,0.02
+proudest beauty,finds,0.02
+life,proudest,0.12
+life,welcome,0.12
+ruffians,beat,0.01
+ruffians,indeed,0.09
+ruffians,make,0.01
+ruffians,hiring,0.01
+"""who",right,0.11
+"""who",presence,0.01
+"""who",merely,0.01
+"""who",ask,0.01
+"""who",a-pullin',0.01
+"""who",anyhow,0.01
+fine,savage,0.12
+fine,growled,0.11
+"""this",turning,0.01
+"""this",angry,0.11
+"""this",severe,0.01
+"""this",lively,0.01
+"""this",flushed,0.01
+"""this",continued,0.01
+look fine,didn't,0.12
+look fine,kind,0.01
+look fine,handled,0.01
+gaunt woman,shoulder,0.15
+gaunt woman,seized,0.03
+gaunt woman,flung,0.15
+gaunt woman,across,0.01
+gaunt woman,open,0.01
+gaunt woman,dragged,0.02
+gaunt woman,strode,0.02
+capacity,ordinary,0.09
+capacity,common,0.11
+please,following,0.01
+please,telegram,0.11
+please,shape,0.01
+interval,tastes,0.11
+interval,pleased,0.01
+everything,mind,0.01
+everything,roof,0.1
+everything,boss,0.01
+everything,protection,0.01
+everything,bear,0.01
+everything,orders,0.01
+everything,gives,0.01
+treat,reciprocate,0.08
+treat,cannot,0.01
+treat,promise,0.01
+captor,breathe,0.01
+captor,sulky,0.01
+captor,heavily,0.09
+captor,upon,0.01
+captor,amazed,0.01
+comin',screeched,0.01
+comin',stayin',0.01
+comin',coop,0.01
+comin',minutes,0.01
+comin',awkward,0.01
+comin',ungainly,0.01
+comin',interesting,0.01
+comin',narrative,0.01
+comin',squawking,0.01
+comin',lunch,0.01
+comin',visitors,0.01
+comin',ma'am,0.01
+comin',huge,0.01
+comin',a-doin',0.01
+comin',struggle,0.1
+comin',listening,0.01
+comin',interrupt,0.01
+comin',jumped,0.01
+comin',chicken,0.01
+struggle,alone,0.03
+lomond,duke,0.12
+lomond,marry,0.01
+maberley,luck upstairs,0.13
+maberley,joy,0.17
+maberley,clients,0.17
+maberley,mortimer,0.16
+maberley,valuable,0.15
+maberley,mary,0.18
+maberley,late,0.23
+maberley,maid,0.02
+maberley,faithfully,0.14
+maberley,upstairs,0.17
+maberley,downstairs,0.16
+maberley,luck,0.15
+mary,noise,0.01
+mary,screaming,0.01
+mary,began,0.01
+rich woman,"""someone",0.03
+rich woman,thousand pounds,0.02
+rich woman,ten,0.03
+rich woman,pounds,0.04
+rich woman,thousand,0.04
+rich woman,lay,0.03
+rich woman,tell,0.19
+thousand pounds,worth,0.09
+window,inspector's,0.14
+window,caught,0.13
+window,drop,0.13
+window,glimpse,0.13
+window,shake,0.13
+window,line,0.12
+window,head,0.21
+masser holmes,magistrate,0.02
+masser holmes,birmingham,0.02
+masser holmes,bull ring,0.03
+masser holmes,done gone get,0.01
+masser holmes,ring,0.01
+masser holmes,"""yes",0.03
+masser holmes,trainin',0.02
+masser holmes,enough,0.01
+masser holmes,"--""",0.03
+masser holmes,watching,0.16
+masser holmes,bull,0.02
+masser holmes,done gone,0.03
+bull ring,lord,0.01
+watching,give,0.01
+give,impression,0.1
+give,burst,0.1
+give,clearer impression,0.14
+give,occurred,0.06
+give,flown,0.12
+give,mad,0.1
+give,room,0.11
+give,mad bull,0.14
+found,heard,0.11
+widow,king,0.01
+widow,lovely,0.01
+widow,presently,0.01
+widow,married,0.01
+widow,richest,0.01
+widow,sugar,0.11
+widow,earth,0.01
+widow,aged,0.01
+susan's,incline,0.01
+susan's,latter,0.01
+susan's,forms,0.01
+susan's,plan,0.01
+susan's,blundered,0.12
+susan's,grin,0.01
+susan's,instructions,0.01
+play,close,0.1
+play,game,0.01
+suggest anything,came,0.15
+suggest,sir,0.09
+suggest,grabbed,0.11
+suggest,rascals,0.12
+suggest,suggests,0.11
+suggest,hurry,0.11
+suggest,first,0.1
+law,ain't,0.01
+law,either,0.08
+admit,sin,0.01
+admit,protects,0.01
+admit,original,0.1
+admit,blamed,0.01
+paregoric,stuff,0.04
+fear,made,0.01
+fear,asking,0.08
+fear,guard,0.01
+fear,mistake,0.01
+am sure,torn,0.03
+torn,affairs,0.01
+torn,leave,0.13
+torn,grasped,0.11
+affairs,manage,0.06
+affairs,folks,0.08
+busi- ness,folks',0.17
+busi- ness,keep,0.01
+retired,seen,0.1
+retired,neighbours,0.01
+retired,lead,0.01
+retired,year,0.01
+holmes's,lighted,0.01
+holmes's,trunks,0.01
+holmes's,missed,0.01
+holmes's,piled,0.01
+holmes's,passed,0.01
+holmes's,corner,0.01
+holmes's,cases,0.12
+holmes's,hall,0.01
+trunks,rely,0.09
+pernambuco,real,0.11
+pernambuco,leaders,0.01
+pernambuco,masterfui,0.01
+pernambuco,conquistadors,0.01
+pernambuco,pure,0.11
+pernambuco,generations,0.01
+fellow,broken,0.12
+fellow,proved,0.01
+fellow,reed,0.01
+fellow,clearly,0.01
+channel,directed,0.11
+channel,activities,0.01
+wants,period,0.1
+commoner,penniless,0.11
+sudden death,douglas's,0.18
+read,clever,0.01
+read,last,0.01
+read,roar,0.01
+read,fellows,0.13
+read,smile,0.02
+read,central,0.01
+read,lap,0.01
+principal,try,0.12
+principal,approach,0.01
+book,publisher,0.02
+book,anticipation,0.01
+book,publisher's,0.02
+book,torture,0.01
+book,copies,0.01
+book,reached,0.01
+book,copy,0.13
+book,might,0.02
+book,wrote,0.02
+come,lad,0.11
+come,fragment,0.01
+come,together,0.11
+adventure,accounts,0.12
+intimidation,specialize,0.01
+intimidation,assaults,0.09
+harrow weald case,back,0.16
+weald,intimidate,0.02
+susan,door,0.01
+susan,get,0.18
+susan,front door,0.2
+susan,spend,0.01
+door,two,0.02
+door,banged,0.02
+door,front,0.02
+treach-,bad,0.01
+treach-,believe,0.11
+anything rarer,knowing,0.02
+anything rarer,mystery,0.02
+anything rarer,folio,0.02
+anything rarer,crown,0.02
+anything rarer,raphael,0.03
+anything rarer,crown derby,0.03
+anything rarer,shakespeare,0.17
+anything rarer,derby,0.02
+anything rarer,happen,0.14
+anything rarer,justify,0.02
+course,different,0.01
+course,names,0.12
+course,recognize,0.01

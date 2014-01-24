@@ -1,0 +1,371 @@
+chariot,blow,0.06
+chariot,enemy,0.04
+chariot,chasing,0.04
+chariot,army,0.23
+chariot,wielding,0.06
+chariot,faced,0.05
+chariot,bow,0.05
+chariot,marched,0.05
+chariot,unworthy,0.05
+chariot,soon,0.03
+chariot,retreat,0.05
+till,resolve,0.09
+till,successfully,0.05
+till,peace,0.06
+till,rest,0.06
+till,executed,0.29
+till,vowed,0.08
+cowherd boy,still,0.03
+cowherd boy,hopeful,0.06
+cowherd boy,win,0.28
+hunger strike till,favour,0.32
+hunger strike till,quick,0.33
+hunger strike till,go,0.24
+favour,krishna,0.01
+favour,krishna krishna,0.01
+favour,sends,0.01
+favour,failing,0.01
+favour,messenger,0.01
+favour,hunger strike,0.29
+'brahmana\x92s',arrival,0.32
+'brahmana\x92s',apartments,0.31
+'brahmana\x92s',uncertainty,0.28
+'brahmana\x92s',oscillating,0.34
+'brahmana\x92s',inner apartments,0.21
+'brahmana\x92s',delight,0.35
+'brahmana\x92s',inner,0.31
+'brahmana\x92s',infused,0.29
+'brahmana\x92s',thoughts,0.29
+'brahmana\x92s',hope,0.3
+cloth,respect,0.16
+cloth,tied,0.02
+thunderous,received,0.17
+thunderous,were,0.2
+defeat,refused,0.03
+defeat,accept,0.17
+uma,led,0.24
+uma,morning,0.06
+uma,customary,0.04
+uma,fixed,0.01
+uma,tomorrow,0.05
+married,round,0.1
+married,amidst,0.11
+married,celebration,0.33
+eldest son,assertive,0.29
+dear sister,recovery,0.03
+dear sister,mind,0.02
+dear sister,two,0.21
+dear sister,revenge,0.02
+dear sister,overpowered,0.3
+divine couple,parvati,0.07
+divine couple,did,0.03
+divine couple,deities,0.27
+divine couple,doubted,0.07
+divine couple,approval,0.07
+divine couple,maheshvara,0.06
+divine couple,tutelary,0.05
+sword,great,0.04
+sword,attacked,0.1
+sword,arrested,0.06
+sword,arrows,0.06
+sword,pieces,0.25
+sword,broken,0.06
+sword,vigour,0.05
+'krishna\x92s',ascendancy,0.15
+'krishna\x92s',present,0.02
+bless,good,0.17
+bless,fortune,0.02
+bless,family gods,0.01
+bless,pray,0.03
+bless,gods,0.01
+bless,asked,0.01
+bless,husband,0.03
+bless,women,0.03
+displeasure,earned,0.03
+displeasure,apprehensive,0.04
+displeasure,impulsive,0.2
+rakshasa mode,eight methods,0.05
+rakshasa mode,methods,0.07
+rakshasa mode,scriptures,0.3
+rakshasa mode,get,0.05
+rakshasa mode,hindu,0.08
+rakshasa mode,eight,0.06
+rakshasa mode,suggest,0.07
+rakshasa mode,approved,0.09
+prowess,impressed,0.05
+prowess,accomplishments,0.23
+'\x93i',seventeen,0.05
+'\x93i',said,0.02
+'\x93i',defeated,0.04
+'\x93i',times,0.2
+'\x93i',demoralized,0.04
+stiff opposition,abduction plan,0.03
+stiff opposition,anticipated,0.02
+stiff opposition,heard,0.02
+stiff opposition,plan,0.02
+stiff opposition,abduction,0.32
+handsome personality,heart,0.31
+handsome personality,deeds,0.1
+handsome personality,invaded,0.32
+handsome personality,'\x93o',0.1
+handsome personality,wrote,0.06
+handsome personality,lord,0.07
+handsome personality,glorious,0.06
+universal acclaim,episode,0.09
+universal acclaim,krishna-rukmini,0.35
+universal acclaim,though,0.07
+universal acclaim,evoked,0.32
+universal acclaim,astonishment,0.09
+universal acclaim,conducive,0.08
+carried,force,0.08
+carried,away,0.08
+carried,according,0.08
+carried,relations,0.09
+carried,bride,0.08
+carried,'bride\x92s',0.3
+gratify,yearn,0.24
+balarama,eagerness,0.07
+balarama,participate,0.3
+balarama,festivities,0.07
+balarama,bhishmaka,0.09
+balarama,wedding,0.08
+balarama,come,0.06
+proposal,initiate,0.25
+proposal,wanted,0.03
+proposal,hesitated,0.07
+'\x93fie',warriors,0.26
+'\x93fie',call ourselves,0.01
+'\x93fie',upon,0.01
+'\x93fie',us,0.01
+'\x93fie',call,0.22
+rukmini when,knowing,0.05
+rukmini when,lifted,0.07
+rukmini when,abducts,0.06
+rukmini when,effortlessly,0.07
+rukmini when,approached,0.07
+rukmini when,expectantly,0.06
+rukmini when,decision,0.11
+rukmini when,try,0.3
+rukmini when,rukmini's,0.07
+rukmini when,secret,0.05
+rukmini when,rukmi's,0.07
+rukmini when,luck,0.07
+rukmini when,hearts,0.07
+rukmini when,throbbing,0.06
+rukmini when,drove,0.07
+rukmini when,numerous,0.07
+rukmini when,assembled,0.06
+rukmini when,plans,0.06
+looked,spot,0.2
+looked,came,0.06
+ample army,'daughter\x92s',0.07
+ample army,retaliate,0.06
+ample army,arrangements,0.07
+ample army,lavish,0.09
+ample army,protection,0.3
+ample army,therefore,0.29
+ample army,equipped,0.07
+ample army,making,0.04
+ample army,went,0.07
+ample army,called,0.04
+ample army,situation,0.08
+blemishless character,woman,0.3
+blemishless character,high,0.24
+woman,desire,0.01
+woman,lineage,0.01
+woman,natural,0.01
+woman,knows,0.01
+woman,well,0.01
+woman,hand,0.01
+daruka,steeds,0.27
+daruka,harnessed,0.34
+daruka,charioteer,0.27
+daruka,best,0.18
+brahmana,partaking,0.06
+brahmana,propitiations,0.08
+brahmana,made,0.05
+brahmana,necessary,0.06
+brahmana,offering,0.05
+brahmana,fast,0.06
+brahmana,wives,0.15
+brahmana,broke,0.07
+brahmana,remnants,0.28
+spare,life,0.08
+spare,feet,0.05
+spare,fell,0.06
+spare,kill,0.06
+spare,'brother\x92s',0.25
+spare,pleaded,0.06
+relationship,acted,0.17
+relationship,spoke,0.2
+morale booster,case,0.06
+morale booster,jarasandha,0.09
+morale booster,quoted,0.07
+morale booster,crest,0.08
+morale booster,comforted,0.09
+morale booster,fallen,0.32
+morale booster,shishupala,0.1
+wedlock,fascination,0.06
+wedlock,mutual,0.05
+wedlock,aroused,0.24
+wedlock,together,0.04
+avartta,mathura,0.03
+avartta,raivata,0.04
+avartta,brahma,0.19
+rukmini,daughter,0.32
+rukmini,absorbing,0.07
+rukmini,vidarbha,0.09
+rukmini,excitement,0.09
+rukmini,sons,0.08
+rukmini,five,0.05
+rukmini,action,0.09
+rukmini,packed,0.07
+distance,covered,0.05
+distance,company,0.04
+distance,overnight,0.24
+distance,long,0.04
+krishna rukmi,head,0.06
+krishna rukmi,decided,0.1
+krishna rukmi,disfigurement,0.09
+krishna rukmi,humiliation,0.09
+krishna rukmi,shaving,0.1
+krishna rukmi,bound,0.09
+krishna rukmi,inflicted,0.34
+krishna rukmi,facing,0.1
+krishna rukmi,also,0.05
+krishna rukmi,severe,0.07
+krishna rukmi,vow,0.12
+krishna rukmi,ashamed,0.11
+krishna rukmi,half,0.1
+krishna rukmi,keep,0.07
+krishna rukmi,yet,0.07
+krishna rukmi,beard,0.09
+goddess,believed,0.04
+goddess,lakshmi,0.25
+goddess,incarnation,0.07
+extended,admiration,0.05
+extended,welcome,0.04
+extended,wonderful,0.22
+extended,honourable,0.04
+extended,guests,0.04
+temple,guarded,0.26
+temple,ambika,0.06
+temple,next,0.03
+ideal match,prayed,0.01
+ideal match,god,0.28
+ideal match,make,0.01
+ideal match,possible,0.01
+ideal match,thought,0.02
+ideal match,princess,0.02
+'rukmini\x92s',exemplary,0.05
+'rukmini\x92s',attracted,0.26
+'rukmini\x92s',character,0.06
+'rukmini\x92s',beauty,0.05
+match,wheel,0.08
+match,shattered,0.08
+match,consoled,0.06
+match,opposed,0.06
+match,personal,0.07
+match,near,0.04
+match,future,0.03
+match,took,0.05
+match,wounds,0.07
+match,victory,0.05
+match,lion,0.06
+match,rim,0.08
+match,surely,0.05
+match,licking,0.06
+match,somewhat,0.06
+match,ensure,0.07
+match,pride,0.29
+match,beginning,0.08
+match,returned,0.08
+dream,even,0.02
+dream,cannot,0.02
+dream,man,0.18
+cowherd,looking,0.04
+cowherd,prize,0.05
+cowherd,many,0.02
+cowherd,mere,0.04
+cowherd,cursed,0.05
+cowherd,kings,0.06
+cowherd,coveted,0.05
+cowherd,helplessly,0.24
+dusk,restless,0.04
+dusk,getting,0.03
+dusk,meanwhile,0.21
+dusk,was,0.03
+dusk,sent,0.04
+family,people,0.03
+family,avoid,0.04
+family,idea,0.21
+family,killing,0.04
+family,another,0.2
+events,forgone,0.03
+events,stood,0.18
+events,aghast,0.03
+events,turn,0.02
+events,friends,0.03
+events,conclusion,0.03
+mukunda,brahmanas,0.06
+mukunda,along,0.04
+mukunda,entered,0.05
+mukunda,meditating,0.25
+marriage,beautiful,0.23
+marriage,revati,0.05
+marriage,gave,0.03
+krishna rukmini,supreme,0.29
+krishna rukmini,consort,0.32
+krishna rukmini,union,0.01
+krishna rukmini,supreme lord,0.09
+krishna rukmini,divine,0.01
+supreme,rukmini wedding,0.12
+supreme,inevitable,0.16
+supreme,earth,0.13
+proceedings,reveal,0.04
+proceedings,choice,0.03
+proceedings,inform,0.03
+proceedings,desperate,0.03
+proceedings,strong,0.19
+abduct,moment,0.04
+abduct,would,0.02
+abduct,opportune,0.23
+resonance,pleasing,0.18
+resonance,words,0.03
+damaghosha,individually,0.28
+damaghosha,reverence,0.31
+damaghosha,offered,0.23
+damaghosha,father,0.23
+damaghosha,gifts,0.29
+damaghosha,rituals,0.27
+damaghosha,performed,0.25
+damaghosha,propitiatory rituals,0.21
+damaghosha,propitiatory,0.27
+dvaraka,finding,0.21
+dvaraka,alternative,0.04
+dvaraka,letter,0.04
+dvaraka,send,0.04
+krishna as,chapter,0.01
+krishna as,39,0.27
+krishna as,marries,0.01
+krishna as,marriageable,0.01
+krishna as,reached,0.33
+chapter,age,0.04
+chapter,time,0.04
+chedi,arbitrarily,0.05
+chedi,prospective,0.24
+chedi,king,0.05
+chedi,wish,0.04
+chedi,groom,0.05
+chedi,much,0.02
+bhojakuta,kingdom,0.04
+bhojakuta,established,0.04
+bhojakuta,named,0.22
+bhojakuta,built,0.04
+bhojakuta,city,0.04
+bhojakuta,move,0.06
+bhojakuta,had,0.05
+bhojakuta,insult,0.05
+bhojakuta,huge,0.03
+bhojakuta,avenged,0.05
+bhojakuta,outskirts,0.07

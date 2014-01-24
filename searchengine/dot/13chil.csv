@@ -1,0 +1,339 @@
+sight,soon,0.15
+did,stay,0.06
+did,was,0.08
+did,leaving,0.29
+life,closer,0.29
+life,running,0.29
+life,getting,0.21
+mama rabbit,art,0.17
+mama rabbit,cried,0.2
+mama rabbit,hustled,0.16
+mama rabbit,tea,0.17
+mama rabbit,turned,0.13
+mama rabbit,high,0.13
+mama rabbit,heard,0.2
+mama rabbit,mint,0.17
+mama rabbit,chase,0.19
+mama rabbit,mint tea,0.21
+mama rabbit,prayers,0.19
+mama rabbit,father,0.17
+mama rabbit,hounds,0.19
+mama rabbit,start,0.19
+mama rabbit,hot,0.16
+mama rabbit,call,0.17
+mama rabbit,cream,0.17
+mama rabbit,whipped,0.17
+mama rabbit,chocolate,0.47
+mama rabbit,last,0.09
+mama rabbit,thanksgiving,0.15
+mama rabbit,piled,0.17
+mama rabbit,praise,0.17
+mama rabbit,making,0.16
+rabbit,house,0.48
+rabbit,called,0.35
+pine,trees,0.09
+pine,air,0.06
+pine,sang,0.13
+pine,music,0.13
+pine,fragrance,0.11
+pine,wind,0.09
+pine,flowers,0.09
+pine,birds,0.11
+pine,filled,0.37
+rabs,get,0.03
+rabs,come,0.47
+rabs,rake,0.03
+rabs,stop,0.05
+rabs,three,0.09
+rabs,field,0.04
+rabs,open,0.13
+exclaimed,unknown,0.35
+exclaimed,right,0.09
+exclaimed,parts,0.11
+meadows,hill,0.32
+wants,knows,0.05
+wants,eat,0.04
+wants,take,0.23
+fox hunters,beat,0.21
+fox hunters,urged,0.16
+fox hunters,excited,0.2
+fox hunters,feet,0.16
+fox hunters,horses',0.51
+fox hunters,rhythm,0.21
+bushes,spied,0.34
+door,answered,0.25
+rabbit family sat,poor,0.14
+rabbit family sat,shaking,0.11
+rabbit family sat,still,0.06
+rabbit family sat,bulging,0.1
+rabbit family sat,panic,0.42
+rabbit family sat,thumping,0.11
+rabbit family sat,hearts,0.13
+rabbit family sat,paws,0.14
+rabbit family sat,frightened,0.14
+dainty,looked,0.15
+dainty,little,0.14
+dainty,spectacles,0.13
+dainty,knitting,0.11
+dainty,dressed,0.12
+dainty,socks,0.13
+dainty,housecoat,0.11
+dainty,flowered,0.37
+dainty,slippers,0.14
+dainty,lovingly,0.11
+dainty,red,0.12
+apples,much,0.28
+apples,bake,0.29
+apples,greedy mrs,0.27
+papa rabbit,heart,0.15
+papa rabbit,bound,0.49
+papa rabbit,"""fox",0.19
+papa rabbit,relief,0.18
+papa rabbit,gave,0.17
+eedgehog,cordially,0.07
+eedgehog,none,0.31
+thought,would,0.05
+thought,chat,0.07
+thought,time,0.08
+thought,seen,0.04
+thought,haven't,0.29
+fright,head,0.13
+fright,stood,0.15
+fright,hedgehog's,0.4
+quills,pull,0.42
+quills,trying,0.38
+quills,fro,0.42
+quills,gone,0.41
+greediness,pays,0.26
+found,huge,0.28
+"""looks",great,0.11
+"""looks",said,0.2
+"""looks",end,0.17
+"""looks",like,0.13
+"""looks",porch,0.46
+"""looks",walking,0.17
+"""looks",looking,0.16
+"""looks",carrot,0.18
+"""looks",coming,0.16
+"""looks",front,0.19
+"""looks",eating,0.14
+"""looks",rocking,0.16
+"""looks",sat,0.16
+stick,breath,0.35
+stick,beside,0.12
+stick,oak,0.11
+stick,big,0.09
+mouth,fairly,0.26
+mouth,dribbling,0.26
+mr,children,0.42
+jumped,slid,0.37
+jumped,stream,0.13
+jumped,lost,0.11
+jumped,water,0.36
+jumped,scent,0.13
+jumped,side,0.12
+crystal clear brook,catch,0.02
+crystal clear brook,living,0.05
+crystal clear brook,darting,0.43
+crystal clear brook,leaf,0.03
+crystal clear brook,sailing,0.02
+crystal clear brook,played,0.02
+crystal clear brook,silvery,0.03
+crystal clear brook,woods,0.49
+crystal clear brook,wading,0.02
+crystal clear brook,boats,0.02
+crystal clear brook,minnows,0.46
+needles,made,0.08
+needles,woodland,0.09
+needles,carpeting,0.08
+needles,towering,0.08
+needles,soft,0.08
+needles,ground,0.3
+cozy home,burrowed,0.11
+cozy home,deep,0.33
+dumplings,apple,0.37
+dumplings,it's,0.34
+dumplings,hair,0.02
+dumplings,every,0.04
+agreed,voice,0.34
+agreed,trembling,0.31
+bag,slowly,0.31
+bag,crawled,0.09
+sack,resist,0.35
+bedroom,newspaper,0.13
+bedroom,robe,0.37
+bedroom,reading,0.12
+squirrels,hidden,0.36
+squirrels,nuts,0.13
+squirrels,around,0.1
+squirrels,left,0.11
+dropped,upon,0.19
+dropped,heavily,0.03
+hedgehog,shot,0.43
+hedgehog,suspicious,0.17
+hedgehog,reach,0.2
+hedgehog,greedy,0.48
+hedgehog,silly,0.17
+hedgehog,sharp,0.12
+hedgehog,grasshoppers,0.07
+eyes,inquired,0.09
+eyes,cunning,0.33
+eyes,look,0.1
+eyes,wicked,0.09
+papa,straw,0.44
+papa,cover,0.44
+papa,tell,0.44
+papa,instructed,0.42
+yard,walked,0.31
+family,resolved,0.33
+family,death,0.34
+family,bother,0.35
+family,never,0.32
+family,near,0.27
+"day""",toward,0.33
+"day""",trotted,0.1
+"day""",road,0.08
+rabbit family,started,0.04
+rabbit family,among,0.01
+rabbit family,lived,0.06
+rabbit family,sly,0.01
+rabbit family,happily,0.01
+rabbit family,away,0.32
+rabbit family,bothered,0.02
+rabbit family,murrelle,0.01
+rabbit family,pines,0.01
+rabbit family,whispering,0.01
+rabbit family,log,0.06
+"""get",things,0.3
+"""get",rubber boots,0.06
+"""get",boots,0.08
+"""get",rubber,0.01
+"""get",put,0.02
+crickets,owls,0.1
+crickets,chirped,0.09
+crickets,merrily,0.31
+crickets,hooted,0.09
+crickets,night,0.09
+crickets,throughout,0.08
+piney woods,move,0.39
+piney woods,across,0.34
+might,loudly,0.11
+seat,enemy,0.1
+seat,could,0.07
+seat,offered,0.12
+seat,rude,0.35
+were,since,0.09
+were,well,0.1
+were,obedient,0.13
+were,behaved,0.37
+were,told,0.11
+slight rain,dry,0.06
+slight rain,tired,0.36
+slight rain,sit,0.1
+slight rain,became,0.13
+slight rain,place,0.08
+slight rain,begun,0.11
+slight rain,fall,0.08
+cozy fire,evening,0.02
+cozy fire,sitting,0.03
+cozy fire,one,0.29
+cozy fire,late,0.02
+cozy fire,talking,0.02
+cozy fire,mama,0.03
+number,pass,0.29
+mrs,enjoy,0.04
+mrs,don't,0.21
+grin,shoulder,0.4
+grin,home,0.39
+grin,screaming,0.11
+grin,grabbed,0.37
+slight,frown,0.37
+ran,direction,0.19
+ran,opposite,0.16
+ran,took,0.16
+ran,way,0.2
+ran,hole,0.22
+ran,dogs,0.46
+hollow tree,furiously,0.41
+hollow tree,sniff,0.14
+hollow tree,shall,0.12
+hollow tree,began,0.16
+hollow tree,dig,0.47
+hollow tree,scratching,0.11
+hollow tree,earth,0.08
+hollow tree,went,0.12
+whispered,face,0.24
+whispered,alarm,0.51
+whispered,full,0.12
+whispered,concern,0.24
+tonight,good,0.31
+horns,nearer,0.39
+horns,baying,0.36
+old mother fox,honey,0.13
+old mother fox,bring,0.06
+old mother fox,pulling,0.41
+old mother fox,want,0.02
+old mother fox,calling,0.09
+old mother fox,readily,0.01
+old mother fox,engagement,0.02
+old mother fox,next,0.05
+old mother fox,today,0.02
+old mother fox,listen,0.01
+old mother fox,real,0.01
+old mother fox,pretended,0.02
+old mother fox,inwardly,0.01
+old mother fox,disappointed,0.02
+old mother fox,day,0.01
+old mother fox,planned,0.02
+old mother fox,places,0.12
+old mother fox,chuckled,0.02
+old mother fox,feast,0.01
+old mother fox,us,0.02
+old mother fox,morning,0.02
+old mother fox,neighbor,0.13
+old mother fox,knocked,0.02
+old,suddenly,0.03
+old,back,0.01
+old,"""toot",0.01
+old,busily,0.04
+old,failed,0.03
+old,digging,0.05
+old,threw,0.06
+old,hear,0.04
+old,stopped,0.03
+old,ears,0.05
+old,first,0.25
+suddenly,barking,0.12
+suddenly,woof,0.12
+suddenly,distance,0.13
+"""i",goodies,0.09
+"""i",thinking,0.07
+"""i",young,0.34
+"""i",smacking,0.07
+"""i",lips,0.09
+"""i",softly,0.07
+"""i",let,0.03
+"""i",go,0.04
+"""i",asked,0.06
+"""i",nice,0.09
+allow,fooled,0.34
+allow,else,0.1
+greed,foolish,0.1
+greed,had,0.11
+greed,oh,0.12
+greed,trapped,0.34
+"""do",nothing,0.42
+"""do",tender,0.45
+"""do",tender young,0.51
+old sly fox,new,0.04
+old sly fox,moved,0.06
+old sly fox,delighted,0.05
+old sly fox,destroy,0.23
+dinner,straightened,0.36
+dinner,cooked,0.11
+dinner,eaten,0.1
+dinner,stayed,0.11
+mice,covered,0.16
+mice,quickly,0.15
+mice,quiet,0.1
+mice,cautioned,0.44

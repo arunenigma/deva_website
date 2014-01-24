@@ -1,0 +1,1063 @@
+get,like,0.04
+get,lost,0.06
+get,big,0.04
+get,morning,0.07
+get,alright,0.07
+get,chance,0.06
+get,go,0.04
+get,airplane,0.26
+get,check,0.06
+family car,transfer,0.06
+family car,laundry,0.29
+family,shopping,0.24
+family,built,0.23
+family,suitcases,0.25
+family,car,0.3
+family,transfer suitcases,0.2
+family,businesses,0.25
+family,docks,0.25
+family,arriving,0.22
+family,waterfront,0.25
+family,boat,0.21
+way,adapted,0.21
+rail service,acute,0.07
+rail service,exists,0.3
+incessant hum,insects,0.29
+10,case,0.29
+garden,chairs,0.22
+garden,lawnmowers,0.23
+snow,wagers,0.06
+snow,bathing,0.06
+snow,river,0.05
+snow,blossom,0.06
+snow,suits,0.07
+snow,mowers,0.06
+snow,blowers,0.06
+snow,break,0.05
+snow,replaced,0.06
+snow,time,0.04
+snow,pussy,0.06
+snow,date,0.06
+snow,rakes,0.27
+snow,shovels,0.06
+snow,willows,0.06
+winter,geese,0.06
+winter,frogs,0.01
+winter,zero,0.02
+winter,ice conditions,0.05
+winter,geese return,0.07
+winter,grounds,0.05
+winter,presents,0.32
+winter,conditions,0.09
+winter,climbs,0.27
+winter,never,0.05
+winter,problems,0.08
+winter,battalions,0.05
+winter,lows,0.05
+winter,changing,0.06
+winter,permit,0.07
+winter,hatched,0.05
+winter,croak,0.05
+winter,upward,0.05
+geese,mercury,0.04
+frogs,mercury climbs,0.17
+miss,set,0.05
+miss,office,0.05
+miss,lives,0.07
+miss,wild blueberries,0.03
+miss,rest,0.05
+miss,steaks,0.05
+miss,decided,0.05
+miss,delicious,0.04
+miss,1984,0.03
+miss,blueberries,0.06
+miss,centered,0.05
+miss,remaining,0.04
+miss,around,0.05
+miss,pancakes,0.06
+miss,possibly,0.04
+miss,sausages,0.05
+miss,post,0.05
+miss,february,0.06
+miss,clear,0.25
+miss,moosemeat,0.06
+miss,moving,0.04
+miss,smoked,0.05
+jostle,looms,0.22
+jostle,boss,0.23
+jostle,lunch,0.17
+jostle,boss looms,0.17
+jostle,threateningly,0.19
+degrees,differential,0.03
+degrees,140,0.03
+degrees,fantastic,0.23
+degrees,continues,0.04
+degrees,life,0.04
+degrees,corporations,0.01
+fantastic,different,0.01
+fantastic,working,0.01
+fantastic,transferred,0.01
+fantastic,job,0.01
+fantastic,definitely,0.01
+fantastic,requirement,0.01
+start,doesn't,0.21
+start,walk,0.04
+start,call,0.03
+start,either,0.02
+carry,vans,0.26
+carry,motorcycles,0.26
+carry,motors,0.36
+carry,tow,0.27
+carry,atvs,0.36
+carry,trailers,0.26
+carry,bicycles,0.26
+carry,motorhomes,0.39
+carry,tow boats,0.21
+carry,4x4's,0.2
+net,minnows,0.23
+net,bags,0.22
+net,popular,0.19
+hear,rustling,0.03
+hear,lying,0.04
+hear,noises,0.25
+piper cub,beechcraft,0.33
+tv,cbc,0.04
+tv,begin,0.04
+tv,northern communities,0.07
+tv,one,0.26
+tv,station,0.33
+tv,providing,0.04
+ice,perch,0.07
+ice,comfort,0.08
+ice,drill holes,0.05
+ice,stove,0.06
+ice,streets,0.01
+ice,walleye,0.08
+ice,feet,0.05
+ice,snowmobile,0.07
+ice,flock,0.08
+ice,bass,0.08
+ice,tullibee,0.08
+ice,spots,0.08
+ice,plentiful,0.06
+ice,shack,0.31
+ice,glowing,0.06
+ice,catfish,0.06
+ice,burbot,0.08
+ice,good,0.06
+ice,eating,0.02
+ice,huddled,0.08
+ice,catch,0.07
+ice,pike,0.08
+ice,lee,0.07
+ice,whether,0.06
+ice,holes,0.09
+ice,whitefish,0.06
+ice,drill,0.08
+ice,trout,0.1
+ice,normally,0.06
+streets,cabins,0.26
+streets,well,0.27
+streets,located,0.26
+streets,make,0.16
+streets,absence,0.26
+streets,deliver goods,0.2
+streets,businesss,0.33
+streets,homes,0.29
+streets,deliver,0.28
+streets,merchants,0.28
+streets,water,0.34
+streets,five,0.24
+streets,seasons,0.32
+streets,maintaining,0.22
+streets,goods,0.28
+streets,entrepreneurs,0.27
+streets,city dwellers,0.2
+streets,rival,0.26
+streets,dwellers,0.29
+streets,road,0.34
+streets,servicing,0.22
+walleye,flies,0.04
+walleye,hordes,0.01
+walleye,mosquitoes,0.05
+walleye,giant,0.02
+walleye,legion,0.04
+walleye,away,0.03
+walleye,flesh,0.04
+walleye,black,0.05
+walleye,told,0.01
+walleye,murderous,0.03
+walleye,rigors,0.05
+walleye,bull dog,0.05
+walleye,bull,0.04
+walleye,man,0.04
+walleye,dog,0.05
+walleye,lumps,0.04
+walleye,stories,0.04
+walleye,tales,0.05
+regular,carry conservationists,0.17
+regular,census,0.23
+regular,conservationists,0.23
+regular,intervals,0.23
+regular,animal,0.19
+person,breed,0.05
+person,takes,0.03
+person,special,0.23
+40,engine,0.08
+40,turned,0.05
+40,50,0.07
+40,cannot,0.05
+40,thick,0.08
+40,gets,0.07
+40,minus,0.29
+bait,colder,0.22
+bait,taking,0.21
+bait,favorite,0.24
+bait,whatever,0.25
+bait,weather,0.25
+bait,warmth,0.22
+bait,best,0.2
+bait,moose hunting,0.2
+applies,tools,0.02
+applies,repairman,0.16
+wakes,beaver,0.03
+wakes,muskrat,0.15
+day,24,0.06
+day,running,0.06
+day,vehicles,0.28
+day,places,0.06
+heard deep,sights,0.01
+heard deep,brush,0.01
+heard deep,spruce,0.29
+heard deep,sounds,0.01
+heard deep,crashing,0.01
+heard deep,breaking,0.01
+heard deep,forests,0.01
+heard deep,moose,0.01
+heard deep,trees,0.01
+heard deep,tearing,0.01
+sights,secure,0.01
+secure,gasoline,0.01
+secure,high,0.19
+secure,appliances,0.05
+secure,mouse,0.22
+secure,expensive,0.01
+secure,visualize,0.2
+secure,branch,0.2
+secure,considerably,0.01
+secure,food,0.19
+secure,bundle,0.19
+secure,bear,0.18
+secure,rabbit,0.21
+secure,waves,0.2
+secure,securely,0.17
+secure,tree,0.17
+secure,shore,0.29
+secure,tied,0.23
+secure,rising,0.19
+secure,wind,0.12
+gasoline,ingress,0.06
+gasoline,surfaces,0.05
+gasoline,engines,0.07
+gasoline,provide,0.06
+gasoline,preheat,0.05
+gasoline,build,0.05
+gasoline,blow-pots,0.07
+gasoline,stop,0.24
+gasoline,frost,0.05
+gasoline,often,0.04
+gasoline,fueled,0.05
+gasoline,wings,0.05
+gasoline,carried,0.05
+gasoline,ensure,0.06
+gasoline,starting,0.04
+gasoline,travel,0.01
+stop,hawks,0.01
+stop,ducks,0.02
+stop,eagles,0.01
+stop,shoreline,0.01
+stop,ravens,0.01
+stop,whistle,0.01
+restaurants,gourmet,0.06
+restaurants,fancy,0.06
+restaurants,supermarkets,0.25
+restaurants,gourmet foods,0.04
+restaurants,foods,0.01
+restaurants,malls,0.06
+house delivery,threatening,0.05
+house delivery,ordeal,0.06
+house delivery,midsummer,0.29
+house delivery,nonexistent,0.29
+house delivery,pleasant,0.06
+house delivery,contrasted,0.07
+house delivery,milk,0.01
+house delivery,stroll,0.06
+house delivery,bread,0.06
+highs,sometimes,0.02
+highs,reach,0.02
+highs,90's,0.16
+baby fish,restock,0.29
+baby fish,tanks,0.29
+bird life announce,heaven,0.27
+bird life announce,constant buzz-sting-slap,0.08
+bird life announce,sleep,0.3
+heaven,peacefully,0.11
+heaven,facing,0.11
+heaven,constant,0.15
+heaven,warfare,0.15
+heaven,howling,0.11
+heaven,bird life,0.27
+heaven,early,0.11
+heaven,insect,0.15
+heaven,buzz-sting-slap,0.19
+heaven,far,0.11
+heaven,announce,0.15
+heaven,life announce,0.21
+heaven,might,0.09
+heaven,dogs,0.15
+heaven,south,0.18
+heaven,songs,0.18
+include cross country,skiing,0.27
+include cross country,hunter's,0.31
+include cross,face,0.01
+include cross,failed,0.01
+include cross,activities,0.01
+include cross,teams,0.01
+cross,outdoor,0.06
+cross,outdoor activities,0.04
+cross,another,0.04
+cross,dog teams,0.04
+cross,access,0.01
+cross,racing,0.05
+cross,lived,0.04
+cross,however,0.01
+cross,many,0.05
+cross,weapon,0.06
+cross,snowmobiling,0.05
+cross,country,0.05
+cross,operate,0.06
+use,arrival,0.06
+use,opening,0.03
+use,season,0.04
+use,recreational,0.24
+use,record,0.05
+use,see,0.06
+use,measure,0.04
+use,touch,0.04
+use,heralded,0.04
+use,smell,0.04
+use,wonders,0.04
+village,cheques,0.03
+village,without,0.03
+village,useless,0.03
+village,bank,0.03
+village,nearly,0.18
+kids,screaming,0.18
+restart balky,enjoy,0.06
+restart balky,winter months,0.05
+restart balky,hours,0.07
+restart balky,take,0.07
+restart balky,allowed,0.27
+restart balky,residents,0.29
+restart balky,cold,0.08
+loon,ponds,0.06
+loon,feeding,0.06
+loon,cackling,0.05
+loon,intermittent,0.06
+loon,song,0.05
+loon,quiet,0.05
+loon,bays,0.25
+loon,placid,0.06
+loon,forgotten,0.05
+loon,quackery,0.06
+lakes,snowmobiles,0.05
+lakes,shacks,0.05
+lakes,towed,0.05
+lakes,rivers,0.06
+lakes,tuned,0.06
+lakes,onto,0.24
+wheel equipment,busy,0.05
+wheel equipment,furs,0.04
+wheel equipment,traplines,0.07
+wheel equipment,logging,0.04
+wheel equipment,camps,0.04
+wheel equipment,trappers,0.04
+wheel equipment,skis,0.06
+wheel equipment,hauling,0.03
+wheel equipment,small,0.28
+wheel equipment,reserves,0.05
+wheel equipment,thin,0.03
+wheel equipment,freight,0.05
+wheel equipment,fall,0.24
+wheel equipment,fishermen,0.06
+wheel equipment,supplies,0.04
+wheel equipment,areas,0.06
+wheel equipment,floats,0.05
+work,customers,0.06
+work,piles,0.06
+work,grumble,0.01
+work,dissatisfied,0.25
+phrase,magic,0.22
+winter equipment,arrives,0.07
+winter equipment,spring,0.07
+winter equipment,sports,0.07
+winter equipment,brought,0.07
+winter equipment,held,0.06
+winter equipment,stored,0.07
+winter equipment,included,0.06
+winter equipment,boats,0.08
+winter equipment,festivals,0.29
+were,prime,0.04
+were,summer,0.07
+were,made,0.07
+were,wears,0.05
+were,camping,0.03
+were,advance,0.05
+were,reservations,0.05
+were,months,0.05
+were,spot,0.05
+were,period,0.06
+were,leaving,0.28
+were,prior,0.04
+were,sportsmen,0.05
+were,every,0.01
+were,recede,0.05
+were,place,0.08
+were,weeks,0.05
+were,summer wears,0.04
+were,occupied,0.06
+were,tourists,0.06
+left,had,0.18
+apparent,travels,0.05
+apparent,farther,0.21
+home mail delivery,stores,0.31
+home mail delivery,even,0.01
+home mail delivery,it's,0.01
+home mail delivery,unknown,0.01
+home mail delivery,one's,0.03
+home mail delivery,wanted,0.02
+home mail delivery,new,0.07
+home mail delivery,friends,0.01
+home mail delivery,truck,0.01
+home mail delivery,pick,0.03
+stores,things,0.01
+stores,old,0.01
+stores,closer,0.01
+stores,division,0.01
+stores,returned,0.01
+stores,center,0.01
+stores,back,0.01
+stores,ride,0.01
+stores,drive,0.01
+stores,order,0.01
+division,indicated,0.23
+division,presence,0.28
+division,mind,0.2
+division,number,0.01
+division,owned,0.01
+division,privately,0.01
+division,signs,0.19
+division,border,0.24
+division,imaginary,0.2
+division,shown,0.24
+division,distinct,0.24
+division,road side,0.29
+division,contributed,0.23
+division,maps,0.23
+division,writers,0.25
+division,lore,0.25
+division,highway travellers,0.17
+division,territory,0.24
+division,highway,0.23
+division,poets,0.25
+division,labelled,0.23
+division,travellers,0.27
+division,international,0.2
+division,line,0.26
+division,cycle repeats,0.01
+division,cycle,0.01
+division,"53""",0.17
+division,53,0.3
+division,annually,0.01
+division,arrive,0.06
+division,side,0.27
+number,repeats,0.01
+wail,sirens,0.05
+wail,fire sirens,0.04
+wail,police,0.25
+midpoint,return,0.04
+midpoint,approached,0.21
+building,landscaping,0.14
+miles,done,0.01
+miles,coldsoaked,0.01
+miles,unnerving,0.09
+miles,city,0.02
+miles,network,0.11
+miles,writer,0.01
+miles,pilot,0.14
+miles,preheating,0.01
+miles,degree,0.03
+miles,southern,0.14
+miles,flew,0.01
+miles,hundreds,0.42
+miles,tracks,0.11
+miles,aid,0.09
+miles,railroad,0.11
+miles,prepared,0.09
+miles,realities,0.11
+miles,apart,0.11
+miles,comparison,0.01
+miles,airports,0.11
+miles,always,0.09
+miles,seldom,0.11
+miles,airport,0.12
+miles,accustomed,0.1
+miles,endure,0.01
+miles,involved,0.01
+miles,chin-ups,0.01
+miles,navigation,0.12
+done,cessna,0.01
+done,northern airports,0.04
+windflowers,colors,0.13
+adventuresome travel,crammed,0.04
+adventuresome travel,full,0.23
+adventuresome travel,lots,0.04
+adventuresome travel,trails,0.29
+adventuresome travel,bush trails,0.04
+adventuresome travel,parking,0.03
+adventuresome travel,great,0.03
+adventuresome travel,booze,0.04
+adventuresome travel,experienced,0.04
+adventuresome travel,streams,0.04
+adventuresome travel,quantities,0.04
+adventuresome travel,sold,0.04
+adventuresome travel,hotels,0.04
+evening wail,coyotes,0.02
+evening wail,wolves,0.29
+challenge,daily,0.21
+move north,give,0.18
+move,extended,0.21
+day life,crazy,0.33
+day life,canada north,0.01
+day life,toys,0.07
+day life,driveway,0.07
+day life,jim prentice copyright,0.01
+day life,happen,0.07
+day life,sits,0.07
+day life,dealer,0.07
+day life,order parts,0.1
+day life,children's,0.11
+day life,shipped,0.08
+day life,parts,0.07
+day life,prentice,0.01
+day life,north,0.09
+day life,meanwhile,0.04
+day life,cluttering,0.06
+day life,plane,0.07
+day life,tv dinner,0.13
+day life,discuss,0.07
+day life,1990,0.02
+day life,sit,0.01
+day life,dinner,0.07
+day life,car sits,0.1
+day life,fishing,0.09
+crazy,jim prentice,0.02
+crazy,shareware trial project,0.01
+crazy,need,0.01
+crazy,manitoba,0.01
+crazy,canada,0.01
+crazy,need your,0.01
+crazy,copyright,0.01
+crazy,need your support,0.01
+crazy,support,0.01
+crazy,jim,0.02
+crazy,brandon,0.01
+crazy,shareware trial,0.02
+crazy,trial project,0.01
+crazy,"""freeware""",0.01
+crazy,100,0.01
+crazy,prentice copyright,0.02
+crazy,west by,0.02
+crazy,project,0.01
+crazy,trial,0.01
+crazy,continue,0.01
+crazy,west,0.01
+crazy,shareware,0.01
+jim prentice,several,0.01
+several,radio,0.19
+several,east,0.16
+several,besides,0.13
+several,stations,0.17
+covered,heavy,0.17
+covered,grease,0.24
+covered,solid,0.2
+covered,freeze,0.24
+covered,bolt,0.24
+ensure maximum efficiency,end,0.29
+ensure maximum efficiency,next,0.28
+end,214,0.03
+end,dance,0.04
+end,batteries,0.21
+end,flying,0.16
+end,music,0.04
+end,aircraft,0.21
+end,efficiency,0.21
+end,nationalities,0.04
+end,removed,0.2
+end,eat,0.03
+end,short,0.2
+end,frozen,0.01
+end,maximum,0.21
+aircraft,fueling,0.03
+aircraft,four,0.01
+aircraft,propeller,0.04
+aircraft,pitch,0.03
+aircraft,foot ice,0.04
+aircraft,chores,0.03
+aircraft,ropes,0.03
+aircraft,oil,0.04
+aircraft,foot,0.04
+aircraft,congealed,0.03
+aircraft,super,0.03
+aircraft,problem,0.04
+aircraft,cooled,0.03
+four,mechanisms,0.18
+four,propeller pitch,0.24
+enjoyed,offer,0.26
+enjoyed,outdoors,0.26
+taxi service,yes,0.18
+taxi service,kind,0.02
+event,space,0.2
+event,perishable,0.18
+event,dependant,0.21
+event,commodities,0.22
+event,shipment,0.22
+thousands,northward,0.04
+thousands,venturing,0.04
+thousands,spoken,0.04
+thousands,mumbled,0.21
+thousands,souls,0.04
+thousands,thought,0.04
+thousands,inwardly,0.04
+choices,broader,0.18
+aurora borealis,dancing,0.25
+aurora borealis,appears,0.27
+dancing,borealis,0.02
+dancing,wild,0.02
+dancing,taste,0.02
+dancing,sky,0.01
+dancing,dazzling,0.01
+dancing,display,0.01
+dancing,excitement,0.01
+dancing,raspberries,0.01
+dancing,strawberries,0.01
+dancing,evening sky,0.02
+amenities,adults,0.05
+amenities,lack,0.05
+amenities,took,0.04
+amenities,stuck,0.05
+amenities,adjust,0.04
+amenities,passed,0.03
+amenities,learned,0.03
+amenities,children,0.23
+amenities,stock,0.05
+transport,grip,0.04
+transport,foolhardy,0.04
+transport,major,0.04
+transport,stranger,0.04
+transport,credit,0.04
+transport,mode,0.04
+transport,largest,0.22
+gas-,augers,0.26
+gas-,sharpened,0.06
+gas-,powered,0.06
+gas-,blades,0.06
+forest fire,transmission,0.29
+forest fire,lines,0.08
+forest fire,patrols,0.31
+forest fire,transmission lines,0.06
+roads,cases,0.24
+roads,railways,0.05
+pin,struck,0.03
+pin,firing,0.18
+pin,hammer,0.02
+tent,last,0.04
+tent,cry,0.26
+tent,somehow,0.06
+tent,thing,0.06
+tent,netting,0.06
+tent,penetrated,0.06
+lawn,traffic,0.21
+lawn,deposit,0.25
+lawn,neighbor's,0.25
+lawn,fight,0.25
+buy,send,0.21
+grouse,drumming,0.16
+typewriters,clatter,0.2
+typewriters,jangle,0.04
+typewriters,telephones,0.04
+"""first-timers""",provincial,0.04
+"""first-timers""",government,0.05
+"""first-timers""",campgrounds,0.05
+"""first-timers""",private,0.24
+"""first-timers""",government campgrounds,0.04
+"""first-timers""",fill,0.04
+southern homes,product,0.08
+southern homes,added,0.08
+southern homes,propane,0.03
+southern homes,subsequent,0.08
+southern homes,gas,0.09
+southern homes,heating,0.08
+southern homes,seven,0.07
+southern homes,times,0.08
+southern homes,reflect,0.02
+southern homes,cost,0.31
+southern homes,subsequent prices,0.1
+southern homes,costs,0.08
+southern homes,subject,0.08
+lone,buzzes,0.03
+lone,mosquito,0.03
+lone,bigger,0.18
+mosquito,ear,0.18
+drivein,food chains,0.21
+drivein,fast,0.23
+drivein,theaters,0.26
+drivein,abound,0.25
+drivein,chains,0.26
+rut,townspeople,0.22
+prices,people,0.09
+prices,ran,0.07
+prices,bacon,0.07
+prices,course,0.08
+prices,expect,0.08
+prices,gallon,0.08
+prices,breakfast,0.28
+prices,250,0.04
+prices,toast,0.08
+prices,per,0.1
+prices,live,0.07
+prices,location,0.09
+prices,circle,0.08
+prices,price,0.09
+prices,higher,0.08
+prices,arctic,0.09
+prices,hotel,0.07
+prices,avgas,0.08
+prices,eggs,0.1
+prices,ancestry,0.1
+prices,ago,0.06
+prices,bed,0.07
+prices,matter,0.05
+prices,night,0.1
+prices,natives,0.08
+"lights""",incredibly,0.05
+"lights""",brilliant,0.05
+"lights""",surrounded,0.26
+"lights""",free,0.05
+"lights""",stars,0.06
+"lights""",smog,0.01
+"lights""",heavens,0.06
+"lights""",thoughts,0.06
+use metal,hooks,0.09
+use metal,bucktail,0.32
+use metal,lures,0.09
+use metal,spoons,0.09
+use metal,snelled,0.01
+use metal,jigging,0.07
+use metal,others,0.09
+use metal,indescribable,0.02
+bucktail,securing,0.01
+bucktail,teeming,0.01
+bucktail,setting,0.01
+bucktail,beauty,0.01
+bucktail,waters,0.01
+bucktail,true,0.01
+bucktail,types,0.01
+bucktail,undisturbed,0.01
+bucktail,camp,0.01
+bucktail,metal,0.27
+bucktail,green,0.01
+bucktail,pleasure,0.01
+difficult,local,0.27
+difficult,augmented,0.24
+difficult,programming,0.26
+difficult,obtain,0.28
+danger,evergreen,0.05
+danger,senses,0.06
+danger,varied,0.06
+danger,deciduous,0.05
+danger,occasional,0.05
+danger,hues,0.06
+danger,smack,0.06
+danger,warning,0.05
+danger,tail,0.06
+danger,beaver's,0.25
+remote areas,illness,0.07
+remote areas,vie,0.01
+remote areas,distant,0.07
+remote areas,weekly,0.05
+remote areas,require,0.07
+remote areas,monthly,0.05
+remote areas,visit,0.29
+remote areas,may,0.08
+remote areas,medevac,0.33
+remote areas,produce,0.07
+remote areas,example,0.06
+remote areas,extent,0.07
+remote areas,become,0.05
+remote areas,injury,0.07
+remote areas,meat,0.07
+remote areas,medical,0.05
+remote areas,serious,0.05
+remote areas,veterinarian,0.05
+remote areas,smoke,0.01
+remote areas,fresh,0.05
+vie,reefs,0.01
+vie,logs,0.01
+vie,geologists,0.23
+vie,present danger,0.02
+vie,facilities,0.01
+vie,shape,0.01
+vie,carefully,0.01
+vie,sharp,0.01
+vie,amplified,0.06
+vie,rocks,0.01
+vie,centers,0.23
+vie,eye,0.01
+vie,seriously,0.19
+vie,flights,0.24
+vie,civilization,0.01
+vie,basic,0.01
+vie,botanists,0.23
+vie,ever,0.01
+vie,prospectors,0.23
+vie,seaplane,0.01
+vie,injured,0.23
+vie,map,0.01
+vie,biologists,0.23
+vie,seaplanes,0.01
+vie,taken,0.19
+vie,present,0.01
+vie,must,0.01
+vie,distance,0.01
+vie,entomologists,0.23
+vie,kept,0.02
+vie,refueling,0.01
+vie,element,0.01
+vie,surveyors,0.23
+vie,planned,0.01
+vie,suitable,0.01
+vie,ill,0.23
+reefs,reading,0.01
+visit,wood,0.01
+visit,frypan,0.01
+visit,smells,0.01
+visit,mingling,0.01
+visit,bird,0.01
+visit,sound,0.01
+visit,sizzling,0.01
+wood,coffee,0.27
+equipment,similar,0.02
+equipment,hunter,0.02
+equipment,faces,0.16
+pay telephone,town,0.07
+pay telephone,airstrip,0.02
+pay telephone,normal,0.05
+pay telephone,larger,0.25
+pay telephone,buzz,0.06
+pay telephone,procedure,0.29
+neighbors,independently,0.01
+neighbors,able,0.14
+neighbors,owning,0.01
+taildragger,bizjet,0.18
+reek,trucks,0.23
+reek,diesel,0.23
+reek,fumes,0.23
+reek,busses,0.23
+reek,passing,0.22
+employment,seasonal,0.03
+employment,jobs,0.03
+employment,reasons,0.03
+employment,construction jobs,0.02
+employment,moved,0.03
+employment,born,0.02
+employment,parents,0.03
+employment,following,0.18
+construction jobs,transients,0.17
+experience northern life,opportunity,0.02
+experience northern life,camaraderie,0.31
+experience northern life,friendship,0.3
+experience northern life,happy,0.02
+cash basis,customer,0.29
+cash basis,head,0.07
+cash basis,someone,0.06
+cash basis,unless,0.05
+cash basis,transactions,0.07
+cash basis,landing,0.06
+cash basis,lets,0.06
+cash basis,know,0.05
+cash basis,strip,0.06
+cash basis,meet,0.27
+snowmachine,extreme temperatures,0.01
+snowmachine,top,0.04
+snowmachine,whiteouts,0.05
+snowmachine,exceeding,0.01
+snowmachine,blowing,0.01
+snowmachine,temperatures,0.24
+snowmachine,crystals,0.01
+snowmachine,condition,0.05
+snowmachine,extreme,0.06
+northern,wildlife,0.01
+northern,land,0.01
+northern,elsewhere,0.01
+northern,signature,0.01
+northern,seems,0.33
+northern,scene,0.33
+northern,bush,0.01
+northern,authenticity,0.01
+northern,found,0.01
+voice contact,exception,0.06
+voice contact,flight,0.07
+voice contact,plans,0.06
+voice contact,rather,0.27
+voice contact,freedom,0.02
+voice contact,lower,0.05
+voice contact,rule,0.06
+voice contact,northern home,0.01
+voice contact,mandatory,0.06
+voice contact,altitudes,0.29
+flight,secluded,0.06
+flight,hunting,0.07
+flight,afforded,0.06
+flight,within,0.03
+flight,superb,0.06
+flight,was,0.07
+tires,squealing,0.18
+sport,commercial,0.18
+sport,trapping,0.02
+change,brings,0.2
+home,develop,0.07
+home,started,0.07
+home,breaks,0.07
+home,machine,0.29
+home,dependable,0.05
+home,death situation,0.08
+home,rifle,0.07
+home,care,0.02
+home,could,0.03
+home,situation,0.07
+machine,death,0.16
+whites,also,0.18
+twig,snaps,0.18
+lake side,communities,0.09
+lake side,companies,0.01
+lake side,little,0.06
+lake side,although,0.06
+lake side,community,0.08
+lake side,differ,0.33
+lake side,urban,0.08
+lake side,look,0.07
+lake side,escape,0.07
+lake side,living,0.05
+lake side,northern community,0.09
+lake side,average,0.06
+companies,taxi,0.29
+companies,settlements,0.29
+companies,years,0.32
+companies,still,0.14
+companies,ground,0.26
+companies,fiftieth trip north,0.02
+companies,equipped,0.02
+companies,fuel,0.01
+companies,trip north,0.02
+companies,scheduled,0.2
+companies,"it""",0.02
+companies,television,0.01
+companies,severely,0.19
+companies,cable,0.01
+companies,standards,0.06
+companies,large,0.34
+companies,round,0.01
+companies,charter,0.27
+companies,year,0.02
+companies,delivered,0.29
+companies,really,0.01
+companies,repairs,0.02
+companies,entertainment,0.01
+companies,restricted,0.27
+companies,northern dwellers,0.01
+companies,poles,0.02
+companies,available,0.31
+companies,southerner,0.06
+companies,transportation,0.28
+companies,fiftieth trip,0.02
+companies,passengers,0.06
+companies,owners,0.02
+companies,newspapers,0.26
+companies,keep,0.17
+companies,"""cottages""",0.02
+companies,pilots,0.24
+companies,southern colleagues,0.17
+companies,prevent,0.01
+companies,float,0.19
+companies,would,0.12
+companies,basis,0.02
+companies,collected,0.25
+companies,cabin,0.02
+companies,fiftieth,0.01
+companies,modern,0.01
+companies,pipelines,0.01
+companies,bus,0.24
+companies,bus services,0.01
+companies,aware,0.01
+companies,effort,0.28
+companies,fares,0.24
+companies,fly,0.41
+companies,colleagues,0.25
+companies,air,0.15
+companies,near,0.01
+companies,learn,0.28
+companies,paved,0.02
+companies,metropolitan,0.01
+companies,bushpilot,0.34
+companies,telephone,0.02
+companies,exist,0.24
+companies,trip,0.02
+companies,perhaps,0.2
+companies,generally,0.01
+companies,role,0.28
+companies,becomes,0.01
+companies,aircraft learn,0.29
+companies,play,0.27
+companies,electric,0.01
+companies,diminishing,0.19
+companies,hand,0.01
+companies,services,0.02
+companies,weekend,0.01
+companies,recent,0.19
+companies,natural,0.01
+companies,especially,0.26
+companies,metropolitan center,0.02
+companies,implications,0.01
+companies,nearby,0.26
+companies,first,0.01
+companies,requires,0.28
+fiftieth trip north,locate,0.02
+fiftieth trip north,operator,0.02
+fiftieth trip north,usually,0.02
+standards,lake,0.01
+standards,retreats,0.01
+standards,study,0.01
+standards,compare,0.2
+lake,urban areas,0.04
+poles,systems,0.23
+poles,coping,0.23
+poles,wear,0.23
+poles,boards,0.23
+poles,capable,0.23
+poles,lifted,0.23
+poles,heat systems,0.17
+poles,heat,0.23
+poles,clothing,0.21
+poles,run,0.22
+poles,freezing,0.2

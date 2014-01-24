@@ -1,0 +1,3 @@
+from settings import STATIC_ROOT, STATIC_URL
+
+print STATIC_ROOT, STATIC_URL

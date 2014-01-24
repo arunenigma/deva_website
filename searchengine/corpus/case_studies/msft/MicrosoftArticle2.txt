@@ -1,0 +1,38 @@
+THE EXECUTIVE COMPUTER; A Very Stylish Processor of Words
+By Erik Sandberg-Diment
+Published: January 18, 1987
+FACEBOOK
+TWITTER
+GOOGLE+
+E-MAIL
+SHARE
+PRINT
+REPRINTS
+
+THE software selection available for word processing is probably greater than that for any other form of computing. There are packages like Words & Figures, limited in text-handling capabilities but specifically fashioned for spreadsheet users.
+
+Programs like Xywrite, on the other hand,are designed for speed fanatics who want every conceivable feature available instantly and who don't mind memorizing commands complex enough to launch an ICBM. And, diehards who think that a computer display should look as if a flock of chickens had made tracks across it, can still opt for the archaic wonders of WordStar and its emulators.
+
+One product, however, has remained unique in focus, taking a graphic approach to text, actually ''painting'' the characters on the screen in as much detail as the hardware allows.
+
+Word ($450 for the I.B.M. PC and compatibles, $395 for the Macintosh, from the Microsoft Corporation, Redmond, Wash., 98073, (206) 882-8080) displays boldface text as bold characters and italics as italics. It underlines the underlined, shows sub- and superscripts on screen and leaves strikeouts revealed for those who like to have some semblance of an edit-trace while working on their manuscripts.
+
+All this fancy filigree comes at a cost, of course. Word was until recently a program with all the speed and liquidity of a slug skating across salt. But the latest release, version 3.1, has set the electronic juices to flowing at a rate at which the program is no longer the world's slowest word processor, but rather falls quite adequately into the middle speed range along with such programs as MultiMate, Volkswriter Deluxe and WordPerfect.
+
+It is, accordingly, a program to be looked into by those who need precise control over the formatting of their output. For technical papers, footnote-strewn theses and other format-intensive copy, it not only offers almost every conceivable choice of output, but displays it on screen in more or less its final form, clearly - well, as clearly as current displays allow.
+
+Also it will print the finished copy on more different brands of printers than I even knew existed. The printer options are so numerous, in fact, that Word dedicates a separate 100-page manual to them. All the same, extensive printer options and improved tempo notwithstanding, the program is simply too massive and too complex to be used if your needs are for correspondence or straight manuscript.
+
+Suprisingly, as intricate as the program is, conquering the basics of Word is reasonably easy, because it comes with an unusually complete and detailed disk-based tutorial. It is almost, though not quite, good enough to transform a first-timer into a word-processing pro.
+
+That being so, one cannot help but wonder why Microsoft, in supplying an otherwise easy-to-follow, semi-automated installation process, has inserted such stumbling blocks to making a start as: ''You need to type the directory you want to copy Word to. As long as this directory is in your search path, you can run Word from any directory on the hard disk.'' And first-time users must cope with such cryptic: ''Please type the full pathname of the directory for the Word program files (for example, bin or bin/com),'' and ''Note if you have a serial printer, be certain to set the parameters with the DOS MODE command before you start Word.''
+
+Most computer users, even those whose machines sport hard disks, do not fully understand the arcane concepts underlying paths and directories, if indeed they understand them at all. Nor have they fathomed DOS at the command level. Indeed, they should have to do neither. It is quite possible to write a program that will painlessly create its own directory on a hard disk. I have run a number of programs requiring for their initiation no more than that one enter an install command. They do the rest. Perhaps Microsoft, creator of MS-DOS, cannot stand the thought of its original claim to fame being invisible to the user. ISUPPOSE the needless awkwardness of the program's installation on a hard disk is a minor point if those confused by it can find someone else to do the job for them. And certainly there are other small niceties in the program's approach to the beginner. For instance, although the tutorial requests one to type in one's first name, it does allow enough room for even my lengthy surname, preceded by a title. I'll be darned if I'm going to let a computer get personal enough to address me in the familiar form. Once past the tutorial, which, I should note, is rather more than an ordinary lunch-hour diversion, the user is provided with an extensive context-sensitive help facility that can be consulted at any time during the running of the actual program. This help feature is apt to be relied upon heavily until one is truly familiar with and a regular user of the program. Word is so labyrinthine and feature-filled - page measurements, for example, can be designated in centimeters, characters, inches, picas, points or a mix of any of these units within one document - that it is very easy to become overwhelmed.
+
+Rather than requiring its users to learn a command structure in order to deal with all its intricacies, Word employs a menu structure displaying the pertinent choices continuously at the bottom of the screen. This artifice parallels that of Microsoft's other major applications program, Multiplan. For users of that spreadsheet, Word's menu approach should be a snap to master. Others may find it quite a struggle, because the menus are both extensive and multilayered.
+
+Word is indubitably a program whose basics are relatively easily learned but whose full capabilities are rather more difficult to master. Whether the effort is worth one's time or not depends on the particular tasks to be asked of one's word processor. This is a program for those needing comprehensive, even multipage footnotes.
+
+It would be a good choice for someone who wants not only a vast, flexible selection of fonts, spacing, margins and tabs to produce elaborate text presentations, but the ability to save the style sheets devised for such presentations for use with future documents as well. Word is probably the best formatting facility and screen display of one's verbal machinations to be found in any word-processing program on the market.
+
+For those whose main focus is words themselves rather than elaborate tabular data or illuminated e.e. cummings-like discourse, the overwhelming complexity of the program militates against it. As impressed as I am with what the software is capable of, I am tempted to paraphrase a now familiar refrain by commenting, ''Real writers don't use Word.''

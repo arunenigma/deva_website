@@ -1,0 +1,118 @@
+san francisco,area,0.01
+san francisco,selected,0.02
+san francisco,interviewer,0.05
+san francisco,source/,0.01
+san francisco,marn,0.01
+area,celebrated,0.01
+area,reference,0.01
+area,resident,0.01
+area,participate,0.01
+area,speak,0.01
+area,speculate,0.01
+area,explain,0.01
+area,criterion,0.01
+area,answer,0.01
+area,recently,0.01
+area,eligibility,0.01
+area,problems,0.01
+area,refused,0.01
+area,phone,0.01
+area,using,0.01
+area,age,0.01
+area,study,0.01
+area,procedure,0.01
+selected,would,0.01
+selected,answered,0.01
+selected,interested,0.01
+selected,knowing,0.01
+selected,francisco,0.02
+selected,interviewed,0.01
+selected,whether,0.01
+selected,asked,0.01
+selected,hispanic,0.02
+francisco,had,0.03
+hispanics,eligible,0.01
+eligible,shown,0.04
+eligible,used,0.06
+eligible,considered,0.05
+eligible,was,0.04
+eligible,answering,0.06
+eligible,number,0.04
+eligible,feasible,0.04
+eligible,telephone surveys,0.06
+eligible,also,0.02
+eligible,efficient,0.03
+eligible,surveys,0.03
+eligible,approach,0.04
+san,product,0.04
+san,presence,0.03
+san,messages,0.04
+san,warning,0.04
+san,awareness,0.04
+unlisted,including,0.03
+including,opinions,0.05
+including,language,0.05
+including,dialed,0.06
+including,interviews,0.05
+including,random,0.04
+including,conducted,0.04
+including,interviewers,0.04
+including,note,0.04
+including,chance,0.03
+including,preference,0.04
+including,bilingual,0.02
+including,gives,0.03
+65,given,0.01
+65,respondent,0.08
+65,18,0.08
+65,household,0.08
+65,within,0.29
+65,years,0.01
+65,birthday,0.04
+within,asking,0.01
+san francisco area,sampling,0.03
+sampling,adults,0.03
+sampling,alcoholic,0.03
+sampling,determine,0.03
+sampling,signs,0.03
+sampling,consumer products,0.03
+sampling,telephone1,0.04
+sampling,concerning,0.02
+sampling,beverages,0.03
+sampling,aware,0.03
+sampling,adult,0.03
+sampling,wanted,0.05
+sampling,cigarettes,0.03
+sampling,products,0.03
+sampling,problem,0.03
+sampling,hispanic adults,0.04
+sampling,consumer,0.03
+sampling,researchers,0.03
+problem,probability,0.03
+probability,selection,0.03
+probability,inherent problem,0.05
+probability,telephone,0.05
+probability,numbers,0.03
+probability,use,0.03
+probability,exclusion,0.03
+probability,guaranteeing,0.03
+probability,telephone numbers,0.03
+probability,directories,0.03
+probability,equal,0.05
+probability,procedureavoids,0.04
+probability,inherent,0.03
+researchers,digit,0.06
+researchers,dialing,0.01
+digit,usingrandom,0.05
+digit,sample,0.05
+digit,sampled,0.06
+digit,needed,0.06
+digit,interview,0.05
+digit,solution,0.06
+digit,respondents,0.06
+digit,contact,0.06
+digit,were,0.05
+health,109,0.02
+109,reports,0.02
+109,275-283,0.01
+109,public,0.02

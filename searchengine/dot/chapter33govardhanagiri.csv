@@ -1,0 +1,203 @@
+prompt life,gratitude,0.03
+prompt life,returned,0.15
+prompt life,govardhanagiri,0.02
+prompt life,soon,0.02
+prompt life,response,0.03
+prompt life,held,0.16
+prompt life,saving,0.02
+prompt life,hearts,0.02
+prompt life,overwhelming,0.03
+prompt life,receded,0.04
+prompt,home,0.11
+sanction,made,0.01
+sanction,mandatory,0.01
+sanction,scriptures,0.02
+sanction,whether,0.02
+sanction,practice,0.01
+sanction,mind,0.02
+sanction,due,0.01
+sanction,course,0.11
+sanction,doubt,0.03
+sanction,customary,0.02
+spell doom,consequences,0.01
+spell doom,would,0.12
+spell doom,evil,0.01
+spell doom,discontinued,0.02
+would,evil consequences,0.04
+suffering,save,0.1
+suffering,took,0.09
+actions,prosperity,0.02
+actions,give,0.01
+actions,among,0.01
+actions,oriented,0.02
+actions,benefit,0.03
+actions,promoting,0.14
+actions,selfishness,0.03
+actions,obvious,0.01
+actions,pleasing,0.01
+actions,amounting,0.01
+abated,protected,0.1
+abated,remain,0.01
+abated,assured,0.01
+vraja,little,0.01
+vraja,uprooted,0.01
+vraja,shelter,0.01
+vraja,provide,0.01
+vraja,finger,0.01
+vraja,govardhana,0.01
+vraja,umbrella,0.06
+cattle,caring,0.02
+cattle,serving,0.02
+cattle,nature,0.05
+cattle,preserving,0.01
+cattle,well,0.01
+cattle,primary,0.01
+cattle,intellectual,0.02
+cattle,person,0.07
+cattle,health,0.11
+cattle,brahmanas,0.04
+cattle,every,0.01
+every,calling,0.06
+every,assigned,0.01
+every,duties,0.01
+calling,living,0.08
+calling,certain,0.08
+calling,according,0.05
+occurrences,control,0.03
+occurrences,exception,0.03
+occurrences,therefore,0.03
+occurrences,had,0.05
+occurrences,proper,0.04
+occurrences,anywhere,0.03
+occurrences,mode,0.13
+occurrences,advised,0.03
+occurrences,action,0.05
+occurrences,operation,0.04
+ideal,rather,0.01
+ideal,vain,0.13
+ideal,performing,0.02
+ideal,effect,0.01
+ideal,trying,0.01
+ideal,propitiate,0.02
+krishna,said,0.09
+krishna,people,0.31
+krishna,advice,0.25
+krishna,seeking,0.03
+krishna,appreciate,0.17
+krishna,prepared,0.25
+krishna,did,0.15
+krishna,sense,0.29
+krishna,follow,0.32
+krishna,naturally,0.28
+krishna,saw,0.24
+krishna,cowherds,0.17
+krishna,change,0.36
+people,help,0.01
+people,ran,0.01
+people,rescue,0.01
+seeking,floods,0.04
+work precision,duty,0.02
+work precision,position,0.04
+work precision,service,0.02
+work precision,clock,0.02
+work precision,things,0.02
+work precision,hand,0.02
+work precision,were,0.03
+work precision,carrying,0.02
+work precision,fall,0.15
+work precision,detached,0.05
+work precision,earnestly,0.16
+work precision,treated,0.05
+illusory power,boy,0.01
+illusory power,six,0.01
+illusory power,old,0.12
+illusory power,contrived,0.01
+illusory power,send,0.13
+illusory power,year,0.01
+illusory power,torrential,0.02
+illusory power,underestimating,0.04
+indra,standing,0.17
+indra,mountain,0.16
+indra,seven,0.13
+indra,krishna standing,0.27
+indra,like,0.08
+indra,pillar,0.14
+indra,accept,0.14
+indra,days,0.23
+indra,finally,0.14
+indra,holding,0.18
+indra,defeat,0.23
+human,peril,0.03
+human,flood,0.26
+human,lives,0.05
+human,claimed,0.05
+revenge,thought,0.03
+revenge,untimely,0.03
+revenge,pour,0.2
+revenge,expressed,0.03
+improvised,confidence,0.02
+improvised,family,0.04
+improvised,inspired,0.01
+improvised,herd,0.14
+improvised,brought,0.01
+bestow prosperity,good,0.12
+bestow prosperity,form,0.01
+bestow prosperity,harvest,0.17
+bestow prosperity,take,0.01
+bestow prosperity,believed,0.01
+good,come,0.02
+vrajas,explanation,0.11
+vrajas,us,0.1
+vrajas,superstitious,0.13
+vrajas,seem,0.13
+vrajas,might,0.1
+'krishna\x92s',thinking,0.01
+'krishna\x92s',convinced,0.1
+'krishna\x92s',logical,0.01
+convinced,also,0.03
+social,ritual,0.03
+social,prompted,0.12
+social,religiously,0.02
+social,observed,0.02
+social,injunctions,0.02
+social,generations,0.02
+'person\x92s',life,0.14
+'person\x92s',deeds,0.14
+'person\x92s',depends,0.14
+'person\x92s',birth,0.12
+'person\x92s',life depends,0.11
+'person\x92s',previous,0.11
+gokula,wished,0.11
+gokula,spite,0.02
+gokula,importance,0.03
+gokula,whole,0.02
+gokula,angry,0.02
+gokula,foiling,0.01
+gokula,place,0.01
+gokula,occupied,0.03
+gokula,wipe,0.02
+entire earth,clouds,0.03
+entire earth,pouring,0.02
+entire earth,atmospheric,0.02
+entire earth,energy,0.03
+entire earth,phenomena,0.02
+entire earth,applicable,0.02
+entire earth,rain,0.02
+entire earth,natural,0.02
+entire earth,principle,0.03
+entire earth,forming,0.02
+entire earth,intrinsic,0.01
+entire earth,occurring,0.16
+sacrifice,chapter,0.14
+sacrifice,33,0.01
+sacrifice,busily,0.01
+sacrifice,organising,0.01
+nanda,rains,0.15
+nanda,god,0.14
+nanda,please,0.16
+nanda,father,0.12
+nanda,was,0.27
+nanda,asked,0.25
+nanda,told,0.25
+eager,know,0.1
+eager,purpose,0.01

@@ -1,0 +1,551 @@
+busied,attending,0.18
+busied,comfortably,0.03
+busied,guests,0.04
+killig,shakatasura,0.06
+killig,shakata,0.04
+killig,often,0.04
+killig,vadha,0.23
+killig,incident,0.05
+killig,referred,0.05
+escaped,chasing,0.16
+escaped,around,0.16
+escaped,ran,0.17
+escaped,nimble,0.18
+escaped,yashoda chasing,0.15
+'child\x92s',maidens,0.28
+'child\x92s',enjoyed,0.06
+spoilt,indulging,0.04
+spoilt,swindled,0.05
+spoilt,uncontrolled,0.23
+spoilt,excessive,0.04
+spoilt,drinking,0.04
+safe,clinging,0.17
+saint poetess,story,0.03
+saint poetess,death,0.04
+saint poetess,'putana\x92s',0.05
+saint poetess,famous,0.04
+saint poetess,big,0.02
+saint poetess,jolt,0.04
+saint poetess,andal,0.05
+saint poetess,mentioned,0.24
+saint poetess,tiruppavai,0.05
+saint poetess,tamil,0.01
+realise,suffer,0.06
+realise,prosperity,0.04
+realise,misfortune,0.06
+realise,righteous,0.04
+realise,lead,0.04
+realise,astray,0.05
+realise,person,0.06
+realise,wanted,0.03
+realise,path,0.04
+realise,pride,0.22
+realise,criminal,0.04
+praises,sang,0.18
+praises,attitude,0.03
+praises,habitation,0.02
+praises,turn,0.03
+reinstate,spiritual,0.06
+reinstate,knowledge,0.25
+reinstate,hari,0.12
+reinstate,devotees,0.06
+reinstate,sri,0.04
+reinstate,time,0.03
+reinstate,consequence,0.06
+reinstate,position,0.04
+infant,plans,0.04
+infant,conviction,0.25
+infant,began,0.05
+infant,none,0.05
+infant,evil,0.06
+infant,vishnu,0.05
+infant,overpower,0.05
+infant,evil plans,0.04
+infant,hatch,0.06
+infant,alone,0.04
+infant,putana,0.06
+weight,suddenly,0.18
+weight,unbearable,0.18
+weight,became,0.14
+vasudeva,fascinating,0.05
+vasudeva,son,0.07
+vasudeva,26,0.04
+vasudeva,expressed,0.05
+vasudeva,greatness,0.05
+vasudeva,lord,0.25
+vasudeva,parikshit,0.07
+vasudeva,feats,0.07
+vasudeva,desire,0.04
+vasudeva,know,0.04
+vasudeva,listening,0.05
+vasudeva,chapter,0.07
+vasudeva,impressive,0.01
+vasudeva,miraculous,0.05
+lord,brave,0.01
+lord,outstanding,0.01
+lord,young,0.01
+lord,draw,0.01
+lord,morals,0.01
+lord,feature,0.01
+lord,interest,0.01
+lord,achievements,0.01
+lord,life,0.01
+lord,killing,0.01
+lord,hear,0.01
+lord,ethics,0.01
+lord,man,0.01
+lord,dangerous,0.01
+lord,appearance,0.01
+brave,even,0.01
+arose,darkness,0.21
+arose,unforeseen,0.04
+arose,started,0.01
+arose,whirlwind,0.04
+arose,blinding,0.04
+arose,massive,0.04
+arose,dust,0.04
+arose,followed,0.03
+arose,throwing,0.04
+arose,cloud,0.03
+darkness,send,0.01
+send,tantrum,0.03
+send,hit,0.03
+send,flying,0.03
+send,kicking,0.03
+send,legs,0.03
+tantrum,hard,0.14
+yashoda,firmament,0.06
+yashoda,entire,0.06
+yashoda,planets,0.06
+yashoda,universe,0.05
+yashoda,mouth,0.06
+yashoda,stars,0.27
+yashoda,earth,0.06
+yashoda,surprised,0.07
+yashoda,galaxy,0.06
+rudra,great,0.13
+escape,sigh,0.04
+escape,spread,0.04
+escape,relief,0.21
+nalakubera,manigriva,0.25
+nalakubera,names,0.06
+calves,let,0.04
+calves,nobody,0.23
+calves,loose,0.05
+calves,supervise,0.05
+vraja,affectionate,0.05
+vraja,cowherd,0.05
+vraja,never,0.01
+vraja,back,0.03
+vraja,boys,0.06
+vraja,cowherd boys,0.04
+vraja,supernatural,0.05
+vraja,childlike,0.05
+vraja,embracing,0.05
+vraja,anger,0.25
+vraja,emotional,0.05
+vraja,pranks,0.05
+vraja,provoked,0.06
+vraja,endearing,0.05
+vraja,momentary,0.05
+cowherd boys,company,0.08
+mischiefs,boy,0.22
+mischiefs,episode,0.05
+mischiefs,another,0.04
+mischiefs,trace,0.01
+mischiefs,managing,0.03
+mischiefs,interesting,0.04
+mischiefs,make,0.02
+mischiefs,discuss,0.04
+mischiefs,malice,0.04
+mischiefs,hearing,0.04
+mischiefs,talk,0.05
+mischiefs,difficulty,0.04
+mischiefs,without,0.04
+mischiefs,jokingly,0.04
+mischiefs,directly,0.05
+mischiefs,sprightly,0.04
+mischiefs,reading,0.04
+mischiefs,yet,0.03
+boy,bowed,0.01
+boy,disappeared,0.01
+curds,fond,0.19
+ground,like,0.04
+ground,balloon,0.05
+ground,rock,0.05
+ground,speedily,0.04
+ground,crashed,0.22
+ground,descended,0.04
+ground,deflated,0.06
+ground,killed,0.06
+experience,provided,0.05
+experience,eyes,0.05
+experience,closed,0.06
+experience,bewildering,0.05
+experience,fear,0.05
+experience,toddler,0.25
+experience,similar,0.05
+peg,wood,0.03
+peg,pyramid,0.04
+peg,logs,0.04
+peg,form,0.05
+peg,reach,0.05
+peg,high,0.19
+peg,used,0.02
+peg,pile,0.04
+peg,bend,0.04
+peg,hung,0.04
+peg,climb,0.07
+finger length,short,0.21
+finger length,extension,0.03
+finger length,always,0.01
+finger length,surprisingly,0.25
+finger length,fell,0.02
+slackening,fervour,0.02
+slackening,initially,0.02
+slackening,steady,0.02
+slackening,due,0.02
+slackening,increase,0.15
+kubera,'\x91ignorance',0.06
+kubera,redeems,0.06
+kubera,freedom,0.01
+kubera,breaks,0.06
+kubera,message,0.06
+kubera,sin,0.05
+kubera,binds,0.06
+kubera,fetters,0.06
+kubera,sons,0.26
+kubera,blissful,0.05
+kubera,grants,0.06
+kubera,devotion,0.05
+rod,spank,0.05
+rod,picked,0.22
+face,forced,0.19
+face,please,0.03
+face,tired,0.03
+divine benevolence,feed,0.01
+divine benevolence,whose,0.24
+divine benevolence,caressed,0.01
+divine benevolence,someone,0.01
+divine benevolence,divinity,0.01
+divine benevolence,owe,0.01
+divine benevolence,meritorious,0.01
+divine benevolence,gratitude,0.01
+divine benevolence,save,0.01
+divine benevolence,child,0.01
+divine benevolence,deed,0.01
+divine benevolence,revealed,0.01
+feed,sure,0.02
+feed,still,0.02
+mortar,forcibly,0.21
+mortar,went,0.04
+mortar,squeeze,0.04
+intent,punishing,0.24
+intent,tie,0.05
+illusion,whether,0.02
+illusion,was,0.02
+illusion,dream,0.19
+illusion,confused,0.04
+rites,ill effects,0.17
+rites,carried,0.25
+rites,ill,0.2
+rites,benedictory,0.23
+rites,effects,0.23
+rites,ward,0.23
+krishna,foster parents,0.04
+krishna,reducing,0.06
+krishna,honouring,0.06
+krishna,performing,0.06
+krishna,engaged,0.06
+krishna,number,0.05
+krishna,birthday,0.07
+krishna,longevity,0.06
+krishna,wicked,0.08
+krishna,foster,0.3
+krishna,parents,0.06
+krishna,burden,0.06
+krishna,brahmanas,0.07
+krishna,nanda,0.07
+krishna,religious,0.06
+krishna,lessened,0.29
+krishna,first,0.03
+celebration,participate,0.21
+celebration,invited,0.22
+celebration,grand,0.19
+celebration,families,0.21
+monkeys,feeding,0.19
+monkeys,angry,0.18
+monkeys,find,0.14
+monkeys,also,0.11
+monkeys,window,0.19
+mundane relationship,consciousness,0.03
+mundane relationship,level,0.26
+mundane relationship,beyond,0.2
+mundane relationship,higher,0.02
+mundane,wonderful,0.17
+house,stealing,0.17
+sooner,heavy,0.15
+sooner,crawled,0.21
+sooner,sight,0.2
+sooner,pair,0.17
+sooner,along,0.14
+sooner,dragging,0.19
+sooner,nearby,0.15
+sorry,dear,0.04
+sorry,missing,0.03
+sorry,equally,0.03
+sorry,were,0.19
+'krishna\x92s',melancholy,0.24
+'krishna\x92s',worse,0.33
+'krishna\x92s',disappearance,0.27
+'krishna\x92s',came,0.21
+'krishna\x92s',subsided,0.33
+'krishna\x92s',wind,0.36
+'krishna\x92s',storm,0.34
+'krishna\x92s',fierce,0.22
+'krishna\x92s',depression,0.24
+pots,enjoy,0.04
+pots,catapult,0.05
+pots,liberal,0.05
+pots,knock,0.05
+pots,weapon,0.06
+pots,flow,0.05
+pots,curd,0.05
+pots,enabling,0.05
+pots,helping,0.05
+pots,hole,0.05
+pots,friends,0.06
+pots,handy,0.23
+throw,coaxed,0.23
+throw,apologetic,0.04
+throw,away,0.03
+throw,look,0.06
+sometime,decided,0.01
+sometime,give,0.13
+sometime,teasing,0.01
+sometime,fun,0.01
+sometime,enjoying,0.01
+'devaki\x92s',demoness,0.26
+'devaki\x92s',enemy,0.06
+'devaki\x92s',said,0.03
+'devaki\x92s',daughter,0.07
+'devaki\x92s',elsewhere,0.06
+'devaki\x92s',associate,0.06
+'devaki\x92s',born,0.06
+'devaki\x92s',reflecting,0.06
+'devaki\x92s',words,0.05
+supreme lord,devotee,0.24
+devotee,humble,0.01
+devotee,saw,0.01
+repeat performance,witnessed,0.25
+repeat performance,earlier,0.24
+witnessed,extraordinary,0.01
+witnessed,performance,0.01
+witnessed,vision,0.01
+wealth,obeisance,0.01
+wealth,full,0.04
+wealth,opened,0.01
+wealth,god,0.18
+wealth,offered,0.01
+wealth,ecstasy,0.01
+wealth,communion,0.01
+wealth,reverence,0.01
+wealth,previous,0.01
+obeisance,wide,0.01
+obeisance,innocent,0.01
+obeisance,countenance,0.01
+obeisance,view,0.01
+obeisance,inside,0.01
+mud,looking,0.17
+mud,complained,0.02
+mud,chided,0.03
+mud,force,0.03
+narada,banks,0.05
+narada,failed,0.03
+narada,respectful,0.2
+narada,overpowered,0.04
+persisted,attempt,0.03
+persisted,though,0.03
+persisted,exhausted,0.03
+persisted,accept,0.02
+persisted,refused,0.17
+persisted,defeat,0.03
+round,waist,0.22
+fondlig,one,0.12
+fondlig,year,0.01
+fondlig,lap,0.01
+fondlig,day,0.01
+one,old,0.01
+one,tried,0.01
+one,elders,0.01
+one,act,0.01
+one,powerful,0.01
+one,convince,0.01
+one,seen,0.01
+one,believe,0.01
+old,capable,0.01
+arjuna,named,0.02
+arjuna,two,0.19
+arjuna,trees,0.03
+arjuna,existence,0.02
+arjuna,jamala,0.03
+arjuna,history,0.02
+drunken state,mountain,0.07
+drunken state,engage,0.26
+drunken state,damsels,0.06
+drunken state,gardens,0.07
+drunken state,river ganges,0.04
+drunken state,river,0.07
+drunken state,gandharva,0.29
+drunken state,kailasha,0.07
+drunken state,ganges,0.07
+drunken state,sports,0.07
+engage,gandharva damsels,0.13
+youths,subjected,0.04
+youths,curse,0.19
+youths,indifference,0.04
+youths,holy,0.02
+sleep,krishna dozing,0.01
+sleep,moment,0.14
+sleep,dozing,0.02
+sleep,noticed,0.02
+razed,uprooted,0.18
+locate,lost,0.19
+locate,depressed,0.18
+locate,could,0.14
+locate,anywhere,0.19
+locate,crying,0.17
+locate,sat,0.19
+radiant,within,0.03
+radiant,persons,0.2
+radiant,emerged,0.18
+radiant,couple,0.03
+elaborate,lunch,0.21
+elaborate,served,0.2
+sage,deplorably,0.22
+sage,suitable,0.24
+sage,wished,0.22
+sage,character,0.22
+sage,manners,0.24
+sage,mend,0.23
+sage,low,0.19
+sage,convenient,0.03
+sage,finding,0.2
+sage,degenerated,0.25
+sage,punishment,0.23
+sage,sky,0.03
+mischief,attend,0.06
+mischief,thinking,0.04
+mischief,secured,0.08
+mischief,work,0.03
+mischief,well,0.03
+mischief,household,0.24
+commotion,confusion,0.18
+commotion,lot,0.18
+commotion,created,0.17
+hastened,fire,0.17
+hastened,remove,0.18
+returned,happily,0.17
+returned,smeared,0.21
+returned,see,0.18
+returned,amused,0.21
+scattered,direction,0.02
+scattered,people,0.02
+scattered,sense,0.02
+scattered,aimlessly,0.02
+scattered,velocity,0.03
+scattered,got,0.16
+scattered,force people,0.01
+people,whereabouts,0.15
+cowherds,cows,0.23
+cowherds,milking,0.16
+cowherds,yield,0.23
+lord krishna,celestial,0.04
+lord krishna,years,0.01
+lord krishna,redeem,0.04
+lord krishna,limit,0.04
+lord krishna,hundred,0.24
+lord krishna,considerate,0.04
+lord krishna,considerate sage,0.06
+damodara,impression,0.03
+damodara,made,0.01
+damodara,stomach,0.03
+damodara,name,0.18
+damodara,tied,0.02
+damodara,rope,0.03
+damodara,belly,0.02
+damodara,gave,0.02
+respect,cover,0.15
+thud,everybody,0.21
+thud,alarming,0.18
+thud,resounding,0.04
+milk,leave,0.03
+milk,udders,0.04
+milk,drink,0.04
+milk,drained,0.2
+sleepy,yawn,0.16
+butter,upper,0.22
+butter,garment,0.05
+butter,churning,0.04
+butter,indicate,0.04
+butter,pulled,0.04
+providence,mercy,0.04
+providence,shown,0.19
+providence,thankful,0.04
+cart,dismay,0.03
+cart,pieces,0.22
+eating,pot,0.04
+eating,broke,0.23
+eating,sitting,0.04
+difficult task,accomplish,0.07
+difficult task,dwarf,0.26
+difficult task,took,0.08
+difficult task,vamanavatara,0.07
+difficult task,wrong,0.07
+difficult task,purpose,0.06
+difficult task,stature,0.28
+difficult task,gigantic,0.04
+difficult task,doer,0.06
+difficult task,grow,0.06
+difficult task,achieve,0.06
+mother,giving,0.18
+mother,need,0.1
+mother,annoyed,0.22
+mother,preference,0.23
+'asura\x92s',neck,0.03
+'asura\x92s',would,0.19
+'asura\x92s',get,0.02
+'asura\x92s',demon,0.03
+'asura\x92s',arms,0.03
+'asura\x92s',tightly,0.03
+'asura\x92s',however,0.02
+'asura\x92s',released,0.02
+'asura\x92s',much,0.01
+'asura\x92s',go,0.02
+'asura\x92s',choked,0.03
+'asura\x92s',hold,0.03
+'asura\x92s',clasped,0.03
+would,crush,0.02
+crush,believed,0.19
+crush,had,0.24
+crush,wheels,0.21
+crush,sent,0.19
+loss,personal,0.17
+eradicate evil,every,0.25
+kamsa,trinavarta,0.31
+kamsa,obliged,0.24
+kamsa,mission,0.25
+kamsa,next,0.18
+kamsa,immovable,0.02
+kamsa,asura,0.31
+next,cursed,0.01
+next,birth,0.02
+bustle,hustle,0.04
+bustle,cry,0.04
+bustle,drowned,0.2
+bustle,hunger,0.04
+ravana,ten,0.04
+ravana,headed,0.06
+ravana,incarnation,0.06
+ravana,youth,0.06
+ravana,rama,0.24

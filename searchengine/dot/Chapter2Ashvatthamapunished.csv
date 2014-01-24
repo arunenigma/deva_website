@@ -1,0 +1,507 @@
+mistake,penance,0.03
+mistake,appear,0.22
+mistake,exhausted,0.03
+mistake,could,0.03
+mistake,energy,0.04
+mistake,felt,0.05
+mistake,repeated,0.06
+mistake,result,0.03
+mistake,sorry,0.06
+mistake,wanted,0.05
+mistake,offered,0.02
+cloth,return,0.02
+cloth,thread,0.03
+cloth,dripping,0.02
+cloth,bath,0.02
+cloth,water,0.15
+cloth,go,0.01
+cloth,river,0.02
+cloth,asked,0.01
+cruelty,innocent boys,0.01
+cruelty,depressed,0.02
+cruelty,inflicted,0.03
+cruelty,contrary,0.03
+cruelty,innocent,0.03
+cruelty,immensely,0.15
+brahmana,back,0.01
+brahmana,held,0.14
+brahmana,fear,0.02
+brahmana,sin,0.02
+brahmana,incurring,0.01
+pupil,embrace,0.08
+pupil,broadminded,0.01
+waist,knees,0.29
+waist,stood,0.14
+waist,covering,0.16
+waist,shame,0.2
+waist,put,0.18
+lord krishna,disgrace,0.04
+lord krishna,humiliation,0.03
+lord krishna,saves,0.04
+lord krishna,demeaning,0.04
+lord krishna,saved,0.2
+lord krishna,different,0.02
+lord krishna,sari,0.04
+lord krishna,blooded,0.04
+lord krishna,hot,0.03
+lord krishna,call,0.2
+lord krishna,lot,0.03
+lord krishna,'it\x92s',0.04
+lord krishna,pathetic,0.04
+lord krishna,extending,0.03
+lord krishna,endlessly,0.03
+lord krishna,unpardonable,0.04
+lord krishna,considered,0.05
+lord krishna,matter,0.04
+lord krishna,act,0.06
+lord krishna,responded,0.03
+brahmahathi,case,0.02
+brahmahathi,pertaining,0.02
+brahmahathi,injunction,0.14
+brahmahathi,applicable,0.02
+brahmahathi,traditional,0.01
+infuriated arjuna,bathe,0.01
+infuriated arjuna,pledged,0.22
+infuriated arjuna,stand,0.01
+bathe,head,0.02
+bathe,bring,0.02
+mud replica,source,0.19
+mud replica,guide,0.04
+mud replica,inspiration,0.03
+weapon,unborn,0.02
+weapon,save,0.02
+weapon,pleaded,0.12
+game,lost,0.05
+boys,young,0.02
+boys,entertain,0.16
+boys,villainous,0.03
+boys,criminal,0.03
+entertain,explained,0.2
+entertain,harmless,0.14
+guru,dakshina,0.01
+guru,'teacher\x92s',0.01
+guru,since,0.13
+guru,mercilessly,0.01
+guru,demanded,0.01
+guru,fees,0.01
+since,always,0.02
+always,sure,0.02
+always,assistance,0.07
+always,saviour,0.05
+waist cloth round,see,0.23
+waist cloth round,disappointed,0.03
+arjuna,even,0.02
+arjuna,voice,0.03
+arjuna,emotionally,0.03
+arjuna,surcharged,0.2
+arjuna,advised,0.02
+arjuna,wisely,0.03
+even,protector,0.01
+even,confidence,0.06
+even,motivated,0.01
+even,keep,0.01
+even,going,0.01
+refrained,action,0.14
+refrained,dastardly,0.02
+entered,city,0.02
+entered,people,0.01
+entered,deluded,0.03
+entered,nude,0.02
+entered,crown,0.02
+entered,laughing,0.02
+entered,way,0.01
+entered,prince,0.02
+entered,stock,0.15
+bhima,indicated,0.03
+bhima,point,0.03
+bhima,hint,0.03
+bhima,weak,0.02
+bhima,tapping,0.02
+bhima,thighs,0.03
+bhima,picked,0.17
+yielded,invincible,0.03
+yielded,bestow,0.25
+yielded,sacrifice,0.04
+yielded,power,0.06
+pandava race heirless,second,0.01
+pandava race heirless,urge,0.01
+pandava race heirless,man,0.01
+pandava race heirless,like,0.01
+pandava race heirless,possessed,0.01
+pandava race heirless,try,0.22
+pandava race heirless,instigated,0.01
+pandava race heirless,time,0.01
+pandava race heirless,luck,0.01
+second,pandava race,0.21
+second,race heirless,0.2
+second,strong,0.02
+race,neighed,0.01
+neighed,celestial,0.12
+neighed,bound,0.01
+neighed,victim,0.01
+neighed,horse,0.14
+neighed,draupadi,0.01
+neighed,instead,0.1
+neighed,presented,0.01
+neighed,ucchaishravas,0.16
+neighed,similar,0.12
+tutelage,accept,0.08
+tutelage,else,0.01
+'\x93you',duty,0.2
+'\x93you',towards,0.12
+'\x93you',duty towards,0.11
+'\x93you',forget,0.2
+'\x93you',primary,0.13
+style,inimical,0.03
+style,activities,0.02
+style,cry,0.03
+style,anecdotes,0.02
+style,interesting,0.02
+style,adopt,0.02
+style,mind,0.03
+style,soon,0.02
+style,defeated,0.02
+style,infants,0.02
+style,made,0.01
+style,withdraw,0.03
+style,usually,0.18
+style,recluse,0.02
+style,drawing,0.03
+desperation,resort,0.18
+desperation,invoked,0.03
+desperation,last,0.01
+main stay,kripi,0.03
+main stay,remind,0.03
+main stay,think,0.21
+mother,instructed,0.1
+mother,returning,0.01
+hearted,pride,0.02
+hearted,hard,0.02
+hearted,pamper,0.17
+sorrow,losing,0.01
+sorrow,offspring,0.12
+sorrow,aware,0.02
+eyes,did,0.01
+eyes,manage,0.03
+eyes,forego,0.02
+eyes,thought,0.02
+eyes,afford,0.15
+ashvatthama,life,0.02
+ashvatthama,followed,0.01
+ashvatthama,ran,0.02
+ashvatthama,dear life,0.03
+ashvatthama,dear,0.02
+ashvatthama,capacity,0.02
+ashvatthama,beyond,0.18
+ashvatthama,chase,0.02
+dear,vigorous,0.13
+'uttara\x92s',thus,0.02
+'uttara\x92s',taught,0.01
+'uttara\x92s',mahabharatha,0.03
+'uttara\x92s',added,0.01
+'uttara\x92s',affected,0.02
+'uttara\x92s',blood,0.02
+'uttara\x92s',according,0.17
+'uttara\x92s',ineffective,0.02
+thus,learnt,0.03
+thus,self,0.03
+thus,ability,0.04
+thus,appreciated,0.03
+thus,someone,0.04
+added,within,0.04
+added,shastras,0.04
+added,shaven,0.04
+added,had,0.04
+added,also,0.02
+added,was,0.03
+added,kingdom,0.04
+added,boiling,0.04
+added,building,0.03
+added,tonsure,0.04
+added,exiled,0.04
+added,misery,0.04
+added,hatred,0.04
+baffled,light,0.04
+baffled,powerful,0.17
+baffled,flashing,0.04
+baffled,blinding,0.03
+baffled,approach,0.06
+divulged,lethal,0.15
+divulged,ignorance,0.02
+divulged,secret,0.01
+divulged,retrieving,0.02
+agreed,avoided,0.15
+agreed,compromise,0.18
+kshatriya,aspire,0.14
+kshatriya,cannot,0.02
+kshatriya,unfortunately,0.02
+kshatriya,student,0.02
+child,born,0.01
+child,revived,0.01
+child,later,0.09
+child,dead,0.01
+dronacharya,art,0.03
+dronacharya,preceptor,0.02
+dronacharya,revered,0.02
+dronacharya,'\x93it',0.07
+dronacharya,master,0.03
+dronacharya,ambition,0.17
+evil aim,exhilarated,0.22
+evil aim,achieved,0.21
+kurukshetra war,countless deaths,0.01
+kurukshetra war,caused,0.19
+kurukshetra war,deaths,0.03
+kurukshetra war,sides,0.03
+kurukshetra war,countless,0.21
+dusshasana,court,0.01
+dusshasana,brother,0.13
+dusshasana,public,0.01
+dusshasana,hair,0.01
+dusshasana,drag,0.01
+dusshasana,disrobe,0.01
+dusshasana,sent,0.02
+foetus,set,0.02
+foetus,family,0.15
+foetus,mission,0.03
+foetus,killing,0.03
+foetus,women,0.03
+family,gross,0.02
+family,ingratitude,0.02
+heads,cut,0.02
+heads,duryodhana expecting,0.02
+heads,sleeping,0.03
+heads,sons,0.03
+heads,accolades,0.19
+heads,expecting,0.03
+drona,dexterity,0.21
+drona,regarding,0.04
+drona,'guru\x92s',0.07
+drona,'boy\x92s',0.05
+drona,conveyed,0.04
+drona,principle,0.05
+drona,besides,0.03
+drona,claims,0.04
+drona,appreciating,0.04
+drona,retraction,0.04
+drona,surprised,0.04
+opponent,sending,0.02
+opponent,acted,0.13
+opponent,withdrew,0.02
+opponent,accordingly,0.01
+turned,advice,0.09
+dhritharashtra,birth,0.02
+dhritharashtra,blindfolded,0.04
+dhritharashtra,husband,0.17
+dhritharashtra,sight,0.03
+game plan,miserably,0.02
+game plan,caught,0.02
+game plan,alongside,0.03
+game plan,eldest,0.04
+game plan,shakuni,0.02
+game plan,got,0.01
+game plan,cunning,0.18
+encouraged,play,0.16
+encouraged,foul,0.15
+overtake,favourite,0.14
+overtake,strongly,0.14
+overtake,feared,0.19
+duryodhana,cousins,0.26
+duryodhana,upon,0.22
+duryodhana,refused,0.24
+duryodhana,broke,0.25
+duryodhana,share,0.23
+condition,overwhelmed,0.1
+subhadra,'krishna\x92s',0.04
+subhadra,abhimanyu,0.19
+subhadra,'arjuna\x92s',0.03
+subhadra,sister,0.03
+pandava,overpowered,0.18
+pandava,exterminate,0.2
+pandava,repentance,0.24
+pandava,cruel,0.2
+pandava,impulse,0.2
+eminent teacher,iron man,0.03
+eminent teacher,battle,0.18
+iron man,furiously,0.05
+iron man,thigh,0.03
+iron man,rival,0.03
+iron man,side,0.03
+iron man,duel,0.03
+iron man,fulfilled,0.04
+iron man,smashed,0.04
+iron man,vow,0.05
+iron man,hand,0.04
+iron man,kauravas,0.03
+iron man,teacher,0.04
+iron man,charged,0.04
+war camp,grudge,0.05
+war camp,attempt,0.04
+war camp,father,0.19
+war camp,cudgel,0.04
+war camp,'drona\x92s',0.04
+war camp,aswatthama,0.04
+war camp,one,0.02
+war camp,please,0.04
+war camp,pick,0.21
+war camp,causing,0.02
+war camp,day,0.02
+one,diadem,0.09
+one,strip,0.09
+one,severest,0.08
+one,subjected,0.12
+bare body,glimpse,0.22
+bare body,would,0.16
+bare body,impenetrable,0.01
+bare body,knew,0.03
+bare body,son,0.02
+bare body,moment,0.01
+bare body,stored,0.02
+bare body,shield,0.02
+brothers,staking,0.03
+brothers,drained,0.03
+brothers,wealth,0.14
+brothers,possessions,0.03
+promise,expected,0.05
+promise,moreover,0.26
+brahmastra,knowing,0.04
+brahmastra,sudarshana,0.03
+brahmastra,supersede,0.03
+brahmastra,behind,0.03
+brahmastra,aimed,0.03
+brahmastra,chakra,0.18
+brahmastra,mischief,0.03
+death,inconsolably,0.13
+death,dear children,0.13
+death,children,0.17
+death,grieved,0.14
+bandage,necessary,0.14
+bandage,carried,0.27
+bandage,many,0.09
+bandage,crucial,0.12
+bandage,remove,0.14
+bandage,years,0.11
+bandage,juncture,0.16
+womb,illusory powers,0.11
+womb,meanwhile,0.03
+womb,illusory,0.02
+womb,powers,0.14
+shielded,body,0.02
+shielded,harm,0.03
+shielded,said,0.01
+shielded,except,0.02
+shielded,leaving,0.16
+shielded,portion,0.02
+shielded,covered,0.02
+shielded,attack,0.02
+shielded,vulnerable,0.02
+thumb,bow,0.03
+thumb,disabled,0.03
+thumb,intention,0.03
+thumb,without,0.03
+thumb,permanently,0.05
+thumb,wicked,0.17
+yudhishthira,belongings,0.17
+yudhishthira,insisted,0.03
+yudhishthira,pawn,0.03
+yudhishthira,wife,0.02
+apple,eye,0.15
+apple,were,0.01
+inflict,kind,0.02
+inflict,trickery,0.01
+inflict,assured,0.01
+inflict,never,0.1
+inflict,decided,0.01
+inflict,worst,0.01
+inflict,victory,0.01
+inflict,raise,0.01
+punishment,ordained,0.02
+punishment,want,0.01
+punishment,lament,0.02
+punishment,generosity,0.02
+punishment,another,0.16
+idol,obeisance,0.04
+idol,paying,0.03
+idol,begin,0.03
+idol,practice,0.15
+idol,morning,0.02
+idol,every,0.03
+warriors,standing,0.03
+warriors,indebted,0.17
+warriors,distinguished,0.02
+warriors,among,0.01
+pandavas,influenced,0.02
+pandavas,maternal,0.02
+pandavas,dice,0.02
+pandavas,deceitful,0.02
+pandavas,washed,0.03
+pandavas,brain,0.03
+pandavas,uncle,0.02
+pandavas,juggling,0.02
+pandavas,hatching,0.14
+archery,science,0.15
+archery,foremost,0.02
+archery,recognizing,0.03
+archery,known,0.01
+archery,match,0.06
+inhuman,devoted,0.04
+inhuman,owed,0.23
+inhuman,unimaginable,0.04
+inhuman,knowledge,0.04
+inhuman,realized,0.03
+hit,able,0.09
+tutor,informed,0.04
+destitute,become,0.08
+innocent boy,mud idol,0.04
+innocent boy,pointed,0.01
+innocent boy,tree,0.2
+innocent boy,mud,0.03
+innocent boy,questioned,0.03
+unethical,met,0.02
+unethical,attitude,0.11
+gandhari,regret,0.01
+gandhari,offering,0.01
+gandhari,expressed,0.07
+gandhari,indebtedness,0.01
+gandhari,readily,0.01
+uttara,'abhimanyu\x92s',0.22
+uttara,carrying,0.03
+counter brahmastra,send,0.21
+counter,told,0.09
+arrows,right,0.02
+arrows,pupils,0.03
+arrows,witnessed,0.02
+arrows,dog,0.03
+arrows,five,0.01
+arrows,forest,0.17
+arrows,mouth,0.02
+arrows,killed,0.02
+balarama,battlefield,0.04
+balarama,displeasure,0.04
+balarama,fair,0.06
+balarama,walked,0.04
+balarama,mace,0.2
+balarama,expressing,0.04
+balarama,fight,0.04
+balarama,annoyed,0.07
+ekalavya,meet,0.01
+ekalavya,went,0.14
+ekalavya,believe,0.01
+ekalavya,verification,0.01
+'man\x92s',swearing,0.04
+'man\x92s',insult,0.04
+'man\x92s',break,0.21
+'man\x92s',future,0.02
+'man\x92s',promised,0.03
+'man\x92s',avenge,0.04
+'man\x92s',seat,0.04
+'man\x92s',sometime,0.04
+'man\x92s',definitely,0.03
+bhil,named,0.03
+bhil,practicing,0.14
+bhil,use,0.01
+bhil,community,0.02
+bhil,know,0.02
+bhil,arrow,0.02
+bhil,curious,0.02
+bhil,perfectly,0.02
+bhil,saw,0.02

@@ -1,0 +1,74 @@
+In a battle for dominance in cloud computing, Google is taking on Microsoft and Amazon in their own back yard.
+Related
+
+Google Concedes That Drive-by Prying Violated Privacy (March 13, 2013)
+ 
+More Tech Coverage
+News from the technology industry, including start-ups, the Internet, enterprise and gadgets.
+On Twitter: @nytimesbits.
+Enlarge This Image
+ 
+Stuart Isett for The New York Times
+Google’s offices in Kirkland, Wash., near Seattle. Google is doubling its office space and hiring more engineers.
+Google said Tuesday that it was doubling its office space near Seattle, just miles from the campuses of Amazon and Microsoft, and stepping up the hiring of engineers and others who work on cloud technology.
+
+It is part of Google’s dive into a business known as cloud services — renting to other businesses access to its enormous data storage and computing power, accessible by the Internet.
+
+In cloud computing, dozens or even thousands of computer servers are joined to create a giant machine capable of handling many tasks at once, from storing data to running Web sites and mobile apps to tackling complicated analytical problems.
+
+Individual software developers, large companies and governments rent these services to run their operations often at a fraction of the cost of buying and managing their own machines.
+
+Amazon Web Services, or A.W.S., is far and away the leader in this area. Amazon expects that this business will eventually be as big as its retail operation.
+
+A.W.S. is followed by Microsoft’s Windows Azure and offerings from other companies including Rackspace, Verizon, I.B.M. and Hewlett-Packard.
+
+Google says the cloud business is a new source of profit and a way to improve the Internet by providing other companies access to its sophisticated computing services.
+
+Analysts say it is also a strategy to lure developers and businesses to use Google products instead of those of archrivals like Amazon and Microsoft.
+
+The cloud business has become so vital to these companies, said James Staten, an analyst at Forrester, because it is crucial to other businesses like mobile apps and online video and music.
+
+Most of the apps that run on Google Android phones, for instance, are built using Amazon’s cloud, and Google would like to wrest back control. Microsoft, Amazon and Google are all competing to host online video, a booming business that relies on cloud services.
+
+“Almost every major consultancy supports Amazon; almost every advertising agency runs on Amazon; if I need to hire 10 people tomorrow to help me build my application, it’s super easy to find people who have Amazon experience,” Mr. Staten said.
+
+Google plans a major recruiting effort to increase its Seattle-area engineering staff by as much as five times. There is already fierce competition among tech companies for talented engineers, and many of those with skills in cloud computing work at Google’s rivals in Seattle.
+
+“We’re not the first in this rodeo, but we have the history of Google,” said Brian Goldfarb, Google’s leader of cloud platform marketing, who joined the company last year after a decade at Microsoft. “We have the best data centers on the planet. You can’t really give engineers a bigger, badder thing to work on.”
+
+Google is also adding 180,000 square feet to its office in Kirkland, Wash., which together with its Seattle office already houses more than 1,000 employees, making it Google’s third largest in the country after its headquarters in Mountain View, Calif., and its office in New York.
+
+The new office space will have all the requisite perks of tech businesses, where typical office cubicles and fluorescent lights are not enough. It will meet green building standards, with a solar roof and wood from recycled shipping containers. The Seattle office, on a canal, has kayaks and paddleboards for employees, and the Kirkland office uses boats for conference rooms, not to mention the office’s espresso bars, massage parlor and climbing wall.
+
+Though the cloud business is still in its early days, Google is already late to the game.
+
+Over the years, Google, Amazon and Microsoft had each built world-class clouds, consisting of several giant data centers in different countries, to run their own businesses — doing things like searching the Web, hosting online video, managing business software and operating an online mall. Amazon was the first to rent its data storage and computing power to outside customers when it started A.W.S. in 2004, and Microsoft and Google followed. Another company with huge data centers and computing power, Apple, does not rent its cloud.
+
+
+Amazon earned $800 million from its cloud services last year, according to analyst estimates. It initially focused on start-up Web companies, but has gone on to offer features like e-mail and database search that are attractive to more mainstream corporate customers, including the InterContinental Hotels Group, Samsung and Netflix.
+Enlarge This Image
+ 
+Stuart Isett for The New York Times
+Brian Goldfarb, head of cloud platform marketing at Google. He said Google had "the best data centers on the planet."
+Related
+
+Google Concedes That Drive-by Prying Violated Privacy (March 13, 2013)
+ 
+More Tech Coverage
+News from the technology industry, including start-ups, the Internet, enterprise and gadgets.
+On Twitter: @nytimesbits.
+“This is replacing the corporate data center,” said Adam Selipsky, who runs A.W.S. “That shows you how much we have to do. It is a ‘couple of decades’ project.”
+
+Microsoft started Azure to try to hold on to corporate customers that Amazon wants to pry away, and has struggled for years to adapt its business from selling individual software packages to renting software over the cloud.
+
+Google’s cloud offerings originally tied to other Google services. But to reach a broader market, Google has followed Amazon’s lead by offering a cloud platform that works with a much broader range of services, Mr. Staten said.
+
+Google has the weakest corporate ties. It sells businesses cloud-based word processing, storage, and spreadsheet tools, but its operation is still much smaller than Microsoft’s.
+
+It introduced the Google App Engine, for building and hosting Web and mobile apps on Google’s cloud, in 2004. The company says that 250,000 developers use it to run 1 million apps that generate up to 7.5 billion page hits a day.
+
+In June, Google announced Compute Engine, for large-scale computing and data center access, at its annual conference for software developers, in the hope that developers and eventually big companies would use it. But nearly a year later, it is still in a test phase and not open to the public.
+
+People who have used Google’s cloud business say it is inexpensive and capable, but lacks some features of A.W.S. Google has said its cloud services will cost about 50 percent less than competing products.
+
+If Google wants a price war, Mr. Selipsky said, Amazon is ready. “We’ve always been very good at making everything as low-cost as possible,” he said, “then we lower it some more.”

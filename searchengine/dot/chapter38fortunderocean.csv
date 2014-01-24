@@ -1,0 +1,476 @@
+riches,appear,0.01
+riches,acting,0.07
+appear,escaping,0.01
+appear,speedily,0.01
+appear,dropping,0.01
+appear,fear,0.01
+repulse,appropriately,0.08
+repulse,containing,0.01
+repulse,take,0.01
+repulse,choice,0.01
+krishna,appeared,0.08
+krishna,divine qualities,0.01
+appeared,revealing,0.06
+appeared,vishnu,0.06
+appeared,qualities,0.06
+appeared,divine,0.06
+set fire,idea,0.1
+set fire,accordingly,0.01
+set fire,ordered,0.01
+set fire,struck,0.12
+set fire,whole,0.01
+idea,set,0.04
+daughters,broken,0.08
+daughters,sorrow,0.08
+returned,equally,0.07
+returned,undignified,0.09
+returned,words,0.07
+returned,rebuke,0.08
+returned,strong,0.06
+forward,upon,0.05
+upon,come,0.05
+capital city,marched,0.01
+capital city,towards,0.11
+displays,glories,0.07
+displays,sings,0.09
+displays,hero,0.09
+displays,manliness,0.09
+displays,never,0.04
+displays,'\x93a',0.16
+displays,true,0.08
+walked,face,0.06
+show kindness,lfe,0.01
+show kindness,animals,0.11
+show kindness,well,0.01
+show kindness,deeds,0.01
+show kindness,actions,0.01
+show kindness,next,0.08
+show kindness,engaging,0.01
+show kindness,merits,0.01
+show kindness,brahmana,0.01
+animals,good,0.04
+coward,shying,0.01
+coward,saying,0.01
+coward,cowherd,0.01
+coward,away,0.01
+coward,laughed,0.08
+sleep,opened,0.07
+opened,disturbed,0.07
+victor,greater,0.11
+victor,becoming,0.07
+victor,victim,0.09
+victor,hopes,0.08
+victor,mockingly,0.1
+victor,risk,0.08
+uttarayana,gods,0.02
+uttarayana,blessed,0.02
+uttarayana,deep,0.02
+uttarayana,dawn,0.02
+uttarayana,bhishma,0.01
+uttarayana,mountain,0.07
+uttarayana,mahabharatha,0.01
+uttarayana,two,0.01
+uttarayana,bless,0.01
+uttarayana,war,0.01
+uttarayana,body,0.01
+uttarayana,relax,0.01
+uttarayana,respectively,0.13
+uttarayana,auspicious,0.02
+uttarayana,awake,0.01
+uttarayana,worked,0.02
+uttarayana,day,0.02
+uttarayana,divisions,0.02
+uttarayana,dakshinayana,0.01
+uttarayana,person,0.02
+uttarayana,'gods\x92',0.02
+uttarayana,called,0.02
+uttarayana,waited,0.02
+mountain,give,0.02
+sleeping,lying,0.01
+sleeping,mistook,0.01
+sleeping,closed,0.01
+sleeping,pretending,0.08
+intelligently,started,0.04
+intelligently,running,0.05
+intelligently,back,0.05
+challenge,warrior,0.07
+challenge,humiliating,0.09
+challenge,arrogant,0.15
+challenge,accept,0.08
+hung,shame,0.01
+hung,head,0.01
+hung,therefore,0.01
+hung,retreated,0.08
+kala yavana,narada,0.01
+kala yavana,retinue,0.01
+kala yavana,large,0.08
+kala yavana,another,0.01
+kala yavana,earth,0.01
+kala yavana,sent,0.01
+narada,anticipating,0.01
+weapons,golden,0.02
+weapons,death,0.01
+weapons,able,0.01
+weapons,laden,0.02
+weapons,powerful,0.02
+weapons,couple,0.01
+weapons,men,0.01
+weapons,thus,0.01
+weapons,leading,0.02
+weapons,contemplating,0.01
+weapons,golden chariots,0.01
+weapons,wicked,0.01
+weapons,descended,0.14
+weapons,situations,0.02
+weapons,chariots,0.01
+weapons,provoke,0.01
+weapons,create,0.01
+weapons,create situations,0.01
+weapons,sky,0.02
+men,would,0.07
+muchukunda,nara-narayana,0.01
+muchukunda,sees,0.03
+muchukunda,wealth,0.04
+muchukunda,among,0.01
+muchukunda,people,0.01
+muchukunda,mlecchas,0.01
+muchukunda,mathura,0.1
+muchukunda,got,0.02
+muchukunda,north,0.03
+muchukunda,engrossed,0.02
+muchukunda,meditation,0.01
+muchukunda,badri,0.01
+muchukunda,temple,0.01
+muchukunda,distribution,0.01
+muchukunda,destruction,0.02
+weapon,carry,0.14
+weapon,unarmed,0.02
+weapon,decided,0.02
+weapon,since,0.01
+temptation,attitude,0.07
+temptation,appreciated,0.01
+attitude,boons,0.07
+attitude,succumbing,0.06
+thick,distance,0.14
+thick,chased,0.12
+distance,swiftly,0.01
+distance,vanished,0.02
+comforts,provided,0.03
+provided,offer,0.05
+marks,based,0.06
+marks,description,0.07
+marks,form,0.04
+marks,identification,0.07
+marks,conspicuous,0.07
+escaped,concluded,0.1
+escaped,none,0.01
+escaped,was,0.01
+escaped,exit,0.01
+escaped,enter,0.02
+escaped,finding,0.01
+escaped,saw,0.01
+escaped,krishna enter,0.01
+escaped,man,0.01
+vishvakarma,celestial,0.01
+vishvakarma,agreeing,0.01
+vishvakarma,assistance,0.08
+vishvakarma,solution,0.01
+vishvakarma,ideal,0.01
+vishvakarma,architect,0.01
+vishvakarma,plan,0.01
+celestial,took,0.01
+lord,pleased,0.04
+pleased,vision,0.1
+pleased,mightily,0.06
+empty weightless,dexterity,0.12
+empty weightless,lick,0.01
+empty weightless,arrows,0.01
+empty weightless,mace,0.01
+empty weightless,cannot,0.09
+empty weightless,volley,0.01
+empty weightless,dust,0.01
+empty weightless,threaten,0.01
+cannot,us,0.02
+cannot,made,0.03
+road tunnel,connects,0.12
+tunnel,mainland,0.1
+tunnel,hongkong,0.12
+tunnel,kowloon,0.18
+tunnel,road,0.12
+match,boy,0.16
+match,valour,0.01
+match,force,0.01
+match,ridicule,0.04
+match,boomeranged,0.03
+match,chick,0.03
+resonance,core,0.02
+resonance,blew,0.01
+resonance,conch,0.01
+resonance,rattled,0.11
+resonance,enemies,0.03
+thames,places,0.13
+thames,connection,0.1
+thames,either,0.07
+thames,banks,0.18
+thames,river,0.13
+thames,similar,0.13
+army,destroying,0.06
+destroying,purpose,0.08
+destroying,achieved,0.08
+destroying,except,0.04
+enemy,following,0.01
+enemy,dark,0.08
+forest,locate,0.01
+forest,entire,0.01
+forest,anywhere,0.08
+forest,scanned,0.01
+fort,asthi,0.01
+fort,chapter,0.01
+fort,named,0.08
+fort,necessary,0.06
+fort,prapthi,0.01
+fort,daitya,0.01
+fort,kamsa,0.01
+named,38,0.04
+named,ocean,0.06
+named,wives,0.06
+necessary,amenities,0.07
+necessary,planned,0.06
+escape,trick,0.01
+escape,easily,0.08
+easily,making,0.02
+soldiers,led,0.1
+soldiers,suddenly,0.14
+soldiers,big,0.04
+soldiers,jarasandha approach,0.06
+soldiers,battalion,0.11
+soldiers,approach,0.1
+mother earth,time,0.01
+mother earth,incarnation,0.01
+mother earth,lessen,0.01
+mother earth,primary,0.09
+mother earth,evil,0.01
+mother earth,vanquishing,0.01
+mother earth,minded,0.09
+mother earth,burden,0.01
+content,heart,0.08
+cliff,unperceived,0.04
+unperceived,jumped,0.08
+attack,armies,0.02
+attack,handle,0.02
+attack,double,0.01
+attack,pronged,0.02
+attack,difficult,0.15
+kings,subordinate,0.09
+kings,dissuaded,0.01
+kings,recluse,0.01
+makes,one,0.02
+one,year,0.02
+'krishna\x92s',little,0.05
+little,mercy,0.05
+little,act,0.05
+little,esteem,0.04
+balarama,blow,0.01
+balarama,mission,0.07
+balarama,single,0.01
+balarama,carrying,0.01
+balarama,stopped,0.01
+balarama,smashed,0.01
+balarama,contribution,0.01
+blow,important,0.01
+jarasandha,seventeen,0.02
+jarasandha,figure,0.01
+jarasandha,showers,0.01
+jarasandha,battle,0.04
+jarasandha,sounding,0.02
+jarasandha,cut,0.01
+jarasandha,tabors,0.01
+jarasandha,music,0.01
+jarasandha,sorry,0.12
+jarasandha,hidings,0.01
+jarasandha,brothers,0.01
+jarasandha,attacked,0.02
+jarasandha,applaud,0.01
+jarasandha,every,0.01
+jarasandha,flowers,0.02
+jarasandha,defeats,0.01
+jarasandha,times,0.01
+jarasandha,victory,0.01
+jarasandha,persistently,0.02
+celestials,requested,0.01
+celestials,help,0.07
+celestials,oppressed,0.01
+celestials,indra,0.01
+celestials,asuras,0.01
+requested,were,0.01
+water construction,modern,0.01
+water construction,known,0.01
+water construction,find,0.02
+water construction,technique,0.11
+water construction,golden summits,0.01
+water construction,parts,0.01
+water construction,various,0.02
+water construction,dvapara,0.01
+water construction,paradise,0.01
+water construction,connecting,0.01
+water construction,studded,0.02
+water construction,tunnels,0.01
+water construction,road tunnels,0.01
+water construction,yuga,0.01
+water construction,canopies,0.01
+water construction,world,0.02
+water construction,cities,0.01
+water construction,gem,0.02
+water construction,surprising,0.01
+water construction,summits,0.01
+modern,like,0.01
+terrorizing,game,0.07
+terrorizing,happy,0.01
+human,duration,0.11
+human,beings,0.11
+human,difference,0.11
+present birth,had,0.02
+present birth,wash,0.11
+present birth,accrued,0.11
+present birth,yet,0.01
+had,said,0.01
+cage,inescapable,0.01
+cage,ring,0.08
+cage,captured,0.01
+thought,impulsively,0.01
+thought,community,0.07
+lay,anger,0.11
+lay,kicked,0.09
+trumpet,considered,0.06
+trumpet,uncivil,0.07
+trumpet,ones,0.07
+trumpet,blowing,0.07
+fell,lifeless,0.09
+fell,ground,0.01
+yadavas,live,0.05
+live,suggested,0.09
+live,harm,0.1
+live,brother,0.04
+live,sins,0.01
+live,free,0.06
+live,impregnable,0.09
+live,build,0.05
+sins,abode,0.08
+sins,emancipated,0.12
+sins,place,0.04
+sins,cycle,0.13
+kartikeya,faithful,0.01
+kartikeya,'shiva\x92s',0.01
+kartikeya,graciously,0.01
+kartikeya,relieve,0.02
+kartikeya,responsibility,0.09
+responsibility,became,0.03
+whose immaculate power,dynasty,0.13
+whose immaculate power,flash,0.12
+dynasty,whose immaculate,0.12
+dynasty,fiery radiance,0.12
+whose,radiance,0.18
+whose,kalayavana,0.08
+whose,uninhabited,0.13
+whose,creation,0.11
+whose,kill,0.13
+whose,cave,0.08
+whose,ikshvaku,0.18
+whose,name,0.05
+whose,fiery,0.1
+whose,immaculate,0.11
+whose,residing,0.1
+whose,eyes,0.15
+whose,lived,0.01
+whose,power,0.07
+whose,clarify,0.15
+whose,ikshvaku dynasty,0.06
+whose,doubts,0.12
+whose,son,0.22
+whose,illusive,0.08
+whose,kind,0.11
+whose,mandhata,0.09
+whose,could,0.09
+whose,ashes,0.16
+whose,bhagavatam,0.12
+whose,gives,0.11
+whose,reduced,0.18
+could,relatives,0.04
+could,meet,0.05
+kala,conjecture,0.1
+kala,rightly,0.1
+kala,seize,0.08
+kala,reaction,0.09
+kala,spree,0.07
+kala,seeing,0.08
+kshatriya,life,0.01
+kshatriya,hunting,0.01
+kshatriya,killing,0.01
+kshatriya,despite,0.01
+kshatriya,compulsion,0.01
+kshatriya,pious,0.08
+kshatriya,craze,0.01
+life,result,0.01
+deities,bodyguard,0.02
+deities,long,0.01
+deities,connections,0.13
+deities,placed,0.01
+deities,resigned,0.02
+yavana,chasing,0.01
+yavana,hands,0.08
+yavana,impossible,0.01
+yavana,found,0.01
+hands,might,0.02
+magadha,story,0.01
+magadha,pathetic,0.01
+magadha,went,0.06
+magadha,husband,0.01
+story,king,0.01
+story,father,0.01
+story,demise,0.01
+'day\x92s',constitute,0.01
+'day\x92s',six,0.01
+'day\x92s',latter,0.01
+'day\x92s',months,0.02
+'day\x92s',humans,0.01
+'day\x92s',waking,0.01
+'day\x92s',hours,0.09
+'day\x92s',night,0.02
+months,first,0.01
+varuni,caught,0.13
+varuni,chariot,0.1
+varuni,pulled,0.2
+varuni,noose,0.14
+yadus,posed,0.01
+yadus,calamity,0.01
+yadus,see,0.01
+yadus,magnitude,0.09
+yadus,'\x93you',0.01
+yadus,sankarshana,0.01
+yadus,told,0.01
+opted,instead,0.06
+instead,returning,0.09
+instead,offered,0.08
+instead,serve,0.08
+instead,grinding,0.06
+instead,worldly,0.06
+instead,boon,0.07
+city,prompt,0.01
+city,determined,0.01
+city,ascertain,0.01
+city,action,0.01
+city,came,0.01
+city,must,0.09
+must,keep,0.03
+must,promise,0.05
+must,order,0.04
+impression,consumed,0.01
+water tunnel,sure,0.01
+water tunnel,calais,0.01
+water tunnel,vrishnis,0.13
+water tunnel,channel,0.01
+water tunnel,residence,0.02
+water tunnel,taken,0.09
+water tunnel,across,0.01
+water tunnel,transport,0.02
+water,famous,0.08

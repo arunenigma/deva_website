@@ -1,0 +1,511 @@
+silicon valley,loosen,0.04
+silicon valley,stores,0.04
+silicon valley,pointed,0.04
+silicon valley,'\x93what',0.05
+silicon valley,traditional,0.03
+silicon valley,little,0.04
+silicon valley,amazon customer,0.04
+silicon valley,author,0.06
+silicon valley,barnes,0.04
+silicon valley,'noble\x92s',0.04
+silicon valley,better,0.02
+silicon valley,much,0.02
+silicon valley,imperative,0.03
+silicon valley,'it\x92'',0.05
+silicon valley,plundering,0.04
+silicon valley,secondhand stores,0.06
+silicon valley,power,0.03
+silicon valley,'\x93free',0.05
+silicon valley,cultural,0.03
+silicon valley,customer,0.05
+silicon valley,account,0.04
+silicon valley,later,0.03
+silicon valley,companies,0.2
+silicon valley,entertainment,0.04
+silicon valley,value,0.05
+silicon valley,controversy,0.05
+silicon valley,rose,0.04
+silicon valley,believed,0.05
+silicon valley,'can\x92t',0.04
+silicon valley,robert,0.04
+silicon valley,'\x91buy',0.04
+'\x93digital',even,0.01
+'\x93digital',change,0.01
+'\x93digital',mr,0.11
+'\x93but',happens,0.04
+'\x93but',meantime,0.03
+'\x93but','we\x92re',0.19
+'\x93but',slowly,0.03
+'\x93but',hell,0.03
+new york,says,0.13
+new york,shut,0.01
+new york,one,0.01
+new york,exist,0.01
+new york,court,0.01
+new york,copyright,0.01
+new york,nonetheless,0.01
+new york,federal,0.01
+new york,capitol records,0.02
+new york,product,0.01
+new york,infringement,0.01
+new york,capitol records nonetheless,0.01
+new york,records,0.01
+new york,moment,0.01
+new york,preliminary,0.01
+new york,service,0.01
+new york,asked,0.01
+says,capitol,0.09
+says,injunction,0.09
+says,sued,0.01
+says,publisher,0.02
+says,allows,0.11
+sued,supreme,0.05
+sued,cents,0.05
+sued,89,0.06
+sued,'macy\x92s',0.06
+sued,led,0.04
+sued,offered,0.06
+sued,supreme court,0.06
+sued,sale,0.05
+sued,limiting,0.05
+sued,'owner\x92s',0.07
+sued,court ruling,0.04
+sued,ruling,0.05
+sued,landmark,0.05
+supreme court ruling,control,0.08
+amazon,13,0.13
+amazon,secondhand books,0.15
+amazon,did,0.15
+amazon,began,0.16
+amazon,work,0.17
+amazon,years,0.11
+amazon,content,0.19
+amazon,secondhand books 13,0.15
+amazon,produce,0.14
+amazon,devalued,0.16
+amazon,might,0.16
+'apple\x92s',files,0.03
+'apple\x92s',sell,0.03
+'apple\x92s',application outlines,0.03
+'apple\x92s',users,0.03
+'apple\x92s',rather,0.03
+'apple\x92s',transferring,0.03
+'apple\x92s',movies,0.2
+'apple\x92s',allowing,0.03
+'apple\x92s',software,0.03
+'apple\x92s',outlines,0.03
+'apple\x92s',reproducing,0.03
+ossenmacher,'\x93amazon',0.03
+ossenmacher,'redigi\x92s',0.03
+ossenmacher,fearless,0.03
+ossenmacher,well,0.02
+ossenmacher,chief,0.18
+ossenmacher,added,0.02
+ossenmacher,declined,0.03
+ossenmacher,pretty,0.03
+ossenmacher,bodes,0.03
+'pixar\x92s',movie,0.03
+'pixar\x92s',collection,0.17
+'pixar\x92s',soundtrack,0.03
+'pixar\x92s','\x93up\x94',0.03
+'pixar\x92s',example,0.02
+apple spokesman,confirmed,0.03
+apple spokesman,sure,0.02
+apple spokesman,things,0.02
+apple spokesman,make,0.03
+apple spokesman,owned,0.03
+apple spokesman,going,0.03
+apple spokesman,'\x93if',0.2
+apple spokesman,'forward'\x94',0.04
+new york times john,renting,0.03
+new york times john,limited,0.13
+new york times john,tech coverage,0.06
+new york times john,image,0.06
+new york times john,executive,0.06
+new york times john,jodi hilton,0.06
+new york times john,gadgets,0.06
+new york times john,say,0.03
+new york times john,hilton,0.06
+new york times john,news,0.06
+new york times john,80,0.08
+new york times john,technology,0.07
+new york times john,'amazon\x92s',0.06
+new york times john,e-book,0.07
+new york times john,'\x93buy',0.08
+new york times john,heartened,0.07
+new york times john,'retailer\x92s',0.24
+new york times john,jodi,0.06
+new york times john,nytimesbits,0.06
+new york times john,enlarge,0.06
+new york times john,stuck,0.09
+new york times john,chief executive,0.06
+new york times john,reselling,0.05
+new york times john,law,0.01
+new york times john,song,0.22
+new york times john,read,0.07
+new york times john,effect,0.06
+new york times john,diagram,0.05
+new york times john,article,0.07
+new york times john,thoughts,0.07
+new york times john,severely,0.05
+new york times john,accompanying,0.05
+new york times john,industry,0.06
+new york times john,rights,0.06
+new york times john,read all comments,0.07
+new york times john,'you\x92re',0.06
+new york times john,itunes,0.05
+new york times john,start-ups,0.06
+new york times john,button,0.07
+limited,copy,0.01
+limited,rule,0.01
+limited,system,0.01
+limited,start-up,0.01
+limited,permit,0.01
+limited,user,0.01
+limited,whether,0.01
+limited,york,0.01
+copy,people,0.03
+copy,sell itunes,0.03
+copy,new york court,0.03
+copy,meanwhile,0.05
+copy,york court,0.03
+copy,created,0.05
+copy,way,0.03
+copy,poised,0.04
+copy,time,0.04
+copy,breaking,0.04
+songs,gained,0.01
+songs,money,0.01
+songs,spent,0.01
+songs,instance,0.01
+songs,must,0.13
+digital,turmoil,0.04
+digital,center,0.04
+digital,received,0.04
+digital,january,0.07
+digital,material,0.05
+digital,two,0.02
+digital,late,0.03
+digital,forces,0.04
+digital,biggest,0.04
+digital,sorts,0.08
+digital,exchange,0.23
+buy,meant,0.03
+buy,use,0.01
+buy,percent,0.02
+buy,60,0.03
+buy,125,0.02
+buy,members,0.03
+buy,sharp,0.16
+buy,'\x93that\x92s',0.03
+'\x93it',never,0.15
+'\x93it',threatened,0.18
+'\x93it','wasn\x92t',0.19
+'\x93it',simply,0.14
+'\x93it',broader,0.13
+'\x93it',market,0.18
+secondhand digital,rider,0.23
+secondhand digital,desired,0.21
+rider,152,0.01
+rider,amazon spokesman,0.01
+rider,active,0.01
+rider,set,0.01
+rider,'\x93available',0.01
+rider,autobiography,0.01
+rider,'unchained\x94',0.01
+rider,spirit,0.01
+rider,'armstrong\x92s',0.01
+rider,'strayed\x92s',0.01
+rider,lance,0.01
+rider,cheryl,0.01
+rider,customers,0.01
+rider,million,0.01
+rider,objects,0.01
+rider,'movement\x94',0.01
+rider,'vengeance\x94',0.01
+rider,list,0.01
+rider,maintain,0.01
+152,soon,0.02
+redigi,toward,0.04
+redigi,marketplaces,0.03
+redigi,would,0.04
+redigi,degree,0.21
+redigi,permission,0.03
+redigi,approach,0.04
+redigi,clear,0.03
+redigi,hard,0.04
+redigi,'publishers\x92',0.04
+redigi,took,0.03
+redigi,possible,0.04
+redigi,music companies,0.03
+redigi,massachusetts,0.03
+redigi,pains,0.04
+redigi,media,0.05
+redigi,seen,0.04
+redigi,line,0.03
+redigi,bazaar,0.03
+redigi,'industry\x92s',0.04
+redigi,friendly,0.03
+'\x93in',great,0.01
+'\x93in',short,0.1
+'\x93in','it\x92s',0.01
+'couldn\x92t',made,0.02
+'couldn\x92t',easy,0.02
+'couldn\x92t',uproar,0.02
+'couldn\x92t',started,0.02
+'couldn\x92t',caused,0.16
+'couldn\x92t',cd,0.02
+'couldn\x92t',looking,0.02
+'couldn\x92t',clicking,0.03
+'couldn\x92t',2000,0.03
+'couldn\x92t',writers,0.02
+'couldn\x92t','\x93you',0.02
+'couldn\x92t',always,0.02
+'couldn\x92t',selling,0.03
+'couldn\x92t',find,0.02
+single page reprints the,hate,0.25
+single page reprints the,paperback,0.25
+single page reprints the,version,0.22
+single page reprints the,swap meet,0.06
+hate,imagining,0.01
+hate,single page reprints,0.25
+hate,except,0.01
+hate,save,0.02
+hate,2013,0.01
+hate,march,0.01
+hate,music by david streitfeld,0.25
+hate,like,0.01
+hate,reprints,0.02
+hate,google,0.01
+hate,streitfeld,0.01
+hate,away,0.01
+hate,music by david,0.01
+hate,'grey\x94',0.01
+hate,shades,0.01
+hate,single page,0.25
+hate,david,0.01
+hate,published,0.01
+hate,david streitfeld,0.01
+hate,music,0.02
+hate,exactly,0.01
+hate,meet,0.02
+hate,e-books,0.02
+hate,give,0.01
+hate,share,0.02
+hate,single,0.02
+hate,'\x93fifty',0.01
+hate,music by,0.01
+imagining,office,0.01
+imagining,'\x93the',0.02
+imagining,thursday,0.01
+imagining,trademark office,0.01
+imagining,books,0.01
+imagining,internet,0.01
+imagining,days,0.01
+imagining,trademark,0.01
+imagining,bedrock,0.02
+imagining,marketplace,0.01
+imagining,penny,0.01
+imagining,states,0.01
+imagining,united,0.01
+imagining,patent,0.01
+imagining,tech,0.01
+imagining,used,0.01
+imagining,price,0.02
+office,application,0.01
+office,return,0.01
+return,seeking,0.15
+return,immediately,0.16
+return,merits,0.22
+return,reported,0.18
+return,comment,0.17
+return,apple,0.2
+return,message,0.15
+return,insider,0.22
+return,expected,0.17
+return,shortly,0.15
+return,apple insider,0.19
+return,'company\x92s',0.25
+'\x93the',send,0.15
+bedrock,shake,0.17
+bedrock,decade,0.13
+bedrock,industries,0.29
+bedrock,instantly,0.05
+bedrock,giantsteps,0.01
+bedrock,works,0.17
+bedrock,spring,0.01
+bedrock,beleaguered,0.21
+bedrock,since,0.1
+bedrock,rosenblatt,0.01
+bedrock,could,0.14
+bedrock,music industries,0.13
+bedrock,became,0.17
+bedrock,place,0.01
+bedrock,distinction,0.19
+bedrock,consulting,0.01
+bedrock,consulting firm,0.01
+bedrock,electronic,0.25
+bedrock,attack,0.2
+bedrock,dramatic,0.01
+bedrock,courts,0.19
+bedrock,technology consulting,0.01
+bedrock,bill,0.01
+bedrock,firm,0.01
+bedrock,physical,0.2
+bedrock,widely,0.15
+bedrock,bazaars,0.01
+bedrock,ago,0.14
+bedrock,resale,0.01
+instantly,technology consulting firm,0.09
+instantly,cause,0.15
+instantly,allow,0.1
+tech,trade,0.24
+tech,including,0.22
+tech,swap,0.25
+tech,patent envisions,0.14
+tech,item,0.24
+tech,coverage news,0.21
+tech,twitter,0.23
+tech,envisions,0.3
+tech,shared,0.32
+tech,wanted,0.19
+tech,gigantic,0.15
+tech,essentially,0.13
+tech,readers,0.24
+tech,action,0.28
+tech,delete,0.14
+tech,automatically,0.14
+tech,first,0.14
+tech,'\x93data',0.23
+tech,another,0.09
+tech,'customer\x92s',0.24
+tech,describes,0.24
+tech,store,0.28
+tech,'user\x92s',0.18
+tech,read all,0.22
+tech,'readers\x92',0.3
+tech,personalized,0.25
+tech,coverage,0.21
+tech,kept,0.25
+tech,longer,0.15
+tech,enterprise,0.23
+music by david streitfeld,still,0.01
+music by david streitfeld,infinitely,0.01
+music by david streitfeld,facebook,0.05
+music by david streitfeld,constraints,0.01
+music by david streitfeld,comments,0.01
+music by david streitfeld,e-mail,0.01
+music by david streitfeld,print,0.01
+music by david streitfeld,reproduced,0.01
+music by david streitfeld,goods,0.01
+music by david streitfeld,page reprints,0.01
+music by david streitfeld,owner,0.01
+music by david streitfeld,systems,0.01
+music by david streitfeld,possession,0.01
+music by david streitfeld,aim,0.01
+music by david streitfeld,problem,0.01
+music by david streitfeld,worry,0.01
+music by david streitfeld,without,0.01
+music by david streitfeld,solve,0.01
+music by david streitfeld,original,0.01
+$1,case,0.03
+$1,novel,0.03
+$1,less,0.01
+$1,issued,0.03
+$1,allowed,0.03
+$1,crucial,0.02
+$1,warning,0.02
+$1,1908,0.18
+$1,involved,0.04
+levine,move,0.03
+levine,solution,0.03
+levine,sides,0.03
+levine,live,0.02
+levine,usually,0.02
+levine,markets,0.03
+levine,noted,0.18
+consumers,ability,0.26
+consumers,considered,0.18
+consumers,sales,0.21
+consumers,free,0.16
+consumers,licenses,0.21
+consumers,was,0.16
+publishers,earn,0.03
+publishers,transaction,0.03
+publishers,retailer,0.03
+publishers,presumably,0.02
+publishers,shudder,0.04
+publishers,commission,0.03
+publishers,see,0.02
+publishers,lower,0.02
+publishers,surely,0.18
+publishers,prices,0.03
+publishers,went,0.03
+book,week,0.03
+book,everyone,0.02
+book,'\x93who',0.07
+book,full,0.03
+book,want,0.03
+book,loosened,0.03
+book,research,0.03
+book,initiatives,0.04
+book,'\x93until',0.04
+book,brandon,0.04
+book,libraries,0.03
+book,majority,0.03
+book,research libraries,0.03
+book,vast,0.03
+book,vast majority,0.04
+book,buys,0.03
+book,policy,0.03
+book,public,0.19
+book,available,0.08
+book,good,0.01
+book,though,0.03
+book,sucker,0.04
+book,welcome,0.03
+book,possibility,0.03
+book,else,0.03
+book,director,0.03
+book,butler,0.04
+book,'penny'\x94\r',0.04
+book,authors,0.03
+book,association,0.04
+book,restrictions,0.04
+book,acknowledged,0.03
+book,were,0.03
+book,'\x97',0.04
+book,changes,0.01
+'\x93who',thrift,0.01
+thrift,prospect,0.15
+thrift,sees,0.17
+thrift,reduce,0.18
+thrift,long,0.1
+thrift,novelist,0.16
+thrift,seriously,0.13
+thrift,turow,0.2
+thrift,however,0.13
+thrift,immediate,0.14
+thrift,president,0.19
+thrift,'creators\x92',0.19
+thrift,term,0.2
+thrift,peril,0.17
+thrift,guild,0.17
+thrift,shop,0.17
+thrift,scott,0.19
+thrift,incentive,0.17
+libraries,century,0.02
+libraries,whatever,0.02
+libraries,done,0.02
+libraries,secondhand bookstores,0.01
+libraries,lend,0.03
+libraries,bookstores,0.02
+libraries,'\x93without',0.03
+libraries,enshrined,0.03
+libraries,substantial,0.02
+resell,items,0.01
+resell,company,0.11
+resell,either,0.01
+resell,need,0.01
+resell,mean,0.01
+resell,victory,0.01

@@ -1,0 +1,32 @@
+OUR fully automated, meme-conscious information economy might seem a paradise of reason and rationality. But it also has a seamier, surreal side. Just consider how the phrase “Keep Calm and Rape a Lot” came to appear on T-shirts sold on Amazon.co.uk.
+Enlarge This Image
+ 
+Evgeny Morozov
+Readers’ Comments
+Readers shared their thoughts on this article.
+Read All Comments (29) »
+What fool decided to design and sell such clothing? That’s the problem: no one did. They were the unfortunate but revealing result of an algorithm that generates random phrases and slaps them on print-on-demand T-shirts, on the odd chance that someone might buy them.
+
+The T-shirts come from Solid Gold Bomb, a company that tried to parody the phrase “Keep Calm and Carry On,” originally the text of a World War II propaganda poster undergoing a sudden cultural renaissance.
+
+Having found its golden meme, Solid Gold Bomb wrote a computer script to churn out hundreds of T-shirt designs riffing on the phrase — “Keep Calm and Dream On” to “Keep Calm and Dance Off.” In theory, Solid Gold Bomb could be selling billions of them, for they only become “real” once an order is made. It’s the infinite monkey theorem, applied to products: with time, the algorithms would produce a T-shirt someone wants.
+
+Amazon does not vet such items, and Solid Gold Bomb is too solid to care. The advent of 3D printing will create an explosion in such phantom products.
+
+Books got there first: Amazon brims with algorithmically produced “literature.” Philip M. Parker, a marketing professor, must be the most productive, erudite writer in history: Amazon lists him as author of more than 100,000 books. His secret? An algorithm to generate page-turners like “Webster’s Estonian to English Crossword Puzzles” and “The 2007-2012 Outlook for Premoistened Towelettes and Baby Wipes in Greater China” (“The moist towelette is an essential part of the lunchbox, and with the new global economy, this volume is essential,” reads its only review). Some of these books might be useful, but much of algorithmic literature exists for one reason: to swindle unsuspecting customers.
+
+When the former Wired editor Chris Anderson wrote of “the long tail” — the idea that, thanks to the Internet, companies can look beyond blockbusters and make money on obscure products — he never warned us it would be so long and so ugly. Somehow, well-crafted niche products have surrendered to algorithmic schlock.
+
+But while algorithms, 3D printers and Web stores have solved the supply problem, demand-side uncertainties remain. If there are, indeed, psychopaths who want a “Keep Calm and Rape a Lot” T-shirt, how do they find it? Or, rather, how does it find them? Whoever matches existing weirdos with nonexisting weird trinkets could be the next Google.
+
+Or could that dubious honor go to Google itself? Organizing the world’s information was just prelude to a far more important goal: becoming a universal shopping gateway. Last week’s news that it will introduce Shopping Express, a same-day delivery service to contend with Amazon, confirms the obvious: shopping is essential to Google’s future. By analyzing our information streams, it can predict what purchases make us happy, and remind us to keep shopping. It already underpins the Google’s most intriguing smartphone app, Field Trip.
+
+A future of frictionless, continuous shopping fits with Google’s vision for a world where we no longer need to search for anything, since we ourselves are perpetually monitored, with the relevant product or information sent to us based on perceived need. “Autonomous search,” they call it.
+
+Ray Kurzweil, Google’s director of engineering, even wants to give us a “cybernetic friend” that could satisfy our wants before we are aware of them. By monitoring our conversations, e-mails and reading habits, he said, “it may pop up and say: ‘Well, you mentioned two weeks ago you were worried that vitamin B12 isn’t getting into your cells. There was new research just released two seconds ago that speaks to that.’”
+
+To Mr. Kurzweil, who once confessed to taking 250 nutritional supplements a day, this might be a useful service. As for the rest of us, I’m not so sure: according to Google Scholar, 13,000 scientific papers and books that mention vitamin B12 came out last year alone.
+
+While Google promises to quell our information hunger, that hunger will only intensify once a few seemingly innocent factoids are thrown our way. The French philosopher Michel Serres is right: “Neither information nor a drug fix ever gives any happiness when you have it, but will make you miserable when you don’t.”
+
+Google’s “cybernetic friend” will turn us into anxious information machines, our neurosis curable only by endless consumption of its recommendations. Remember Clippy, Microsoft’s annoying office assistant? The “cybernetic friend” is just like that, only on steroids and with a second job as a pushy salesman. “Keep Calm and Buy Less”: now, that’s a T-shirt it’s unlikely to recommend.

@@ -1,0 +1,450 @@
+grain,vendor,0.01
+grain,handful,0.01
+grain,return,0.1
+grain,child,0.01
+grain,consideration,0.01
+expectation,emancipated,0.16
+expectation,contrary,0.09
+let,did,0.04
+did,go,0.02
+serpent,form,0.01
+serpent,open,0.06
+form,commands,0.01
+form,sky,0.01
+form,extending,0.01
+form,carry,0.01
+form,size,0.01
+open,wide,0.04
+dhenuka,hit,0.01
+dhenuka,hard,0.08
+dhenuka,tree,0.01
+dhenuka,palm tree,0.01
+dhenuka,trunk,0.01
+dhenuka,swirl,0.01
+hit,holding,0.01
+hard,vigorous,0.04
+rice grains,slowly,0.08
+slowly,hand,0.06
+slowly,dropped,0.05
+slowly,small,0.04
+slowly,left,0.06
+jelled,adopted,0.08
+hind legs,suddenly,0.04
+suddenly,held,0.06
+suddenly,tail,0.07
+kick,misjudged,0.01
+kick,similar,0.01
+kick,overpower,0.01
+kick,weakling,0.08
+weakling,second,0.05
+weakling,expected,0.06
+rice,call,0.06
+rice,exchange,0.01
+call,response,0.08
+call,took,0.07
+assumed,enormous,0.06
+enormous,body,0.06
+kapittha fruit,closeby,0.13
+kapittha fruit,calf,0.13
+unwise,continue,0.01
+unwise,omens,0.01
+unwise,seem,0.07
+seem,longer,0.04
+seem,favourable,0.05
+thought,passing,0.07
+boys,cowherd,0.01
+boys,became,0.01
+boys,snake,0.02
+boys,playground,0.01
+boys,skin,0.01
+boys,dried,0.11
+snake,later,0.01
+kamsa,spotted,0.01
+kamsa,tending,0.01
+kamsa,kine,0.01
+kamsa,disguised,0.01
+kamsa,vatsa,0.01
+kamsa,together,0.01
+kamsa,vatsasura,0.01
+kamsa,games,0.01
+kamsa,various,0.01
+kamsa,playing,0.1
+kamsa,sent,0.01
+kamsa,happened,0.01
+confident,harm,0.08
+harm,come,0.02
+harm,side,0.04
+ass,heavy,0.07
+heavy,walking,0.04
+heavy,furiously,0.05
+heavy,gait,0.06
+lord venkatesvara the,dedicated,0.02
+lord venkatesvara the,exemplary,0.02
+lord venkatesvara the,slokas,0.02
+lord venkatesvara the,compassion,0.15
+lord venkatesvara the,saint philosopher,0.03
+lord venkatesvara the,philosopher,0.01
+lord venkatesvara the,desika,0.15
+lord venkatesvara the,praise,0.02
+lord venkatesvara the,famous,0.02
+lord venkatesvara the,vedanta,0.02
+lord venkatesvara the,saint,0.02
+lord venkatesvara the,dayashatakam,0.02
+lord venkatesvara the,hundred,0.02
+lord venkatesvara the,quality,0.02
+lord venkatesvara the,endearing,0.02
+lord venkatesvara the,daya,0.02
+herd,informed,0.01
+herd,discreetly,0.01
+herd,brother,0.12
+herd,casually,0.01
+cave,entrance,0.01
+cave,appearing,0.01
+cave,dark,0.01
+cave,lay,0.09
+lay,still,0.04
+pathway,impression,0.01
+pathway,leading,0.01
+pathway,inside,0.01
+pathway,tongue,0.01
+pathway,red,0.08
+pathway,gave,0.01
+death penalty,punishment,0.1
+penalty,impact,0.01
+penalty,death,0.1
+penalty,births,0.1
+penalty,alone,0.06
+penalty,repeated,0.13
+penalty,incorrigible,0.07
+impact,demon,0.12
+impact,fall,0.12
+impact,smashed,0.12
+extinct,vital,0.06
+vital,suffocated,0.06
+vital,life,0.06
+vital,blowing,0.05
+vital,head,0.03
+taken,unawares,0.08
+taken,resistance,0.01
+unawares,could,0.04
+unawares,offer,0.06
+sugarcane juice,prayah,0.14
+sugarcane juice,cowboys,0.03
+sugarcane juice,balarama,0.02
+sugarcane juice,'lord\x92s',0.02
+sugarcane juice,effected,0.04
+sugarcane juice,sharkarayitam,0.02
+sugarcane juice,sugar,0.02
+sugarcane juice,hill,0.02
+sugarcane juice,forest,0.08
+sugarcane juice,yanmoortya sharkarayitam,0.02
+sugarcane juice,associate,0.02
+sugarcane juice,respectively,0.01
+sugarcane juice,flows,0.03
+sugarcane juice,metaphorically,0.01
+sugarcane juice,crystalised,0.03
+sugarcane juice,yanmoortya,0.02
+sugarcane juice,prapadyetam,0.02
+sugarcane juice,ikshusarasravantyeva yanmoortya sharkarayitam,0.01
+sugarcane juice,bow,0.02
+sugarcane juice,converted,0.02
+sugarcane juice,girim,0.02
+sugarcane juice,inspired,0.02
+prayah,ikshusarasravantyeva yanmoortya,0.08
+prayah,daya bhava,0.02
+prayah,tirupati,0.02
+prayah,verse,0.02
+prayah,bows,0.02
+prayah,flowing,0.27
+prayah,power,0.01
+prayah,exquisitely,0.01
+prayah,brings,0.02
+tirupati,bhava,0.12
+expression,curse,0.01
+expression,vishnu,0.01
+expression,resort,0.01
+expression,reason,0.08
+expression,dissatisfaction,0.01
+vraja,suggested,0.01
+vraja,named,0.01
+vraja,inhabitants,0.01
+vraja,moved,0.01
+vraja,live,0.01
+vraja,place,0.02
+vraja,safer,0.1
+vraja,senior,0.01
+vraja,upananda,0.01
+vraja,gopa,0.01
+trinavarta,gems,0.01
+trinavarta,full,0.01
+trinavarta,people,0.01
+trinavarta,danger,0.09
+trinavarta,incident,0.01
+trinavarta,jewels,0.01
+trinavarta,completely,0.01
+trinavarta,anticipating,0.01
+trinavarta,brim,0.01
+trinavarta,were,0.01
+trinavarta,basket,0.01
+trinavarta,precious,0.01
+trinavarta,shaken,0.01
+full,every,0.01
+vakasura,story,0.01
+vakasura,version,0.01
+vakasura,another,0.06
+vakasura,hands,0.01
+vakasura,killed,0.01
+story,next,0.01
+story,fruit,0.01
+next,real,0.04
+next,devour,0.04
+next,waiting,0.05
+next,suspected,0.05
+version,also,0.01
+brindavana,banks,0.01
+brindavana,yamuna,0.01
+brindavana,fascinated,0.09
+brindavana,govardhana,0.01
+'dhenuka\x92s',received,0.01
+'dhenuka\x92s',attacked,0.01
+'dhenuka\x92s',relatives,0.01
+'dhenuka\x92s',treatment,0.01
+'dhenuka\x92s',kinsman,0.1
+spot,dissuade,0.02
+spot,arrive,0.09
+dissuade,late,0.01
+dissuade,little,0.01
+mountain peaks,comparable,0.08
+mountain,peaks,0.09
+mountain,teeth,0.1
+mountain,sharp,0.07
+alert,attack,0.02
+attack,tried,0.06
+reached,gulped,0.01
+reached,whole,0.01
+reached,moment,0.09
+moment,krishna whole,0.05
+entered,grove,0.1
+entered,enjoyed,0.01
+entered,fruits,0.01
+entered,fear,0.01
+grove,long,0.04
+grove,without,0.04
+pastures,green,0.05
+green,congenial,0.06
+green,lush,0.05
+green,especially,0.05
+resuscitated,unharmed,0.04
+unharmed,escaped,0.04
+scorch,fire,0.11
+scorch,began,0.11
+scorch,throat,0.08
+scorch,oppressor,0.08
+scorch,cough,0.09
+poet,stones,0.01
+poet,says,0.01
+poet,description,0.01
+poet,resides,0.01
+poet,beauty,0.12
+poet,metaphoric,0.02
+poet,rocks,0.01
+poet,wonderful,0.02
+poet,sacred,0.02
+poet,usually,0.01
+poet,'it\x92s',0.02
+human capability,glimpse,0.1
+human capability,divinity,0.01
+human capability,deeds,0.1
+deeds,capability,0.08
+deeds,beyond,0.05
+vaka,ferocious,0.09
+vaka,sitting,0.01
+vaka,looking,0.01
+vaka,crane,0.01
+vaka,saw,0.01
+'krishna\x92s',feet,0.01
+'krishna\x92s',magnanimity,0.01
+'krishna\x92s',inadvertently,0.01
+'krishna\x92s',earned,0.01
+'krishna\x92s',impiety,0.01
+'krishna\x92s',washed,0.01
+'krishna\x92s',sins,0.09
+'krishna\x92s',merit,0.01
+'krishna\x92s',aim,0.01
+'krishna\x92s',pardoned,0.01
+'krishna\x92s',merciful,0.01
+'krishna\x92s',touch,0.01
+'krishna\x92s',mere,0.02
+sins,good,0.03
+palm trees,trunks,0.01
+palm trees,vigorously,0.01
+palm trees,please,0.01
+palm trees,ready,0.01
+palm trees,ever,0.09
+palm trees,shook,0.11
+palm,went,0.09
+swirled,force,0.07
+swirled,number,0.01
+swirled,times,0.01
+swirled,round,0.01
+swirled,threw,0.01
+krishna,snapping,0.01
+krishna,kill,0.01
+krishna,twig,0.01
+krishna,way,0.01
+krishna,finding,0.01
+krishna,easily,0.01
+krishna,broke,0.01
+krishna,beak,0.01
+krishna,effective,0.11
+krishna,tear,0.01
+krishna,expecting,0.01
+krishna,time,0.01
+krishna,fixed,0.01
+kill,had,0.01
+effective,boy,0.01
+boy,old,0.1
+boy,delighted,0.09
+boy,year,0.04
+boy,situation,0.1
+boy,handled,0.1
+boy,young,0.05
+boy,surprise,0.09
+boy,five,0.04
+boy,deities,0.08
+boy,walked,0.16
+boy,calamity,0.09
+boy,serious,0.09
+enhancement,natural,0.07
+natural,admiration,0.07
+natural,scenic,0.05
+natural,part,0.04
+natural,stood,0.06
+paralysed,knowing,0.05
+knowing,others,0.05
+miracle,astonished,0.07
+miracle,followed,0.03
+mood,adventurous,0.07
+adventurous,exploration,0.07
+adventurous,boldly,0.03
+adventurous,deceptive,0.05
+guides,anyone,0.01
+guides,grudge,0.01
+guides,reformation,0.1
+follow suit,see,0.01
+follow suit,trap,0.01
+follow suit,fallen,0.1
+follow,pleased,0.07
+venkateshvara,seven,0.01
+venkateshvara,presence,0.01
+venkateshvara,crystalized,0.11
+venkateshvara,descended,0.01
+venkateshvara,lord,0.02
+venkateshvara,earth,0.01
+venkateshvara,idol,0.02
+presence,holy,0.07
+presence,image,0.01
+presence,created,0.01
+presence,residing,0.01
+holy,solidified,0.07
+holy,presented,0.06
+holy,idea,0.06
+holy,lord residing,0.05
+mouth,prevented,0.01
+mouth,air,0.01
+mouth,draught,0.01
+mouth,entering,0.01
+mouth,blocked,0.09
+blocked,even,0.04
+hills,visualizing,0.01
+hills,sugarcane,0.01
+hills,streams,0.11
+entire community,welfare,0.1
+entire,option,0.09
+entire,mind,0.13
+entire,community,0.12
+entire,general,0.1
+entire,consensus,0.09
+entire,ideal,0.09
+cattle,accompanying,0.03
+cattle,grazing,0.07
+cattle,meadows,0.08
+cowherds,tank,0.09
+cowherds,quench,0.11
+cowherds,thirst,0.11
+cowherds,water,0.12
+cowherds,led,0.07
+vantage point,vicinity,0.1
+point,placed,0.05
+point,vantage,0.09
+exhilarated,company,0.02
+exhilarated,play,0.08
+asura dhenuka,angry,0.1
+asura dhenuka,trespassers,0.11
+asura,celestials,0.02
+celestials,victory,0.01
+celestials,acclaimed,0.09
+friends,adoration,0.01
+friends,made,0.01
+friends,evident,0.01
+friends,following,0.08
+friends,identity,0.01
+following,among,0.04
+compassion towards,melts,0.1
+towards,often,0.05
+towards,warmth,0.07
+towards,comes,0.06
+aghasura,sending,0.01
+aghasura,try,0.01
+aghasura,wanted,0.09
+aghasura,putana,0.01
+aghasura,luck,0.01
+legs,assaulted,0.01
+legs,pushed,0.1
+legs,chest,0.01
+legs,kicked,0.01
+legs,hind,0.01
+legs,forcibly,0.01
+legs,ground,0.01
+galore blue,glories,0.11
+glories,heard,0.01
+glories,endeared,0.01
+glories,pranks,0.01
+glories,chapter,0.01
+glories,galore,0.01
+glories,berries,0.01
+heard,woman,0.1
+heard,selling,0.04
+heard,day,0.07
+endeared,folks,0.01
+blue,one,0.04
+blue,27,0.04
+one,taste,0.01
+one,juicy,0.01
+one,deep,0.02
+one,brothers,0.01
+one,expressed,0.01
+one,tell,0.1
+one,desire,0.01
+one,approached,0.01
+one,juicy fruits,0.01
+rohini,yashoda,0.01
+rohini,rites,0.01
+rohini,benedictory rites,0.01
+rohini,evil,0.01
+rohini,benedictory,0.01
+rohini,performed,0.09
+rohini,ward,0.01
+rohini,association,0.01
+benedictory,asuras,0.08
+performed,result,0.05
+'aghasura\x92s',attitude,0.01
+'aghasura\x92s',revengeful,0.01
+'aghasura\x92s',stimulated,0.01
+'aghasura\x92s',doubly,0.01
+'aghasura\x92s',siblings,0.08
+'aghasura\x92s',grieving,0.01
+evoked,tender,0.08
+evoked,devotees,0.14
+evoked,tender feelings,0.06
+evoked,feelings,0.08

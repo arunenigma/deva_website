@@ -1,0 +1,669 @@
+use poor,calling,0.01
+use poor,recorded,0.01
+use poor,video message,0.01
+use poor,competitive,0.01
+use poor,negotiate,0.01
+use poor,video,0.01
+use poor,'merkel\x92s',0.01
+use poor,'\x93a',0.01
+use poor,support,0.01
+use poor,message,0.01
+use poor,strong,0.08
+use poor,conditions,0.01
+use poor,'doesn\x92t',0.01
+video message,working,0.08
+'merkel\x92s',create,0.01
+strong,need,0.03
+bezos,gates,0.01
+bezos,sauer,0.01
+bezos,gathered,0.1
+bezos,prop,0.01
+bezos,hillside,0.01
+bezos,present,0.01
+planned,hiring,0.02
+activists,prospect,0.07
+activists,drawn,0.01
+prospect,telegenic,0.06
+prospect,confrontation,0.07
+prospect,crews,0.07
+prospect,outnumbered,0.07
+mr,'\x93amazon',0.01
+mr,bananas,0.01
+mr,piled,0.01
+mr,table,0.01
+mr,fruit,0.09
+fruit,nearby,0.05
+nearby,reporters,0.06
+nearby,snapped,0.01
+reporters,word,0.07
+reporters,interviews,0.08
+reporters,photographers,0.08
+reporters,officials,0.08
+reporters,way,0.05
+reporters,gave,0.07
+reporters,cafeteria,0.08
+reporters,meeting,0.08
+reporters,came,0.05
+unpleasant work,complained,0.01
+unpleasant work,disagreed,0.01
+unpleasant work,12,0.01
+unpleasant work,kreis,0.01
+unpleasant work,produce,0.01
+unpleasant work,years,0.01
+unpleasant work,newspaper,0.01
+unpleasant work,writing,0.01
+unpleasant work,pressure,0.01
+unpleasant work,anzeiger,0.01
+unpleasant work,former,0.01
+unpleasant work,extreme,0.08
+unpleasant,extreme pressure,0.09
+defuse,soon,0.05
+soon,moment,0.06
+soon,decided,0.05
+relentless focus,expect,0.08
+relentless focus,enables,0.09
+expect,beat competitors,0.08
+expect,beat,0.07
+enables,price,0.06
+enables,focus,0.07
+enables,efficiency,0.07
+enables,competitors,0.07
+enables,often,0.05
+union wage contract,several,0.01
+union wage contract,force,0.11
+union wage contract,online retailing,0.01
+union wage contract,currently,0.01
+union wage contract,american online,0.01
+union wage contract,mix,0.01
+union wage contract,retailing,0.01
+union wage contract,juggernaut,0.01
+union wage contract,curious,0.01
+union wage contract,unfurled,0.01
+union wage contract,nonunion,0.1
+force,nonunion work,0.09
+force,union wage,0.09
+nonunion work,banner,0.09
+'\x93if',comfortable,0.07
+comfortable,job,0.06
+comfortable,definitely,0.02
+germany,executive,0.01
+germany,million workers,0.01
+germany,quarters,0.01
+germany,including,0.01
+germany,democrats,0.01
+germany,broader,0.01
+germany,headlines,0.01
+germany,thursday,0.01
+germany,security workers,0.01
+germany,service industries,0.01
+germany,government,0.01
+germany,food,0.01
+germany,big,0.01
+germany,front,0.01
+germany,represents,0.01
+germany,masquerading,0.01
+germany,team,0.1
+germany,raises,0.01
+germany,colossal,0.11
+germany,national,0.01
+germany,elections,0.01
+germany,afoul,0.01
+germany,chancellor angela,0.02
+germany,legal,0.01
+germany,conservative,0.01
+germany,hersfeld,0.01
+germany,run,0.01
+germany,cutout,0.01
+germany,shows,0.01
+germany,setbacks,0.01
+germany,christian,0.01
+germany,million,0.01
+germany,continuing,0.01
+germany,activist,0.01
+germany,manuel,0.01
+germany,'\x97',0.02
+germany,struggle,0.02
+germany,cardboard,0.01
+germany,gray distribution center,0.01
+germany,preoccupied,0.01
+germany,inspired,0.01
+germany,distribution center,0.01
+germany,jeff,0.02
+germany,american company,0.01
+germany,subcontractor,0.01
+germany,pundits,0.01
+germany,angela,0.01
+germany,array,0.01
+germany,hotels,0.01
+germany,service,0.02
+germany,run afoul,0.01
+germany,question,0.01
+germany,two,0.01
+germany,government coalition,0.01
+germany,transportation,0.01
+germany,gray,0.01
+germany,broadcast,0.01
+germany,furor,0.01
+germany,countless,0.01
+germany,states,0.01
+germany,abandoned,0.01
+germany,showed,0.02
+germany,rights,0.02
+germany,whether,0.01
+germany,food service,0.02
+germany,coalition,0.01
+germany,gray distribution,0.01
+germany,autumn,0.01
+germany,following,0.01
+germany,roughing,0.01
+germany,challenging,0.01
+germany,amazon subcontractor,0.01
+germany,'company\x92s',0.01
+germany,united,0.01
+germany,provide,0.01
+germany,'workers\x92',0.01
+germany,holding,0.01
+germany,chancellor,0.01
+germany,ubiquitous,0.01
+germany,worker rights,0.01
+germany,camera,0.01
+germany,included,0.01
+germany,stood,0.01
+germany,center,0.01
+germany,chief,0.01
+germany,2006,0.02
+germany,laws,0.01
+germany,talk,0.01
+germany,latest,0.01
+quarters,much,0.01
+big,atmosphere,0.01
+big,'\x93everything',0.01
+big,brother,0.11
+big,geared,0.01
+big,criticisms,0.01
+big,amazon distribution,0.01
+big,toward,0.01
+big,prevails,0.01
+big,measured,0.01
+big,calculated,0.01
+brother,one,0.05
+one,unemployment,0.02
+one,target,0.02
+one,heavy,0.02
+one,competitor,0.03
+one,since,0.02
+one,contributed,0.03
+one,business,0.02
+one,american,0.18
+one,introduced,0.04
+one,makes,0.02
+one,least,0.01
+one,flexible,0.04
+one,plunge,0.02
+one,ripe,0.02
+one,helped,0.03
+one,regulations,0.02
+one,drive,0.04
+one,2005,0.03
+unemployment,surrounding,0.06
+unemployment,area,0.06
+unemployment,percent,0.08
+team,industries,0.18
+team,represented,0.01
+represented,resistance,0.07
+represented,abbreviation,0.06
+represented,decade,0.05
+represented,cut,0.07
+represented,ig metall,0.11
+represented,ig metall union,0.09
+represented,name,0.13
+represented,'motor\x92s',0.08
+represented,bonuses,0.01
+represented,opel,0.1
+represented,stem,0.07
+represented,losses,0.07
+represented,united service,0.12
+represented,worker resistance,0.22
+represented,unit,0.06
+represented,union,0.08
+represented,worker,0.13
+represented,vereinte,0.09
+represented,general,0.06
+represented,metall,0.08
+represented,ig,0.06
+represented,struggled,0.06
+represented,metall union,0.09
+represented,stem losses,0.1
+represented,face,0.07
+represented,costs,0.06
+bonuses,stock,0.07
+bonuses,innovative,0.07
+bonuses,group,0.08
+bonuses,system,0.1
+bonuses,policy,0.07
+bonuses,neither,0.06
+bonuses,small,0.05
+bonuses,union contract,0.13
+bonuses,pursue,0.07
+bonuses,compensation,0.07
+bonuses,evident,0.07
+bonuses,organizers,0.09
+bonuses,considers,0.07
+bonuses,engaging,0.06
+bonuses,'amazon\x92s',0.15
+bonuses,confronting,0.06
+bonuses,includes,0.16
+colossal,bad,0.1
+colossal,picker,0.01
+colossal,scowling,0.09
+bad,'\x93people',0.01
+bad,press,0.01
+bad,located,0.01
+bad,defenders,0.01
+bad,junction,0.01
+bad,employers,0.01
+bad,highways,0.01
+bad,thomas,0.01
+bad,reported,0.09
+bad,treated,0.01
+bad,city,0.01
+bad,poor treatment,0.01
+bad,condemned,0.01
+bad,main,0.01
+bad,main employers,0.01
+press,optimally,0.01
+press,central,0.01
+reported,said,0.04
+reported,major,0.04
+reported,also,0.02
+picker,quoted,0.12
+picker,go,0.1
+picker,still,0.04
+picker,employed,0.13
+picker,online,0.11
+picker,amazon,0.13
+picker,large,0.01
+picker,retailers,0.13
+picker,found,0.08
+picker,unable,0.07
+picker,successfully,0.06
+picker,relative,0.07
+picker,insolvent,0.12
+picker,christmas,0.11
+picker,became,0.13
+picker,'\xbb\r'a,0.09
+picker,christmas season,0.17
+picker,neckermann,0.12
+picker,part,0.06
+picker,worked,0.14
+picker,catalog retailers,0.27
+picker,want,0.11
+picker,compete,0.05
+picker,driver,0.08
+picker,demanding,0.12
+picker,catalog,0.13
+picker,taxi driver,0.14
+picker,unreasonably,0.06
+large,holiday,0.06
+large,temporary,0.09
+large,issue,0.07
+large,year-round,0.07
+large,let,0.06
+large,workers,0.08
+large,especially,0.04
+large,temps,0.05
+large,right,0.03
+large,numbers,0.05
+large,nebulous,0.04
+large,status,0.05
+reimann,permanent jobs,0.12
+reimann,permanent,0.11
+reimann,learned,0.09
+learned,official,0.09
+learned,led,0.21
+learned,get,0.09
+learned,flooded,0.09
+learned,productivity requirements,0.08
+learned,requirements,0.11
+learned,falsely,0.09
+learned,say,0.03
+learned,every,0.11
+learned,complaints,0.11
+learned,tough,0.1
+learned,believe,0.06
+learned,lesson,0.11
+learned,heiner,0.11
+visitor passes,trailed,0.01
+visitor passes,issued,0.08
+visitor passes,enclosed,0.01
+visitor passes,tramped,0.01
+visitor passes,friendly,0.07
+passes,trio,0.01
+passes,journalists,0.01
+passes,inside,0.01
+passes,met,0.01
+friendly,bridge,0.06
+friendly,cheerily,0.04
+friendly,metal,0.06
+friendly,across,0.03
+electronics,spy,0.01
+electronics,deemed,0.08
+electronics,monitor,0.01
+electronics,sessions,0.01
+electronics,held,0.01
+electronics,intent,0.01
+electronics,'\x93our',0.01
+electronics,swift,0.01
+deemed,insufficiently,0.06
+deemed,punitive,0.06
+mayor,frames,0.01
+mayor,terms,0.07
+terms,things,0.04
+fluorescent letters,'\x93make',0.09
+fluorescent,letters,0.06
+signatures,box,0.01
+signatures,handed,0.01
+signatures,everyone,0.01
+signatures,receptionists,0.01
+signatures,left,0.08
+elected,rules,0.1
+elected,promises,0.1
+elected,tighten,0.06
+elected,governing,0.12
+'germany\x92s',television,0.01
+'germany\x92s',rush,0.01
+'germany\x92s',holiday rush,0.01
+'germany\x92s',networks,0.01
+'germany\x92s',hired,0.01
+'germany\x92s',treatment,0.01
+'germany\x92s',television networks,0.01
+'germany\x92s',year,0.1
+'germany\x92s',public,0.01
+television,shot,0.08
+television,money,0.05
+television,crowded,0.08
+television,add,0.09
+television,inc,0.08
+television networks,cope,0.09
+inc go,firm,0.01
+inc go,extremists,0.01
+inc go,adolf,0.01
+inc go,figure,0.09
+inc go,deputies,0.01
+inc go,remains,0.01
+inc go,extremist groups,0.01
+inc go,connection,0.01
+inc go,extremist,0.01
+inc go,revered,0.01
+inc go,groups,0.01
+inc go,denied,0.01
+inc go,portfolio,0.01
+inc go,hess,0.01
+inc go,rudolf,0.01
+inc go,'hitler\x92s',0.01
+work climate,commerce,0.01
+work climate,managers,0.01
+work climate,online commerce,0.01
+work climate,'\x93the',0.09
+work climate,lead,0.01
+work climate,intensive,0.01
+work climate,efficiencies,0.01
+work climate,wrote,0.01
+work climate,co-workers,0.01
+work climate,lead managers,0.01
+work climate,'\x93and',0.01
+'\x93the',always,0.03
+'\x93the',well,0.04
+'\x93the',digital,0.04
+percent jobless rate,less,0.01
+percent jobless rate,overall,0.01
+percent jobless rate,'zone\x92s',0.01
+percent jobless rate,euro,0.1
+percent jobless,half,0.09
+hensel european security service,clear,0.1
+hensel european security service,provocative,0.09
+clear,hensel european security,0.1
+security,operations,0.01
+security,worldwide,0.01
+security,made,0.05
+security,fired,0.01
+security,vice,0.01
+security,dave,0.01
+security,telephone,0.01
+security,unhappy,0.01
+security,'\x93we',0.01
+security,president,0.11
+security,seattle,0.02
+security,saturday,0.01
+security,film,0.08
+president,nonetheless,0.04
+germans,expanded,0.01
+germans,kayaks,0.01
+germans,done,0.01
+germans,mp3,0.01
+germans,cleaners,0.01
+germans,staff,0.01
+germans,provided,0.01
+germans,rapidly,0.01
+germans,players,0.01
+germans,had,0.01
+germans,vacuum cleaners,0.01
+germans,everything,0.01
+germans,local,0.04
+germans,generating,0.01
+germans,ability,0.02
+germans,vacuum,0.01
+germans,billion,0.01
+germans,last,0.01
+germans,cornucopia,0.01
+germans,country,0.09
+germans,consumer,0.01
+expanded,books,0.01
+expanded,recent,0.01
+local,would,0.02
+last,finally,0.05
+last,struck,0.01
+last,symbol,0.01
+finally,close,0.08
+finally,impose involuntary,0.07
+finally,management,0.06
+finally,factory,0.06
+finally,layoffs,0.07
+finally,week,0.07
+finally,involuntary,0.05
+finally,serve,0.09
+finally,resent,0.1
+finally,2016,0.1
+finally,impose,0.07
+finally,capitalism,0.1
+finally,turn,0.07
+finally,bochum,0.06
+finally,allow,0.1
+finally,promising,0.04
+finally,truce,0.08
+walmart,among,0.01
+walmart,agents,0.01
+walmart,clothing,0.01
+walmart,neo-nazis,0.1
+walmart,fashionable,0.01
+walmart,relations,0.01
+walmart,crew,0.01
+walmart,better,0.01
+walmart,manhandled,0.01
+walmart,far,0.01
+walmart,wore,0.01
+walmart,did,0.02
+walmart,security agents,0.01
+among,positive,0.05
+positive,citizens,0.06
+positive,employs,0.07
+positive,seems,0.07
+positive,split,0.06
+positive,added,0.07
+positive,opinion,0.06
+positive,feeling,0.05
+'steinbr\xfcck',says,0.02
+gate,buzzer,0.08
+gate,pressed,0.08
+gate,next,0.06
+intercom,demanded,0.01
+intercom,unexpectedly,0.09
+intercom,admitted,0.01
+intercom,voice,0.01
+unexpectedly,asked,0.04
+customer orders,use,0.08
+customer orders,known,0.07
+customer orders,cover miles,0.01
+use,storage racks,0.08
+known,fetched,0.11
+known,course,0.09
+known,individual,0.04
+known,orders,0.09
+known,packed,0.08
+known,monitored,0.08
+known,storage,0.1
+known,workday,0.08
+known,means,0.11
+known,may,0.1
+known,hand,0.07
+known,closely,0.12
+known,foot,0.1
+known,productivity,0.06
+known,racks,0.08
+known,customer,0.08
+known,pickers,0.08
+known,largely,0.1
+known,cover,0.07
+known,miles,0.08
+known,scanners,0.08
+known,software,0.04
+distribution centers,'union\x92s',0.01
+distribution centers,results,0.01
+distribution centers,amazon complex,0.01
+distribution centers,battle,0.01
+distribution centers,online petition,0.02
+distribution centers,permanent workers,0.01
+distribution centers,'retailer\x92s',0.11
+distribution centers,guerrilla,0.01
+distribution centers,demands,0.01
+distribution centers,brief,0.01
+distribution centers,unions,0.01
+distribution centers,complex,0.01
+distribution centers,largest,0.02
+distribution centers,brief bit,0.01
+distribution centers,markets,0.01
+distribution centers,petition,0.02
+distribution centers,outside,0.02
+distribution centers,supporting,0.01
+distribution centers,deliver,0.01
+distribution centers,marched,0.02
+distribution centers,eight,0.01
+distribution centers,guerrilla theater,0.01
+distribution centers,bit,0.02
+distribution centers,theater,0.01
+distribution centers,escalating,0.01
+distribution centers,skirmish,0.01
+operation offers,goods,0.01
+operation offers,varieties,0.09
+operation offers,home,0.01
+operation offers,fondue,0.01
+operation offers,home electronics,0.01
+operation offers,besides,0.01
+operation offers,sets,0.01
+operation offers,products,0.09
+operation offers,assortment,0.01
+varieties,sporting,0.06
+varieties,50,0.05
+work force,pays,0.01
+work force,wages,0.01
+work force,hires,0.01
+work force,season,0.07
+work force,refused,0.01
+work force,foreigners,0.01
+work force,employees,0.01
+work force,doubles,0.01
+pays,additional,0.01
+wages,many,0.01
+many,romania,0.01
+many,bused,0.09
+many,ard,0.01
+many,scarce,0.01
+many,thugs,0.01
+many,financed,0.01
+many,broadcaster,0.01
+many,neo-nazi,0.01
+many,aired,0.01
+many,jobs,0.01
+many,line,0.01
+many,publicly,0.01
+many,countries,0.01
+many,considered,0.01
+many,keep,0.01
+many,implied,0.01
+many,neo-nazi thugs,0.01
+many,documentary,0.01
+bused,even,0.04
+bused,used,0.04
+bused,spain,0.08
+bused,like,0.03
+season,already,0.04
+distribution warehouses,six,0.06
+distribution warehouses,2009,0.01
+six,opened,0.06
+six,calls,0.05
+six,warehouses,0.07
+six,fulfillment,0.07
+intense scrutiny,deservedly,0.08
+intense scrutiny,media,0.07
+deservedly,intense,0.06
+deservedly,feb,0.09
+deservedly,scrutiny,0.06
+deservedly,labor relations,0.09
+deservedly,labor,0.07
+deservedly,lately,0.05
+deservedly,come,0.06
+deservedly,event,0.06
+deservedly,triggering,0.05
+protections,perceived,0.06
+perceived,creating,0.06
+perceived,paid,0.09
+perceived,changes,0.07
+perceived,poorly,0.06
+clark,locally,0.09
+clark,started,0.08
+clark,television documentary,0.12
+clark,company,0.11
+clark,inexpensive,0.1
+clark,countered,0.09
+clark,foreign,0.09
+clark,enough,0.08
+clark,virtually,0.09
+clark,permanent employees,0.14
+clark,were,0.16
+clark,importing,0.09
+clark,portrayed,0.09
+clark,was,0.09
+clark,find,0.09
+sign,stirred,0.14
+sign,people,0.13
+sign,successful,0.06
+sign,controversy,0.14
+sign,cooling,0.07
+sign,ms,0.11
+sign,social,0.15
+sign,peer,0.1
+sign,yet,0.06
+sign,leader,0.13
+become world class,third,0.08
+become world class,delegating,0.09
+become world class,'\x93we\x92ve',0.11
+delegating,world class,0.08
+world class,versus,0.01
+world class,party,0.01
+world class,accommodations,0.01
+world class,got,0.01
+world class,become,0.01
+world class,folks,0.01
+party,managing,0.01
+taxi,driving,0.04
+driving,stressful,0.01
