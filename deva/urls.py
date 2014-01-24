@@ -7,14 +7,13 @@ admin.autodiscover()
 from settings import MEDIA_ROOT, STATIC_ROOT
 
 urlpatterns = patterns('',
-                       url(r'^$', 'searchengine.views.search'),
+                       url(r'^$', 'searchengine.views.search', name='home'),
                        url(r'^add/?$', FileAddView.as_view(), name='file-add'),
-                       #
                        # This view hashes uploads to create directories
                        url(r'^add$', FileAddHashedView.as_view(), name='file-add'),
                        #
                        # This view lists uploaded files
-                       url(r'^$', FileListView.as_view(), name='home'),
+                       url(r'^files/?$', FileListView.as_view(), name='file-view'),
                        url(r'^admin/', include(admin.site.urls)),
                        (r'^static/(?P<path>.*)$',
                         'django.views.static.serve',

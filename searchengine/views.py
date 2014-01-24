@@ -1,17 +1,11 @@
-from django.shortcuts import render, render_to_response
-from searchengine import graph_search
-
-from django.core.urlresolvers import reverse_lazy
 from django.views.generic import ListView, FormView
+from django.core.urlresolvers import reverse_lazy
+from searchengine import graph_search
+from django.shortcuts import render
 from django.contrib import messages
-
-from .models import Document
 from .forms import DocumentForm
+from .models import Document
 import hashlib
-
-
-def index(request):
-    return render(request, 'index.html')
 
 
 def search(request):
@@ -31,7 +25,7 @@ class FileListView(ListView):
     model = Document
     queryset = Document.objects.order_by('-id')
     context_object_name = "files"
-    template_name = "index.html"
+    template_name = "files.html"
     paginate_by = 5
 
 

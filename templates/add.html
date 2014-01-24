@@ -60,7 +60,7 @@ function file_select(jQuery) {
   // Build pretty file selector from parts
   var div_text = $('<div class="small-10 columns">');
   if (has_error){
-    var input_txt = $('<input type="text" placeholder="File name" class="error" /><small class="error">{{ form.f.errors.as_text }}</small>');
+    var input_txt = $("<input type=\"text\" placeholder=\"File name\" class=\"error\" /><small class=\"error\">{{ form.f.errors.as_text }}</small>");
   }
   else{
     var input_txt = $('<input type="text" placeholder="File name" />');
@@ -104,7 +104,7 @@ function file_select(jQuery) {
       }
       else if (key.which === 9){
         // TAB
-        return;
+
       }
       else{
         // All other keys
