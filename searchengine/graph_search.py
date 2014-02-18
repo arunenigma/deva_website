@@ -10,7 +10,6 @@ class GraphSearch(object):
     def __init__(self, dot, cf_map, dot_name):
         self.dag = dot
         self.cf_map = cf_map
-        self.stmts = []
         self.matched_ancestors = []
         self.matched_children = []
         self.results = {}
@@ -28,7 +27,7 @@ class GraphSearch(object):
         max_cf = max(self.cf.values())
         for pair, con_fac in self.cf.iteritems():
             self.cf_normalized[(pair[0], pair[1])] = con_fac / max_cf
-
+        #block out when pdf is created
         """
         dag = pgv.AGraph(directed=False, strict=True)
         d = dag.from_string(self.dag)
@@ -56,32 +55,20 @@ class GraphSearch(object):
         for edge in edges:
             for kw in q_kw:
                 if kw == edge[0]:
-                    """
-                    print 'Match Found: ', edge[0], edge, list(
-                        reversed(self.get_predecessors(d, edge[0]))), d.successors(edge[0])
-                    """
-                    #print
                     ancestors = list(reversed(self.get_predecessors(d, edge[0])))
                     ancestors.append(edge[0])
                     if not ancestors in self.matched_ancestors:
                         self.matched_ancestors.append(ancestors)
-
                     children = list(reversed(self.get_successors(d, edge[0])))
                     children.append(edge[0])
                     if not children in self.matched_children:
                         self.matched_children.append(children)
 
                 elif kw == edge[1]:
-                    """
-                    print 'Match Found: ', edge[1], edge, list(reversed(self.get_predecessors(d, edge[1])))
-                    self.get_successors(d, edge[1])
-                    """
-                    #print
                     ancestors = list(reversed(self.get_predecessors(d, edge[1])))
                     ancestors.append(edge[1])
                     if not ancestors in self.matched_ancestors:
                         self.matched_ancestors.append(ancestors)
-
                     children = list(reversed(self.get_successors(d, edge[1])))
                     children.append(edge[1])
                     if not children in self.matched_children:
@@ -107,28 +94,12 @@ class GraphSearch(object):
             n = d.successors(n)[0]
         return children
 
-    def get_statements(self):
-        for corpus, topics, files in os.walk("./searchengine/corpus"):
-            path = '/'.join(corpus.split('/'))
-            for txt_file in files:
-                if '.txt' in txt_file:
-                    if self.dot_name.split('/')[-1].split('.')[-2] == txt_file.split('.')[-2]:
-                        self.file_name = txt_file
-                        self.stmts = open(path + '/' + txt_file, 'rb').read().split('. ')
-
-    def all_lower_case(self):
-        stmts = []
-        for stmt in self.stmts:
-            stmt = [w.lower() for w in stmt.split(' ')]
-            stmts.append(stmt)
-        self.stmts = stmts
-
-    def match_stmts(self):
-        for stmt in self.stmts:
+    def match_stmts(self, stmts):
+        for stmt in stmts:
             self.family = list(itertools.chain(*(self.matched_ancestors + self.matched_children)))
-
             if self.family:
                 match = set(stmt).intersection(set(self.family))
+                print match
                 query_kw = self.family[-1]
                 if query_kw in match:
                     self.results[tuple(match)] = ' '.join(stmt)
@@ -156,32 +127,68 @@ class GraphSearch(object):
         else:
             pass  # ??
 
-    def collect_results(self):
+    def collect_results(self, file_name):
+        print 'in'
         for match, stmt in self.results.iteritems():
+            print 'match', match, stmt
             related = list((set(self.family)) - set(match))
             con = self.calculate_cf(match)
+            # if not direct edges found, look for edges in related context
             if not con:
-                con = 0.0
+                con = self.related_context_cf(related)
             match = ', '.join(match)
             related = ', '.join(related)
-            return [self.file_name, match, related, stmt, str(round(con * 100, 2)) + ' %']
+            print 'confidence', con
+            if con:
+                return [file_name, match, related, stmt, str(round(con * 100, 2)) + ' %']
+            else:
+                return [file_name, match, related, stmt, str(0.0) + ' %']
+
+    def related_context_cf(self, related_kw):
+        if len(related_kw) > 1:
+            edges = tuple(itertools.combinations(related_kw, 2))
+            conf = 0.0
+            num_edges = 0
+            for edge in edges:
+                if edge in self.cf_normalized.keys():
+                    num_edges += 1
+                    conf += self.cf_normalized.get(edge)
+                elif tuple(reversed(edge)) in self.cf_normalized.keys():
+                    num_edges += 1
+                    conf += self.cf_normalized.get(tuple(reversed(edge)))
+                if num_edges > 0:
+                    return conf / num_edges
+
+
+def get_statements():
+    all_stmts = []
+    for corpus, topics, files in os.walk('./searchengine/corpus'):
+        path = '/'.join(corpus.split('/'))
+        for txt_file in files:
+            if '.txt' in txt_file:
+                stmts = open(path + '/' + txt_file, 'rb').read().split('. ')
+                for stmt in stmts:
+                    stmt = [w.lower() for w in stmt.split(' ')]
+                    all_stmts.append(stmt)
+    print len(all_stmts)
+    return all_stmts
 
 
 def collect(query, coll_results):
+    all_stmts = get_statements()
     for root, dirs, docs in os.walk('./searchengine/dot'):
         for doc in docs:
             if '.dot' in doc:
                 dag_dot = open('./searchengine/dot/' + doc, 'rb').read()
                 cf_file = open('./searchengine/dot/' + doc.replace('.dot', '.csv'), 'rb')
+                file_name = doc.replace('.dot', '.txt')
                 cf = csv.reader(cf_file)
-                search = GraphSearch(dag_dot, cf, './searchengine/dot/' + doc)
+                search = GraphSearch(dag_dot, cf, '../searchengine/dot/' + doc)
                 search.draw_dags()
                 #
                 search.ancestry(query)
-                search.get_statements()
-                search.all_lower_case()
-                search.match_stmts()
-                coll_results.append(search.collect_results())
+                search.match_stmts(all_stmts)
+                coll_results.append(search.collect_results(file_name))
     return coll_results
 
 
